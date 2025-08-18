@@ -5,16 +5,16 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/tts-arxiv-daily.json'
-json_gitpage_path: './docs/tts-arxiv-daily-web.json'
-json_wechat_path: './docs/tts-arxiv-daily-wechat.json'
+json_readme_path: './docs/vg-arxiv-daily.json'
+json_gitpage_path: './docs/vg-arxiv-daily-web.json'
+json_wechat_path: './docs/vg-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "TTS":
-        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
+    "Video Generation":
+        filters: ["Video Generation", "Video Synthesis", "Text-to-Video", "Text2Video", "Video Diffusion", "Video Creation", "Neural Video Generation", "AI Video Generation", "Video GANs", "Video Transformer"]
 
 
