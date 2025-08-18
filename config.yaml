@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 20
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Video Generation":
-        filters: ["Video Generation", "Video Synthesis", "Text-to-Video", "Text2Video", "Video Diffusion", "Video Creation", "Neural Video Generation", "AI Video Generation", "Video GANs", "Video Transformer"]
+        filters: ["Text-to-Video", "Text2Video", "Video Transformer", "Physically Plausible video", "Physics Consistency video", "physics video", "image-to-video", "video diffusion model", "video generation model"]
 
 
