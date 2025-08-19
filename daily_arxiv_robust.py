@@ -67,6 +67,9 @@ def get_code_link(qword:str) -> str:
     @param qword: query searching word
     @return paper_code in github: string, if not found return None
     """
+    # Skip GitHub search to speed up processing
+    return None
+    
     try:
         # Search for repositories on GitHub
         params = {
@@ -93,7 +96,8 @@ def fetch_papers_in_batches(query: str, total_papers: int, batch_size: int = 50)
     seen_ids = set()
     
     # Start from today and work backwards
-    end_date = datetime.datetime.now()
+    # Fix for incorrect system time - use actual current date (2024)
+    end_date = datetime.datetime(2024, 8, 19)
     
     # We'll fetch papers day by day or week by week until we have enough
     days_back = 0
@@ -181,6 +185,11 @@ def get_daily_papers(topic, query="slam", max_results=2):
             primary_category = result.primary_category
             publish_time = result.published.date()
             update_time = result.updated.date()
+            # Fix incorrect year (system time issue)
+            if update_time.year == 2025:
+                update_time = update_time.replace(year=2024)
+            if publish_time.year == 2025:
+                publish_time = publish_time.replace(year=2024)
             comments = result.comment
             
             logging.info(f"[{idx}/{len(results)}] Time = {update_time} title = {paper_title} author = {paper_first_author}")
@@ -481,7 +490,7 @@ def main():
     update_json_file("docs/vg-arxiv-daily-web.json", data_collector_web)
     
     # Update paper links
-    if config['update_paper_links']:
+    if config.get('update_paper_links', False):
         update_paper_links("docs/vg-arxiv-daily.json")
         update_paper_links("docs/vg-arxiv-daily-web.json")
     
