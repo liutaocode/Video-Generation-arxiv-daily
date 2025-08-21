@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py --update_paper_links
           
-      - name: Push new tts-arxiv-daily.md
+      - name: Push new vg-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/tts-arxiv-daily.json docs/tts-arxiv-daily-web.json docs/index.md docs/tts-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update Video Generation Arxiv Papers"
+          files: README.md docs/vg-arxiv-daily.json docs/vg-arxiv-daily-web.json docs/index.md docs/vg-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
