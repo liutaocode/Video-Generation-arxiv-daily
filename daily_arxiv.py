@@ -92,20 +92,23 @@ def get_code_link(qword:str, enable_github_search:bool=False) -> str:
         logging.debug(f"GitHub search failed for {qword}: {e}")
         return None
   
-def get_daily_papers(topic, query="slam", max_results=2, enable_github_search=False):
+def get_daily_papers(topic, query="slam", max_results=2, enable_github_search=False, fetch_all=False):
     """
     @param topic: str
     @param query: str
     @param enable_github_search: bool - whether to search for GitHub links
+    @param fetch_all: bool - whether to fetch all papers (for --all flag)
     @return paper_with_code: dict
     """
     # output 
     content = dict() 
     content_to_web = dict()
     client = arxiv.Client()
+    # If fetch_all is True, set max_results to a very large number to get all papers
+    actual_max = 10000 if fetch_all else max_results
     search = arxiv.Search(
         query = query,
-        max_results = max_results,
+        max_results = actual_max,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
@@ -224,31 +227,48 @@ def update_paper_links(filename):
         with open(filename,"w") as f:
             json.dump(json_data,f)
 
-def update_json_file(filename,data_dict):
+def update_json_file(filename,data_dict,clear_existing=False):
     '''
     daily update json file using data_dict
+    @param clear_existing: bool - whether to clear existing data (for --all flag)
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
+    logging.info(f"update_json_file: Starting update for {filename}, clear_existing={clear_existing}")
+    
+    if clear_existing:
+        # Clear existing data when --all flag is used
+        logging.info(f"Clearing existing data in {filename}")
+        m = {}
+    else:
+        logging.info(f"Reading existing data from {filename}")
+        try:
+            with open(filename,"r") as f:
+                content = f.read()
+                if not content:
+                    m = {}
+                else:
+                    m = json.loads(content)
+        except FileNotFoundError:
+            logging.info(f"File {filename} not found, creating new")
             m = {}
-        else:
-            m = json.loads(content)
             
     json_data = m.copy() 
     
-    # update papers in each keywords         
+    # update papers in each keywords  
+    logging.info(f"Updating {len(data_dict)} topics")       
     for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
+            logging.info(f"Updating keyword '{keyword}' with {len(papers)} papers")
 
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
 
+    logging.info(f"Writing updated data to {filename}")
     with open(filename,"w") as f:
         json.dump(json_data,f)
+    logging.info(f"update_json_file: Completed for {filename}")
     
 def json_to_md(filename,md_filename,
                task = '',
@@ -262,6 +282,8 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
+    logging.info(f"json_to_md: Starting for {filename} -> {md_filename}, task={task}")
+    
     def pretty_math(s:str) -> str:
         ret = ''
         match = re.search(r"\$.*\$", s)
@@ -280,18 +302,22 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
+    logging.info(f"json_to_md: Reading JSON from {filename}")
     with open(filename,"r") as f:
         content = f.read()
         if not content:
             data = {}
         else:
             data = json.loads(content)
+    logging.info(f"json_to_md: Loaded {len(data)} topics from JSON")
 
     # clean README.md if daily already exist else create it
+    logging.info(f"json_to_md: Creating/clearing {md_filename}")
     with open(md_filename,"w+") as f:
         pass
 
     # write data into README.md
+    logging.info(f"json_to_md: Writing content to {md_filename}")
     with open(md_filename,"a+") as f:
 
         if (use_title == True) and (to_web == True):
@@ -338,8 +364,10 @@ def json_to_md(filename,md_filename,
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             # sort papers by date
+            logging.info(f"json_to_md: Sorting {len(day_content)} papers for {keyword}")
             day_content = sort_papers(day_content)
         
+            logging.info(f"json_to_md: Writing papers for {keyword}")
             for _,v in day_content.items():
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
@@ -370,7 +398,8 @@ def json_to_md(filename,md_filename,
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/issues\n\n"))
-                
+    
+    logging.info(f"json_to_md: Completed writing to {md_filename}")            
     logging.info(f"{task} finished")        
 
 def demo(**config):
@@ -385,59 +414,92 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
     enable_github_search = config.get('enable_github_search', False)
+    fetch_all = config.get('fetch_all', False)
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
+        if fetch_all:
+            logging.info(f"FETCH ALL mode: Getting ALL papers (this may take a while)")
+        else:
+            logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results,
-                                            enable_github_search = enable_github_search)
+                                            enable_github_search = enable_github_search,
+                                            fetch_all = fetch_all)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
-        logging.info(f"GET daily papers end")
+        if fetch_all:
+            logging.info(f"FETCH ALL mode: Completed fetching all papers")
+        else:
+            logging.info(f"GET daily papers end")
 
     # 1. update README.md file
     if publish_readme:
+        logging.info(f"Starting README.md update...")
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
+        logging.info(f"JSON file: {json_file}, MD file: {md_file}")
         # update paper links
         if config['update_paper_links']:
+            logging.info(f"Updating paper links in {json_file}")
             update_paper_links(json_file)
         else:    
             # update json data
-            update_json_file(json_file,data_collector)
+            logging.info(f"Updating JSON file {json_file} with {len(data_collector)} topics")
+            update_json_file(json_file,data_collector,clear_existing=fetch_all)
+            logging.info(f"JSON file update completed")
         # json data to markdown
+        logging.info(f"Converting JSON to Markdown: {json_file} -> {md_file}")
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
+        logging.info(f"README.md update completed")
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
+        logging.info(f"Starting GitPage update...")
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
+        logging.info(f"GitPage JSON file: {json_file}, MD file: {md_file}")
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
+            logging.info(f"Updating paper links in {json_file}")
             update_paper_links(json_file)
         else:    
-            update_json_file(json_file,data_collector)
+            logging.info(f"Updating GitPage JSON file with {len(data_collector)} topics")
+            update_json_file(json_file,data_collector,clear_existing=fetch_all)
+            logging.info(f"GitPage JSON file update completed")
+        logging.info(f"Converting GitPage JSON to Markdown")
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
+        logging.info(f"GitPage update completed")
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
+        logging.info(f"Starting WeChat update...")
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
+        logging.info(f"WeChat JSON file: {json_file}, MD file: {md_file}")
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
+            logging.info(f"Updating paper links in {json_file}")
             update_paper_links(json_file)
         else:    
-            update_json_file(json_file, data_collector_web)
+            logging.info(f"Updating WeChat JSON file with {len(data_collector_web)} topics")
+            update_json_file(json_file, data_collector_web,clear_existing=fetch_all)
+            logging.info(f"WeChat JSON file update completed")
+        logging.info(f"Converting WeChat JSON to Markdown")
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
+        logging.info(f"WeChat update completed")
+    
+    logging.info(f"========== ALL UPDATES COMPLETED SUCCESSFULLY ==========")
+    if fetch_all:
+        logging.info(f"FETCH ALL mode: All papers have been fetched and files have been updated")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -446,9 +508,12 @@ if __name__ == "__main__":
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true",help='whether to update paper links etc.')
     parser.add_argument('--enable_github_search', default=False,
-                        action="store_true",help='whether to search for GitHub links')                     
+                        action="store_true",help='whether to search for GitHub links')
+    parser.add_argument('--all', default=False,
+                        action="store_true",help='refresh all records by deleting existing data and re-fetching all papers')                   
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links,
-            'enable_github_search':args.enable_github_search}
+            'enable_github_search':args.enable_github_search,
+            'fetch_all':args.all}
     demo(**config)
