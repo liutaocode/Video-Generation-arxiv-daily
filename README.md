@@ -31,7 +31,7 @@
 |**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
 |**2025-08-13**|**Physical Autoregressive Model for Robotic Manipulation without Action Pretraining**|Zijian Song et.al.|[2508.09822](http://arxiv.org/abs/2508.09822)|null|
 |**2025-08-13**|**GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors**|Xingyilang Yin et.al.|[2508.09667](http://arxiv.org/abs/2508.09667)|null|
-|**2025-08-15**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
+|**2025-08-21**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
 |**2025-08-14**|**From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts**|Yuji Wang et.al.|[2508.09476](http://arxiv.org/abs/2508.09476)|null|
 |**2025-08-12**|**X-UniMotion: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents**|Guoxian Song et.al.|[2508.09383](http://arxiv.org/abs/2508.09383)|null|
 |**2025-08-12**|**Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices**|Ya Zou et.al.|[2508.09136](http://arxiv.org/abs/2508.09136)|null|
