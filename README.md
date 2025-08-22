@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-21**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
+|**2025-08-21**|**VideoEraser: Concept Erasure in Text-to-Video Diffusion Models**|Naen Xu et.al.|[2508.15314](http://arxiv.org/abs/2508.15314)|null|
+|**2025-08-21**|**MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion**|Xuyang Chen et.al.|[2508.15169](http://arxiv.org/abs/2508.15169)|null|
 |**2025-08-20**|**Multiscale Video Transformers for Class Agnostic Segmentation in Autonomous Driving**|Leila Cheshmi et.al.|[2508.14729](http://arxiv.org/abs/2508.14729)|null|
 |**2025-08-19**|**Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing**|Feng-Lin Liu et.al.|[2508.13797](http://arxiv.org/abs/2508.13797)|null|
 |**2025-08-19**|**Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model**|Ruixin Zhang et.al.|[2508.13584](http://arxiv.org/abs/2508.13584)|null|
