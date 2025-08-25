@@ -22,9 +22,9 @@
 |**2025-08-21**|**MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion**|Xuyang Chen et.al.|[2508.15169](http://arxiv.org/abs/2508.15169)|null|
 |**2025-08-20**|**Multiscale Video Transformers for Class Agnostic Segmentation in Autonomous Driving**|Leila Cheshmi et.al.|[2508.14729](http://arxiv.org/abs/2508.14729)|null|
 |**2025-08-19**|**Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing**|Feng-Lin Liu et.al.|[2508.13797](http://arxiv.org/abs/2508.13797)|null|
-|**2025-08-19**|**Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model**|Ruixin Zhang et.al.|[2508.13584](http://arxiv.org/abs/2508.13584)|null|
-|**2025-08-18**|**GaitCrafter: Diffusion Model for Biometric Preserving Gait Synthesis**|Sirshapan Mitra et.al.|[2508.13300](http://arxiv.org/abs/2508.13300)|null|
-|**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/abs/2508.13154)|null|
+|**2025-08-19**|**Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model**|Ruixin Zhang et.al.|[2508.13584](http://arxiv.org/abs/2508.13584)|**[link](https://github.com/qianqiaoai/HCD)**|
+|**2025-08-18**|**GaitCrafter: Diffusion Model for Biometric Preserving Gait Synthesis**|Sirshapan Mitra et.al.|[2508.13300](http://arxiv.org/abs/2508.13300)|**[link](https://github.com/sirsh07/GaitCrafter)**|
+|**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/abs/2508.13154)|**[link](https://github.com/3DTopia/4DNeX)**|
 |**2025-08-18**|**Precise Action-to-Video Generation Through Visual Action Prompts**|Yuang Wang et.al.|[2508.13104](http://arxiv.org/abs/2508.13104)|null|
 |**2025-08-18**|**Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models**|Jianshu Zeng et.al.|[2508.12945](http://arxiv.org/abs/2508.12945)|null|
 |**2025-08-18**|**E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model**|Ronghao Lin et.al.|[2508.12854](http://arxiv.org/abs/2508.12854)|null|
@@ -72,12 +72,12 @@
 |**2025-08-01**|**HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly**|Chang Liu et.al.|[2507.19924](http://arxiv.org/abs/2507.19924)|null|
 |**2025-07-26**|**TransFlow: Motion Knowledge Transfer from Video Diffusion Models to Video Salient Object Detection**|Suhwan Cho et.al.|[2507.19789](http://arxiv.org/abs/2507.19789)|null|
 |**2025-07-25**|**RealisVSR: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution**|Weisong Zhao et.al.|[2507.19138](http://arxiv.org/abs/2507.19138)|null|
-|**2025-07-22**|**Controllable Video Generation: A Survey**|Yue Ma et.al.|[2507.16869](http://arxiv.org/abs/2507.16869)|null|
-|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
+|**2025-07-22**|**Controllable Video Generation: A Survey**|Yue Ma et.al.|[2507.16869](http://arxiv.org/abs/2507.16869)|**[link](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)**|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|**[link](https://github.com/MingtaoGuo/Face-Reenactment-Video-Diffusion)**|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
-|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
+|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|**[link](https://github.com/Vicky0522/TokensGen)**|
 |**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
 |**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
 |**2025-07-17**|**"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**|Jing Gu et.al.|[2507.13428](http://arxiv.org/abs/2507.13428)|null|
