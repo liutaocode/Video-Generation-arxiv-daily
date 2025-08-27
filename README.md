@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding**|Julian Ost et.al.|[2508.19204](http://arxiv.org/abs/2508.19204)|null|
+|**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
 |**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
 |**2025-08-24**|**A Synthetic Dataset for Manometry Recognition in Robotic Applications**|Pedro Antonio Rabelo Saraiva et.al.|[2508.17468](http://arxiv.org/abs/2508.17468)|null|
 |**2025-08-24**|**Multi-Level LVLM Guidance for Untrimmed Video Action Recognition**|Liyang Peng et.al.|[2508.17442](http://arxiv.org/abs/2508.17442)|null|
