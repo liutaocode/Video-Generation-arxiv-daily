@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-01**|**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement**|Jiayi Gao et.al.|[2509.01362](http://arxiv.org/abs/2509.01362)|null|
 |**2025-08-31**|**Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion**|Xueyang Kang et.al.|[2509.00843](http://arxiv.org/abs/2509.00843)|null|
 |**2025-08-30**|**DevilSight: Augmenting Monocular Human Avatar Reconstruction through a Virtual Perspective**|Yushuo Chen et.al.|[2509.00403](http://arxiv.org/abs/2509.00403)|null|
