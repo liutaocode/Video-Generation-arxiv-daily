@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-09**|**LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors**|Wenshuo Gao et.al.|[2509.07484](http://arxiv.org/abs/2509.07484)|null|
 |**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
 |**2025-09-08**|**From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters**|Jie Zhou et.al.|[2509.06573](http://arxiv.org/abs/2509.06573)|null|
