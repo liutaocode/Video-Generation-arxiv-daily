@@ -75,7 +75,7 @@
 |**2025-08-06**|**4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation**|Shuzhou Yang et.al.|[2508.04467](http://arxiv.org/abs/2508.04467)|null|
 |**2025-08-07**|**S $^2$ Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation**|Weilun Feng et.al.|[2508.04016](http://arxiv.org/abs/2508.04016)|null|
 |**2025-08-05**|**VideoGuard: Protecting Video Content from Unauthorized Editing**|Junjie Cao et.al.|[2508.03480](http://arxiv.org/abs/2508.03480)|null|
-|**2025-08-06**|**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2508.03334](http://arxiv.org/abs/2508.03334)|null|
+|**2025-08-06**|**Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2508.03334](http://arxiv.org/abs/2508.03334)|**[link](https://github.com/Tele-AI/MMPL)**|
 |**2025-08-05**|**V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models**|Jisoo Kim et.al.|[2508.03254](http://arxiv.org/abs/2508.03254)|null|
 |**2025-08-13**|**MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention**|Qi Xie et.al.|[2508.03034](http://arxiv.org/abs/2508.03034)|null|
 |**2025-08-04**|**DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework**|Tongchun Zuo et.al.|[2508.02807](http://arxiv.org/abs/2508.02807)|null|
@@ -131,10 +131,10 @@
 |**2025-07-01**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
-|**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|
+|**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|**[link](https://github.com/GVCLab/FairyGen)**|
 |**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946](http://arxiv.org/abs/2506.20946)|null|
 |**2025-06-30**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
-|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
+|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|**[link](https://github.com/USTCPCS/CVPR2018_attention)**|
 |**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
