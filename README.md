@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-15**|**MVQA-68K: A Multi-dimensional and Causally-annotated Dataset with Quality Interpretability for Video Assessment**|Yanyun Pu et.al.|[2509.11589](http://arxiv.org/abs/2509.11589)|null|
+|**2025-09-14**|**PanoLora: Bridging Perspective and Panoramic Video Generation with LoRA Adaptation**|Zeyu Dong et.al.|[2509.11092](http://arxiv.org/abs/2509.11092)|null|
+|**2025-09-12**|**T2Bs: Text-to-Character Blendshapes via Video Generation**|Jiahao Luo et.al.|[2509.10678](http://arxiv.org/abs/2509.10678)|null|
 |**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-09**|**LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors**|Wenshuo Gao et.al.|[2509.07484](http://arxiv.org/abs/2509.07484)|null|
 |**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
