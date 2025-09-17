@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-15**|**MVQA-68K: A Multi-dimensional and Causally-annotated Dataset with Quality Interpretability for Video Assessment**|Yanyun Pu et.al.|[2509.11589](http://arxiv.org/abs/2509.11589)|null|
 |**2025-09-14**|**PanoLora: Bridging Perspective and Panoramic Video Generation with LoRA Adaptation**|Zeyu Dong et.al.|[2509.11092](http://arxiv.org/abs/2509.11092)|null|
 |**2025-09-12**|**T2Bs: Text-to-Character Blendshapes via Video Generation**|Jiahao Luo et.al.|[2509.10678](http://arxiv.org/abs/2509.10678)|null|
