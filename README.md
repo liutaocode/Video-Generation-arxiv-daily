@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
+|**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
 |**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|null|
 |**2025-09-20**|**FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers**|Sankeerth Durvasula et.al.|[2509.16518](http://arxiv.org/abs/2509.16518)|null|
 |**2025-09-20**|**RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation**|Tianyi Yan et.al.|[2509.16500](http://arxiv.org/abs/2509.16500)|null|
