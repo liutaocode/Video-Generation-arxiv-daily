@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
+|**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
+|**2025-09-24**|**Anatomically Constrained Transformers for Cardiac Amyloidosis Classification**|Alexander Thorley et.al.|[2509.19691](http://arxiv.org/abs/2509.19691)|null|
+|**2025-09-24**|**From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition**|Ling Lo et.al.|[2509.19690](http://arxiv.org/abs/2509.19690)|null|
 |**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
 |**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
 |**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|null|
