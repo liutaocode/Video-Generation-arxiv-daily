@@ -36,8 +36,8 @@
 |**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-09**|**LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors**|Wenshuo Gao et.al.|[2509.07484](http://arxiv.org/abs/2509.07484)|null|
 |**2025-09-09**|**ANYPORTAL: Zero-Shot Consistent Video Background Replacement**|Wenshuo Gao et.al.|[2509.07472](http://arxiv.org/abs/2509.07472)|null|
-|**2025-09-08**|**From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters**|Jie Zhou et.al.|[2509.06573](http://arxiv.org/abs/2509.06573)|null|
-|**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
+|**2025-09-08**|**From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters**|Jie Zhou et.al.|[2509.06573](http://arxiv.org/abs/2509.06573)|**[link](https://github.com/LordLiang/From-Rigging-to-Waving)**|
+|**2025-09-16**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|**[link](https://github.com/Fredreic1849/BranchGRPO)**|
 |**2025-08-29**|**ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory**|Ying Li et.al.|[2509.05314](http://arxiv.org/abs/2509.05314)|null|
 |**2025-09-04**|**Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview**|Jun-Kun Chen et.al.|[2509.04450](http://arxiv.org/abs/2509.04450)|null|
 |**2025-09-01**|**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement**|Jiayi Gao et.al.|[2509.01362](http://arxiv.org/abs/2509.01362)|null|
@@ -62,8 +62,8 @@
 |**2025-08-18**|**4DNeX: Feed-Forward 4D Generative Modeling Made Easy**|Zhaoxi Chen et.al.|[2508.13154](http://arxiv.org/abs/2508.13154)|**[link](https://github.com/3DTopia/4DNeX)**|
 |**2025-08-18**|**Precise Action-to-Video Generation Through Visual Action Prompts**|Yuang Wang et.al.|[2508.13104](http://arxiv.org/abs/2508.13104)|null|
 |**2025-08-18**|**Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models**|Jianshu Zeng et.al.|[2508.12945](http://arxiv.org/abs/2508.12945)|null|
-|**2025-08-18**|**E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model**|Ronghao Lin et.al.|[2508.12854](http://arxiv.org/abs/2508.12854)|null|
-|**2025-08-15**|**CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models**|Xiaoxue Wu et.al.|[2508.11484](http://arxiv.org/abs/2508.11484)|null|
+|**2025-08-18**|**E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model**|Ronghao Lin et.al.|[2508.12854](http://arxiv.org/abs/2508.12854)|**[link](https://github.com/RH-Lin/E3RG)**|
+|**2025-08-15**|**CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models**|Xiaoxue Wu et.al.|[2508.11484](http://arxiv.org/abs/2508.11484)|**[link](https://github.com/UknowSth/CineTrans)**|
 |**2025-08-15**|**Versatile Video Tokenization with Generative 2D Gaussian Splatting**|Zhenghao Chen et.al.|[2508.11183](http://arxiv.org/abs/2508.11183)|null|
 |**2025-08-14**|**GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning**|Kelin Yu et.al.|[2508.11049](http://arxiv.org/abs/2508.11049)|null|
 |**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
@@ -118,7 +118,7 @@
 |**2025-07-17**|**"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**|Jing Gu et.al.|[2507.13428](http://arxiv.org/abs/2507.13428)|null|
 |**2025-07-27**|**Vidar: Embodied Video Diffusion Model for Generalist Bimanual Manipulation**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
 |**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
-|**2025-07-29**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
+|**2025-07-29**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|**[link](https://github.com/AMAP-ML/NarrLV)**|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-30**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-09**|**A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**|Mohamed Elmoghany et.al.|[2507.07202](http://arxiv.org/abs/2507.07202)|null|
