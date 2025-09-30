@@ -17,15 +17,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer**|Mohsen Ghafoorian et.al.|[2509.24899](http://arxiv.org/abs/2509.24899)|null|
+|**2025-09-29**|**CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers**|Kai Liu et.al.|[2509.24416](http://arxiv.org/abs/2509.24416)|null|
+|**2025-09-29**|**NeRV-Diffusion: Diffuse Implicit Neural Representations for Video Synthesis**|Yixuan Ren et.al.|[2509.24353](http://arxiv.org/abs/2509.24353)|null|
+|**2025-09-28**|**ReLumix: Extending Image Relighting to Video via Video Diffusion Models**|Lezhong Wang et.al.|[2509.23769](http://arxiv.org/abs/2509.23769)|null|
+|**2025-09-28**|**VividFace: High-Quality and Efficient One-Step Diffusion For Video Face Enhancement**|Shulian Zhang et.al.|[2509.23584](http://arxiv.org/abs/2509.23584)|null|
+|**2025-09-27**|**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**|Ziyue Zhu et.al.|[2509.23402](http://arxiv.org/abs/2509.23402)|null|
 |**2025-09-26**|**Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs**|Xingyu Fu et.al.|[2509.22646](http://arxiv.org/abs/2509.22646)|null|
 |**2025-09-26**|**EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation**|Yuan Xu et.al.|[2509.22578](http://arxiv.org/abs/2509.22578)|null|
 |**2025-09-26**|**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**|Zhehao Dong et.al.|[2509.22407](http://arxiv.org/abs/2509.22407)|null|
 |**2025-09-26**|**From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment**|Ke Ye et.al.|[2509.22205](http://arxiv.org/abs/2509.22205)|null|
-|**2025-09-26**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Haoyun Li et.al.|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
+|**2025-09-29**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Haoyun Li et.al.|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
 |**2025-09-26**|**Drag4D: Align Your Motion with Text-Driven 3D Scene Generation**|Minjun Kang et.al.|[2509.21888](http://arxiv.org/abs/2509.21888)|null|
-|**2025-09-26**|**DiTraj: training-free trajectory control for video diffusion transformer**|Cheng Lei et.al.|[2509.21839](http://arxiv.org/abs/2509.21839)|null|
+|**2025-09-29**|**DiTraj: training-free trajectory control for video diffusion transformer**|Cheng Lei et.al.|[2509.21839](http://arxiv.org/abs/2509.21839)|null|
 |**2025-09-26**|**UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models**|Lan Chen et.al.|[2509.21760](http://arxiv.org/abs/2509.21760)|null|
-|**2025-09-25**|**ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering**|Weikai Lin et.al.|[2509.21541](http://arxiv.org/abs/2509.21541)|null|
+|**2025-09-29**|**ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering**|Weikai Lin et.al.|[2509.21541](http://arxiv.org/abs/2509.21541)|null|
 |**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/abs/2509.21309)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
