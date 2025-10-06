@@ -41,15 +41,15 @@
 |**2025-09-26**|**From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment**|Ke Ye et.al.|[2509.22205](http://arxiv.org/abs/2509.22205)|null|
 |**2025-09-29**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Haoyun Li et.al.|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
 |**2025-09-26**|**Drag4D: Align Your Motion with Text-Driven 3D Scene Generation**|Minjun Kang et.al.|[2509.21888](http://arxiv.org/abs/2509.21888)|null|
-|**2025-09-29**|**DiTraj: training-free trajectory control for video diffusion transformer**|Cheng Lei et.al.|[2509.21839](http://arxiv.org/abs/2509.21839)|null|
-|**2025-09-26**|**UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models**|Lan Chen et.al.|[2509.21760](http://arxiv.org/abs/2509.21760)|null|
+|**2025-09-29**|**DiTraj: training-free trajectory control for video diffusion transformer**|Cheng Lei et.al.|[2509.21839](http://arxiv.org/abs/2509.21839)|**[link](https://github.com/xduzhangjiayu/DiTraj)**|
+|**2025-09-26**|**UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models**|Lan Chen et.al.|[2509.21760](http://arxiv.org/abs/2509.21760)|**[link](https://github.com/CUC-MIPG/UniVid)**|
 |**2025-09-29**|**ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering**|Weikai Lin et.al.|[2509.21541](http://arxiv.org/abs/2509.21541)|null|
 |**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/abs/2509.21309)|null|
-|**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
+|**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|**[link](https://github.com/cwchenwang/physctrl)**|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
 |**2025-09-24**|**Anatomically Constrained Transformers for Cardiac Amyloidosis Classification**|Alexander Thorley et.al.|[2509.19691](http://arxiv.org/abs/2509.19691)|null|
 |**2025-09-24**|**From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition**|Ling Lo et.al.|[2509.19690](http://arxiv.org/abs/2509.19690)|null|
-|**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
+|**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|**[link](https://github.com/nv-tlabs/lyra)**|
 |**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
 |**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|null|
 |**2025-09-20**|**FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers**|Sankeerth Durvasula et.al.|[2509.16518](http://arxiv.org/abs/2509.16518)|null|
@@ -150,11 +150,11 @@
 |**2025-07-30**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-09**|**A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**|Mohamed Elmoghany et.al.|[2507.07202](http://arxiv.org/abs/2507.07202)|null|
 |**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
-|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|**[link](https://github.com/MPI-Lab/Democratizing-CSG)**|
 |**2025-07-24**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-08**|**LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion**|Yisu Zhang et.al.|[2507.05678](http://arxiv.org/abs/2507.05678)|null|
-|**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|null|
+|**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|**[link](https://github.com/FreedomIntelligence/MedGen)**|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
 |**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
@@ -167,13 +167,13 @@
 |**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-07-01**|**Populate-A-Scene: Affordance-Aware Human Video Generation**|Mengyi Shan et.al.|[2507.00334](http://arxiv.org/abs/2507.00334)|null|
 |**2025-06-30**|**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**|Yu Lu et.al.|[2507.00162](http://arxiv.org/abs/2507.00162)|null|
-|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
-|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|**[link](https://github.com/Kevin-thu/Epona)**|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|**[link](https://github.com/KwaiVGI/VMoBA)**|
 |**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
 |**2025-06-29**|**Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**|Lei-lei Li et.al.|[2506.23263](http://arxiv.org/abs/2506.23263)|null|
 |**2025-07-01**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
-|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
-|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|**[link](https://github.com/yuhaoliu7456/Shape-for-Motion)**|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|**[link](https://github.com/crepuscularlight/roboenvision)**|
 |**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|**[link](https://github.com/GVCLab/FairyGen)**|
 |**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946](http://arxiv.org/abs/2506.20946)|null|
 |**2025-06-30**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
