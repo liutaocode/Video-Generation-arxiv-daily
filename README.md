@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Welcome to Video Generation papers! 
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2025-10-02**|**Learning to Generate Object Interactions with Physics-Guided Video Diffusion**|David Romero et.al.|[2510.02284](http://arxiv.org/abs/2510.02284)|null|
 |**2025-10-02**|**TempoControl: Temporal Attention Guidance for Text-to-Video Models**|Shira Schiber et.al.|[2510.02226](http://arxiv.org/abs/2510.02226)|null|
-|**2025-10-02**|**UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction**|Jin Cao et.al.|[2510.01669](http://arxiv.org/abs/2510.01669)|null|
+|**2025-10-03**|**UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction**|Jin Cao et.al.|[2510.01669](http://arxiv.org/abs/2510.01669)|null|
 |**2025-10-01**|**IMAGEdit: Let Any Subject Transform**|Fei Shen et.al.|[2510.01186](http://arxiv.org/abs/2510.01186)|null|
 |**2025-10-01**|**Can World Models Benefit VLMs for World Dynamics?**|Kevin Zhang et.al.|[2510.00855](http://arxiv.org/abs/2510.00855)|null|
 |**2025-10-01**|**From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation**|Fan Yang et.al.|[2510.00806](http://arxiv.org/abs/2510.00806)|null|
@@ -183,7 +183,7 @@
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
