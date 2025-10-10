@@ -17,6 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos**|Hongyu Li et.al.|[2510.08568](http://arxiv.org/abs/2510.08568)|null|
+|**2025-10-09**|**MultiCOIN: Multi-Modal COntrollable Video INbetweening**|Maham Tanveer et.al.|[2510.08561](http://arxiv.org/abs/2510.08561)|null|
+|**2025-10-09**|**VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning**|Minghong Cai et.al.|[2510.08555](http://arxiv.org/abs/2510.08555)|null|
+|**2025-10-09**|**Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency**|Kaiwen Zheng et.al.|[2510.08431](http://arxiv.org/abs/2510.08431)|null|
+|**2025-10-09**|**LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation**|Yushi Huang et.al.|[2510.08318](http://arxiv.org/abs/2510.08318)|null|
+|**2025-10-09**|**SViM3D: Stable Video Material Diffusion for Single Image 3D Generation**|Andreas Engelhardt et.al.|[2510.08271](http://arxiv.org/abs/2510.08271)|null|
+|**2025-10-09**|**UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution**|Shian Du et.al.|[2510.08143](http://arxiv.org/abs/2510.08143)|null|
+|**2025-10-09**|**Real-Time Motion-Controllable Autoregressive Video Diffusion**|Kesen Zhao et.al.|[2510.08131](http://arxiv.org/abs/2510.08131)|null|
+|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
+|**2025-10-09**|**Controllable Video Synthesis via Variational Inference**|Haoyi Duan et.al.|[2510.07670](http://arxiv.org/abs/2510.07670)|null|
+|**2025-10-09**|**Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection**|Yanjie Pan et.al.|[2510.07654](http://arxiv.org/abs/2510.07654)|null|
+|**2025-10-08**|**TRAVL: A Recipe for Making Video-Language Models Better Judges of Physics Implausibility**|Saman Motamed et.al.|[2510.07550](http://arxiv.org/abs/2510.07550)|null|
+|**2025-10-07**|**Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model**|Danush Kumar Venkatesh et.al.|[2510.07345](http://arxiv.org/abs/2510.07345)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian et.al.|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
 |**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](http://arxiv.org/abs/2510.07190)|null|
 |**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
