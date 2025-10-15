@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars**|Felix Taubner et.al.|[2510.12785](http://arxiv.org/abs/2510.12785)|null|
+|**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
 |**2025-10-13**|**Point Prompting: Counterfactual Tracking with Video Diffusion Models**|Ayush Shrivastava et.al.|[2510.11715](http://arxiv.org/abs/2510.11715)|null|
 |**2025-10-13**|**LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference**|Jianhao Yuan et.al.|[2510.11512](http://arxiv.org/abs/2510.11512)|null|
 |**2025-10-12**|**AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4D Scenes**|Yu Li et.al.|[2510.10670](http://arxiv.org/abs/2510.10670)|null|
