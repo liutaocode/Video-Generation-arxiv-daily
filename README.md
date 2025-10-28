@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**Yesnt: Are Diffusion Relighting Models Ready for Capture Stage Compositing? A Hybrid Alternative to Bridge the Gap**|Elisabeth Jüttner et.al.|[2510.23494](http://arxiv.org/abs/2510.23494)|null|
+|**2025-10-25**|**LongCat-Video Technical Report**|Meituan LongCat Team et.al.|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
+|**2025-10-22**|**Improving the Physics of Video Generation with VJEPA-2 Reward Signal**|Jianhao Yuan et.al.|[2510.21840](http://arxiv.org/abs/2510.21840)|null|
 |**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](http://arxiv.org/abs/2510.21615)|null|
 |**2025-10-23**|**AutoScape: Geometry-Consistent Long-Horizon Scene Generation**|Jiacheng Chen et.al.|[2510.20726](http://arxiv.org/abs/2510.20726)|null|
 |**2025-10-23**|**Evaluating Video Models as Simulators of Multi-Person Pedestrian Trajectories**|Aaron Appelle et.al.|[2510.20182](http://arxiv.org/abs/2510.20182)|null|
