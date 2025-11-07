@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
+|**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/abs/2511.04317)|null|
+|**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
 |**2025-11-03**|**Towards One-step Causal Video Generation via Adversarial Self-Distillation**|Yongqi Yang et.al.|[2511.01419](http://arxiv.org/abs/2511.01419)|null|
