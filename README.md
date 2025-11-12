@@ -24,7 +24,7 @@
 |**2025-11-08**|**Neodragon: Mobile Video Generation using Diffusion Transformer**|Animesh Karnewar et.al.|[2511.06055](http://arxiv.org/abs/2511.06055)|null|
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
 |**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/abs/2511.04317)|null|
-|**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
+|**2025-11-07**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
 |**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
 |**2025-11-03**|**Towards One-step Causal Video Generation via Adversarial Self-Distillation**|Yongqi Yang et.al.|[2511.01419](http://arxiv.org/abs/2511.01419)|null|
@@ -44,6 +44,7 @@
 |**2025-10-28**|**LongCat-Video Technical Report**|Meituan LongCat Team et.al.|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
 |**2025-10-22**|**Improving the Physics of Video Generation with VJEPA-2 Reward Signal**|Jianhao Yuan et.al.|[2510.21840](http://arxiv.org/abs/2510.21840)|null|
 |**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](http://arxiv.org/abs/2510.21615)|**[link](https://github.com/KupynOrest/epipolar-dpo)**|
+|**2025-10-27**|**Video-As-Prompt: Unified Semantic Control for Video Generation**|Yuxuan Bian et.al.|[2510.20888](http://arxiv.org/abs/2510.20888)|null|
 |**2025-10-23**|**AutoScape: Geometry-Consistent Long-Horizon Scene Generation**|Jiacheng Chen et.al.|[2510.20726](http://arxiv.org/abs/2510.20726)|null|
 |**2025-10-23**|**Evaluating Video Models as Simulators of Multi-Person Pedestrian Trajectories**|Aaron Appelle et.al.|[2510.20182](http://arxiv.org/abs/2510.20182)|null|
 |**2025-10-23**|**Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning**|Takehiro Aoshima et.al.|[2510.19193](http://arxiv.org/abs/2510.19193)|null|
@@ -63,7 +64,7 @@
 |**2025-10-14**|**MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars**|Felix Taubner et.al.|[2510.12785](http://arxiv.org/abs/2510.12785)|null|
 |**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
 |**2025-10-13**|**Point Prompting: Counterfactual Tracking with Video Diffusion Models**|Ayush Shrivastava et.al.|[2510.11715](http://arxiv.org/abs/2510.11715)|null|
-|**2025-10-13**|**LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference**|Jianhao Yuan et.al.|[2510.11512](http://arxiv.org/abs/2510.11512)|null|
+|**2025-10-14**|**LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference**|Jianhao Yuan et.al.|[2510.11512](http://arxiv.org/abs/2510.11512)|null|
 |**2025-10-12**|**AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4D Scenes**|Yu Li et.al.|[2510.10670](http://arxiv.org/abs/2510.10670)|null|
 |**2025-10-13**|**Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization**|Shuo Xing et.al.|[2510.08789](http://arxiv.org/abs/2510.08789)|null|
 |**2025-10-09**|**NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos**|Hongyu Li et.al.|[2510.08568](http://arxiv.org/abs/2510.08568)|null|
@@ -103,6 +104,7 @@
 |**2025-09-30**|**PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution**|Shian Du et.al.|[2509.26025](http://arxiv.org/abs/2509.26025)|null|
 |**2025-09-29**|**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**|Junyu Chen et.al.|[2509.25182](http://arxiv.org/abs/2509.25182)|null|
 |**2025-09-29**|**Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer**|Mohsen Ghafoorian et.al.|[2509.24899](http://arxiv.org/abs/2509.24899)|null|
+|**2025-09-30**|**Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility**|Yutong Hao et.al.|[2509.24702](http://arxiv.org/abs/2509.24702)|null|
 |**2025-09-29**|**CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers**|Kai Liu et.al.|[2509.24416](http://arxiv.org/abs/2509.24416)|null|
 |**2025-09-29**|**NeRV-Diffusion: Diffuse Implicit Neural Representations for Video Synthesis**|Yixuan Ren et.al.|[2509.24353](http://arxiv.org/abs/2509.24353)|null|
 |**2025-09-28**|**ReLumix: Extending Image Relighting to Video via Video Diffusion Models**|Lezhong Wang et.al.|[2509.23769](http://arxiv.org/abs/2509.23769)|null|
@@ -166,7 +168,7 @@
 |**2025-08-15**|**CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models**|Xiaoxue Wu et.al.|[2508.11484](http://arxiv.org/abs/2508.11484)|**[link](https://github.com/UknowSth/CineTrans)**|
 |**2025-08-15**|**Versatile Video Tokenization with Generative 2D Gaussian Splatting**|Zhenghao Chen et.al.|[2508.11183](http://arxiv.org/abs/2508.11183)|null|
 |**2025-08-14**|**GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning**|Kelin Yu et.al.|[2508.11049](http://arxiv.org/abs/2508.11049)|null|
-|**2025-08-14**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
+|**2025-08-15**|**Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2508.10858](http://arxiv.org/abs/2508.10858)|null|
 |**2025-08-26**|**Physical Autoregressive Model for Robotic Manipulation without Action Pretraining**|Zijian Song et.al.|[2508.09822](http://arxiv.org/abs/2508.09822)|null|
 |**2025-08-13**|**GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors**|Xingyilang Yin et.al.|[2508.09667](http://arxiv.org/abs/2508.09667)|null|
 |**2025-08-21**|**Preacher: Paper-to-Video Agentic System**|Jingwei Liu et.al.|[2508.09632](http://arxiv.org/abs/2508.09632)|null|
@@ -255,6 +257,21 @@
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-09-29**|**Physics-Guided Motion Loss for Video Generation Model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
+|**2025-05-30**|**VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**|Xiangdong Zhang et.al.|[2505.23656](http://arxiv.org/abs/2505.23656)|null|
+|**2025-05-01**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
+|**2025-04-07**|**VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
+|**2025-03-28**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|null|
+|**2025-11-05**|**Rethinking Video Super-Resolution: Towards Diffusion-Based Methods without Motion Alignment**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
+|**2024-09-30**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|null|
+|**2025-03-17**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-10-28**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
+|**2024-11-19**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
+|**2024-02-06**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
+|**2023-12-12**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
+|**2023-10-12**|**VDT: General-purpose Video Diffusion Transformers via Mask Modeling**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|null|
+|**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
+|**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
 <p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
