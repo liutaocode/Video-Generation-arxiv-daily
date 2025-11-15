@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel et.al.|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
+|**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
+|**2025-11-13**|**RodEpil: A Video Dataset of Laboratory Rodents for Seizure Detection and Benchmark Evaluation**|Daniele Perlo et.al.|[2511.10431](http://arxiv.org/abs/2511.10431)|null|
+|**2025-11-13**|**TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding**|Jinxuan Li et.al.|[2511.10241](http://arxiv.org/abs/2511.10241)|null|
+|**2025-11-13**|**Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization**|Ashutosh Anshul et.al.|[2511.10212](http://arxiv.org/abs/2511.10212)|null|
+|**2025-11-13**|**Using an instrumented hammer during Summers osteotomy: an animal model**|Yasuhiro Homma et.al.|[2511.10126](http://arxiv.org/abs/2511.10126)|null|
+|**2025-11-13**|**An Instrumented Hammer to Detect the Bone Transitions During an High Tibial Osteotomy: An Animal Study**|Bas-Dit-Nugues Manon et.al.|[2511.10121](http://arxiv.org/abs/2511.10121)|null|
+|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
+|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|null|
+|**2025-11-13**|**Reinforcing Trustworthiness in Multimodal Emotional Support Systems**|Huy M. Le et.al.|[2511.10011](http://arxiv.org/abs/2511.10011)|null|
+|**2025-11-13**|**Learning phase diversity for solving ill-posed inverse problems in imaging**|Jasleen Birdi et.al.|[2511.09952](http://arxiv.org/abs/2511.09952)|null|
+|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
+|**2025-11-12**|**PriVi: Towards A General-Purpose Video Model For Primate Behavior In The Wild**|Felix B. Mueller et.al.|[2511.09675](http://arxiv.org/abs/2511.09675)|null|
+|**2025-11-12**|**TempRetinex: Retinex-based Unsupervised Enhancement for Low-light Video Under Diverse Lighting Conditions**|Yini Li et.al.|[2511.09609](http://arxiv.org/abs/2511.09609)|null|
+|**2025-11-12**|**Bridging the Data Gap: Spatially Conditioned Diffusion Model for Anomaly Generation in Photovoltaic Electroluminescence Images**|Shiva Hanifi et.al.|[2511.09604](http://arxiv.org/abs/2511.09604)|null|
+|**2025-11-12**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Chaoyi Pan et.al.|[2511.09484](http://arxiv.org/abs/2511.09484)|null|
+|**2025-11-12**|**Revisiting Cross-Architecture Distillation: Adaptive Dual-Teacher Transfer for Lightweight Video Models**|Ying Peng et.al.|[2511.09469](http://arxiv.org/abs/2511.09469)|null|
+|**2025-11-12**|**Hand Held Multi-Object Tracking Dataset in American Football**|Rintaro Otsubo et.al.|[2511.09455](http://arxiv.org/abs/2511.09455)|null|
+|**2025-11-12**|**MCAD: Multimodal Context-Aware Audio Description Generation For Soccer**|Lipisha Chaudhary et.al.|[2511.09448](http://arxiv.org/abs/2511.09448)|null|
+|**2025-11-12**|**Augment to Augment: Diverse Augmentations Enable Competitive Ultra-Low-Field MRI Enhancement**|Felix F Zimmermann et.al.|[2511.09366](http://arxiv.org/abs/2511.09366)|null|
 |**2025-11-10**|**Robot Learning from a Physical World Model**|Jiageng Mao et.al.|[2511.07416](http://arxiv.org/abs/2511.07416)|null|
 |**2025-11-10**|**StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation**|Tianrui Feng et.al.|[2511.07399](http://arxiv.org/abs/2511.07399)|null|
 |**2025-11-10**|**ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search**|Zhenjie Liu et.al.|[2511.06833](http://arxiv.org/abs/2511.06833)|null|
@@ -273,7 +293,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
