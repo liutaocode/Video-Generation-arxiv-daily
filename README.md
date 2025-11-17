@@ -17,9 +17,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520](http://arxiv.org/abs/2511.11520)|null|
+|**2025-11-14**|**Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis**|Feng-Qi Cui et.al.|[2511.11406](http://arxiv.org/abs/2511.11406)|null|
+|**2025-11-14**|**YCB-Ev SD: Synthetic event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2511.11344](http://arxiv.org/abs/2511.11344)|null|
+|**2025-11-14**|**RealisticDreamer: Guidance Score Distillation for Few-shot Gaussian Splatting**|Ruocheng Wu et.al.|[2511.11213](http://arxiv.org/abs/2511.11213)|null|
+|**2025-11-14**|**VIDEOP2R: Video Understanding from Perception to Reasoning**|Yifan Jiang et.al.|[2511.11113](http://arxiv.org/abs/2511.11113)|null|
+|**2025-11-14**|**A Space-Time Transformer for Precipitation Forecasting**|Levi Harris et.al.|[2511.11090](http://arxiv.org/abs/2511.11090)|null|
+|**2025-11-14**|**LiteAttention: A Temporal Sparse Attention for Diffusion Transformers**|Dor Shmilovich et.al.|[2511.11062](http://arxiv.org/abs/2511.11062)|null|
+|**2025-11-14**|**EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation**|Zongyang Qiu et.al.|[2511.11002](http://arxiv.org/abs/2511.11002)|null|
+|**2025-11-14**|**Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition**|Gunho Jung et.al.|[2511.10958](http://arxiv.org/abs/2511.10958)|null|
+|**2025-11-14**|**Language-Guided Graph Representation Learning for Video Summarization**|Wenrui Li et.al.|[2511.10953](http://arxiv.org/abs/2511.10953)|null|
+|**2025-11-14**|**DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting**|Luciano Araujo Dourado Filho et.al.|[2511.10894](http://arxiv.org/abs/2511.10894)|null|
+|**2025-11-14**|**Short-Window Sliding Learning for Real-Time Violence Detection via LLM-based Auto-Labeling**|Seoik Jung et.al.|[2511.10866](http://arxiv.org/abs/2511.10866)|null|
+|**2025-11-13**|**From Attention to Frequency: Integration of Vision Transformer and FFT-ReLU for Enhanced Image Deblurring**|Syed Mumtahin Mahmud et.al.|[2511.10806](http://arxiv.org/abs/2511.10806)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel et.al.|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
 |**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang et.al.|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
-|**2025-11-13**|**RodEpil: A Video Dataset of Laboratory Rodents for Seizure Detection and Benchmark Evaluation**|Daniele Perlo et.al.|[2511.10431](http://arxiv.org/abs/2511.10431)|null|
+|**2025-11-14**|**RodEpil: A Video Dataset of Laboratory Rodents for Seizure Detection and Benchmark Evaluation**|Daniele Perlo et.al.|[2511.10431](http://arxiv.org/abs/2511.10431)|null|
 |**2025-11-13**|**TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding**|Jinxuan Li et.al.|[2511.10241](http://arxiv.org/abs/2511.10241)|null|
 |**2025-11-13**|**Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization**|Ashutosh Anshul et.al.|[2511.10212](http://arxiv.org/abs/2511.10212)|null|
 |**2025-11-13**|**Using an instrumented hammer during Summers osteotomy: an animal model**|Yasuhiro Homma et.al.|[2511.10126](http://arxiv.org/abs/2511.10126)|null|
