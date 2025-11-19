@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|null|
+|**2025-11-18**|**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation**|Yunfeng Wu et.al.|[2511.14712](http://arxiv.org/abs/2511.14712)|null|
+|**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](http://arxiv.org/abs/2511.14680)|null|
+|**2025-11-18**|**ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection**|Mohammad Romani et.al.|[2511.14554](http://arxiv.org/abs/2511.14554)|null|
+|**2025-11-18**|**DeCo-VAE: Learning Compact Latents for Video Reconstruction via Decoupled Representation**|Xiangchen Yin et.al.|[2511.14530](http://arxiv.org/abs/2511.14530)|null|
+|**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
+|**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|null|
+|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
+|**2025-11-18**|**TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction**|Yuan Li et.al.|[2511.14242](http://arxiv.org/abs/2511.14242)|null|
+|**2025-11-18**|**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**|Weimin Bai et.al.|[2511.14208](http://arxiv.org/abs/2511.14208)|null|
+|**2025-11-18**|**Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion**|Zhuo Li et.al.|[2511.14178](http://arxiv.org/abs/2511.14178)|null|
+|**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen et.al.|[2511.14120](http://arxiv.org/abs/2511.14120)|null|
+|**2025-11-18**|**Real-Time Mobile Video Analytics for Pre-arrival Emergency Medical Services**|Liuyi Jin et.al.|[2511.14119](http://arxiv.org/abs/2511.14119)|null|
+|**2025-11-18**|**A Patient-Independent Neonatal Seizure Prediction Model Using Reduced Montage EEG and ECG**|Sithmini Ranasingha et.al.|[2511.14110](http://arxiv.org/abs/2511.14110)|null|
+|**2025-11-18**|**Text-Driven Reasoning Video Editing via Reinforcement Learning on Digital Twin Representations**|Yiqing Shen et.al.|[2511.14100](http://arxiv.org/abs/2511.14100)|null|
+|**2025-11-17**|**Learning Skill-Attributes for Transferable Assessment in Video**|Kumar Ashutosh et.al.|[2511.13993](http://arxiv.org/abs/2511.13993)|null|
+|**2025-11-17**|**PoCGM: Poisson-Conditioned Generative Model for Sparse-View CT Reconstruction**|Changsheng Fang et.al.|[2511.13967](http://arxiv.org/abs/2511.13967)|null|
+|**2025-11-17**|**SAE-MCVT: A Real-Time and Scalable Multi-Camera Vehicle Tracking Framework Powered by Edge Computing**|Yuqiang Lin et.al.|[2511.13904](http://arxiv.org/abs/2511.13904)|null|
+|**2025-11-17**|**Temporal Realism Evaluation of Generated Videos Using Compressed-Domain Motion Vectors**|Mert Onur Cakiroglu et.al.|[2511.13897](http://arxiv.org/abs/2511.13897)|null|
+|**2025-11-17**|**Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark**|Xinxin Liu et.al.|[2511.13853](http://arxiv.org/abs/2511.13853)|null|
 |**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|null|
 |**2025-11-17**|**UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity**|Junwei Yu et.al.|[2511.13714](http://arxiv.org/abs/2511.13714)|null|
 |**2025-11-17**|**OpenRoboCare: A Multimodal Multi-Task Expert Demonstration Dataset for Robot Caregiving**|Xiaoyu Liang et.al.|[2511.13707](http://arxiv.org/abs/2511.13707)|null|
