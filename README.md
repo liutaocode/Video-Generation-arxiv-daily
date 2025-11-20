@@ -17,6 +17,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**First Frame Is the Place to Go for Video Content Customization**|Jingxi Chen et.al.|[2511.15700](http://arxiv.org/abs/2511.15700)|null|
+|**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
+|**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[2511.15622](http://arxiv.org/abs/2511.15622)|null|
+|**2025-11-19**|**Multimodal Evaluation of Russian-language Architectures**|Artem Chervyakov et.al.|[2511.15552](http://arxiv.org/abs/2511.15552)|null|
+|**2025-11-19**|**Deep Learning for Accurate Vision-based Catch Composition in Tropical Tuna Purse Seiners**|Xabier Lekunberri et.al.|[2511.15468](http://arxiv.org/abs/2511.15468)|null|
+|**2025-11-19**|**ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation**|Simon Boeder et.al.|[2511.15396](http://arxiv.org/abs/2511.15396)|null|
+|**2025-11-19**|**A Multimodal Transformer Approach for UAV Detection and Aerial Object Recognition Using Radar, Audio, and Video Data**|Mauro Larrat et.al.|[2511.15312](http://arxiv.org/abs/2511.15312)|null|
+|**2025-11-19**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
+|**2025-11-19**|**Generating Natural-Language Surgical Feedback: From Structured Representation to Domain-Grounded Evaluation**|Firdavs Nasriddinov et.al.|[2511.15159](http://arxiv.org/abs/2511.15159)|null|
+|**2025-11-19**|**MAIF: Enforcing AI Trust and Provenance with an Artifact-Centric Agentic Paradigm**|Vineeth Sai Narajala et.al.|[2511.15097](http://arxiv.org/abs/2511.15097)|null|
+|**2025-11-19**|**Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks**|Cheng Yang et.al.|[2511.15065](http://arxiv.org/abs/2511.15065)|null|
+|**2025-11-19**|**Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation**|Vladimir Arkhipkin et.al.|[2511.14993](http://arxiv.org/abs/2511.14993)|null|
+|**2025-11-18**|**Reconstruction of three-dimensional shapes of normal and disease-related erythrocytes from partial observations using multi-fidelity neural networks**|Haizhou Wen et.al.|[2511.14962](http://arxiv.org/abs/2511.14962)|null|
+|**2025-11-18**|**GeoSceneGraph: Geometric Scene Graph Diffusion Model for Text-guided 3D Indoor Scene Synthesis**|Antonio Ruiz et.al.|[2511.14884](http://arxiv.org/abs/2511.14884)|null|
 |**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|null|
 |**2025-11-18**|**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation**|Yunfeng Wu et.al.|[2511.14712](http://arxiv.org/abs/2511.14712)|null|
 |**2025-11-18**|**NERD: Network-Regularized Diffusion Sampling For 3D Computed Tomography**|Shijun Liang et.al.|[2511.14680](http://arxiv.org/abs/2511.14680)|null|
