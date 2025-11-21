@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
+|**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
+|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
+|**2025-11-20**|**An analytical and experimental study of the energy transition discourse on YouTube**|Aleix Bassolas et.al.|[2511.16497](http://arxiv.org/abs/2511.16497)|null|
+|**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|null|
+|**2025-11-20**|**Dynamic Multiple-Parameter Joint Time-Vertex Fractional Fourier Transform and its Intelligent Filtering Methods**|Manjun Cui et.al.|[2511.16277](http://arxiv.org/abs/2511.16277)|null|
+|**2025-11-20**|**PIPHEN: Physical Interaction Prediction with Hamiltonian Energy Networks**|Kewei Chen et.al.|[2511.16200](http://arxiv.org/abs/2511.16200)|null|
+|**2025-11-20**|**FOOTPASS: A Multi-Modal Multi-Agent Tactical Context Dataset for Play-by-Play Action Spotting in Soccer Broadcast Videos**|Jeremie Ochin et.al.|[2511.16183](http://arxiv.org/abs/2511.16183)|null|
+|**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang et.al.|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
+|**2025-11-20**|**Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning**|Yibin Huang et.al.|[2511.16160](http://arxiv.org/abs/2511.16160)|null|
+|**2025-11-20**|**MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics**|Lara Bergmann et.al.|[2511.16158](http://arxiv.org/abs/2511.16158)|null|
+|**2025-11-20**|**Degradation-Aware Hierarchical Termination for Blind Quality Enhancement of Compressed Video**|Li Yu et.al.|[2511.16137](http://arxiv.org/abs/2511.16137)|null|
+|**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
+|**2025-11-20**|**VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning**|Zishan Xu et.al.|[2511.16077](http://arxiv.org/abs/2511.16077)|null|
+|**2025-11-20**|**Panel-by-Panel Souls: A Performative Workflow for Expressive Faces in AI-Assisted Manga Creation**|Qing Zhang et.al.|[2511.16038](http://arxiv.org/abs/2511.16038)|null|
+|**2025-11-20**|**Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion**|Dingkun Zhou et.al.|[2511.16020](http://arxiv.org/abs/2511.16020)|null|
+|**2025-11-20**|**Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click**|Raphael Ruschel et.al.|[2511.15948](http://arxiv.org/abs/2511.15948)|null|
+|**2025-11-20**|**Automated Interpretable 2D Video Extraction from 3D Echocardiography**|Milos Vukadinovic et.al.|[2511.15946](http://arxiv.org/abs/2511.15946)|null|
+|**2025-11-19**|**RB-FT: Rationale-Bootstrapped Fine-Tuning for Video Classification**|Meilong Xu et.al.|[2511.15923](http://arxiv.org/abs/2511.15923)|null|
 |**2025-11-19**|**First Frame Is the Place to Go for Video Content Customization**|Jingxi Chen et.al.|[2511.15700](http://arxiv.org/abs/2511.15700)|null|
 |**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
 |**2025-11-19**|**The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification**|Dante Francisco Wasmuht et.al.|[2511.15622](http://arxiv.org/abs/2511.15622)|null|
