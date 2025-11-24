@@ -58,7 +58,7 @@
 |**2025-11-18**|**DeCo-VAE: Learning Compact Latents for Video Reconstruction via Decoupled Representation**|Xiangchen Yin et.al.|[2511.14530](http://arxiv.org/abs/2511.14530)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 |**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|null|
-|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
+|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|**[link](https://github.com/AI-S2-Lab/Authentic-Dubber)**|
 |**2025-11-18**|**TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction**|Yuan Li et.al.|[2511.14242](http://arxiv.org/abs/2511.14242)|null|
 |**2025-11-18**|**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**|Weimin Bai et.al.|[2511.14208](http://arxiv.org/abs/2511.14208)|null|
 |**2025-11-18**|**Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion**|Zhuo Li et.al.|[2511.14178](http://arxiv.org/abs/2511.14178)|null|
@@ -112,7 +112,7 @@
 |**2025-11-13**|**Using an instrumented hammer during Summers osteotomy: an animal model**|Yasuhiro Homma et.al.|[2511.10126](http://arxiv.org/abs/2511.10126)|null|
 |**2025-11-13**|**An Instrumented Hammer to Detect the Bone Transitions During an High Tibial Osteotomy: An Animal Study**|Bas-Dit-Nugues Manon et.al.|[2511.10121](http://arxiv.org/abs/2511.10121)|null|
 |**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
-|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|null|
+|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|**[link](https://github.com/rikeilong/AVConfusion)**|
 |**2025-11-13**|**Reinforcing Trustworthiness in Multimodal Emotional Support Systems**|Huy M. Le et.al.|[2511.10011](http://arxiv.org/abs/2511.10011)|null|
 |**2025-11-13**|**Learning phase diversity for solving ill-posed inverse problems in imaging**|Jasleen Birdi et.al.|[2511.09952](http://arxiv.org/abs/2511.09952)|null|
 |**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
