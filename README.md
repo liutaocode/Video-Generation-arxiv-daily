@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**EvDiff: High Quality Video with an Event Camera**|Weilun Li et.al.|[2511.17492](http://arxiv.org/abs/2511.17492)|null|
+|**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**Planning with Sketch-Guided Verification for Physics-Aware Video Generation**|Yidong Huang et.al.|[2511.17450](http://arxiv.org/abs/2511.17450)|null|
+|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|null|
+|**2025-11-21**|**Loomis Painter: Reconstructing the Painting Process**|Markus Pobitzer et.al.|[2511.17344](http://arxiv.org/abs/2511.17344)|null|
+|**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori et.al.|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
+|**2025-11-21**|**FORWARD: Dataset of a forwarder operating in rough terrain**|Mikael Lundbäck et.al.|[2511.17318](http://arxiv.org/abs/2511.17318)|null|
+|**2025-11-21**|**PostCam: Camera-Controllable Novel-View Video Generation with Query-Shared Cross-Attention**|Yipeng Chen et.al.|[2511.17185](http://arxiv.org/abs/2511.17185)|null|
+|**2025-11-21**|**Investigating self-supervised representations for audio-visual deepfake detection**|Dragos-Alexandru Boldisor et.al.|[2511.17181](http://arxiv.org/abs/2511.17181)|null|
+|**2025-11-21**|**OmniLens++: Blind Lens Aberration Correction via Large LensLib Pre-Training and Latent PSF Representation**|Qi Jiang et.al.|[2511.17126](http://arxiv.org/abs/2511.17126)|null|
+|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al.|[2511.17094](http://arxiv.org/abs/2511.17094)|null|
+|**2025-11-21**|**H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation**|Yijie Zhu et.al.|[2511.17079](http://arxiv.org/abs/2511.17079)|null|
+|**2025-11-21**|**Feature Partitioning and Semantic Equalization for Intrinsic Robustness in Semantic Communication under Packet Loss**|Xiao Yang et.al.|[2511.16983](http://arxiv.org/abs/2511.16983)|null|
+|**2025-11-21**|**MatPedia: A Universal Generative Foundation for High-Fidelity Material Synthesis**|Di Luo et.al.|[2511.16957](http://arxiv.org/abs/2511.16957)|null|
+|**2025-11-21**|**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**|Dailan He et.al.|[2511.16955](http://arxiv.org/abs/2511.16955)|null|
+|**2025-11-21**|**Point-Supervised Facial Expression Spotting with Gaussian-Based Instance-Adaptive Intensity Modeling**|Yicheng Deng et.al.|[2511.16952](http://arxiv.org/abs/2511.16952)|null|
+|**2025-11-21**|**FingerCap: Fine-grained Finger-level Hand Motion Captioning**|Xin Shen et.al.|[2511.16951](http://arxiv.org/abs/2511.16951)|null|
+|**2025-11-21**|**Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features**|Jingyi Xu et.al.|[2511.16928](http://arxiv.org/abs/2511.16928)|null|
+|**2025-11-21**|**R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios**|Lu Zhu et.al.|[2511.16901](http://arxiv.org/abs/2511.16901)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|null|
 |**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
 |**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|null|
