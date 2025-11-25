@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**|Qiang Wang et.al.|[2511.19436](http://arxiv.org/abs/2511.19436)|null|
+|**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435](http://arxiv.org/abs/2511.19435)|null|
+|**2025-11-24**|**In-Video Instructions: Visual Signals as Generative Control**|Gongfan Fang et.al.|[2511.19401](http://arxiv.org/abs/2511.19401)|null|
+|**2025-11-24**|**Growing with the Generator: Self-paced GRPO for Video Generation**|Rui Li et.al.|[2511.19356](http://arxiv.org/abs/2511.19356)|null|
+|**2025-11-24**|**MonoMSK: Monocular 3D Musculoskeletal Dynamics Estimation**|Farnoosh Koleini et.al.|[2511.19326](http://arxiv.org/abs/2511.19326)|null|
+|**2025-11-24**|**SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation**|Jiaming Zhang et.al.|[2511.19320](http://arxiv.org/abs/2511.19320)|null|
+|**2025-11-24**|**SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2511.19319](http://arxiv.org/abs/2511.19319)|null|
+|**2025-11-24**|**LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models**|Shuai Wang et.al.|[2511.19261](http://arxiv.org/abs/2511.19261)|null|
+|**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235](http://arxiv.org/abs/2511.19235)|null|
+|**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
+|**2025-11-24**|**AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing**|Mengtian Li et.al.|[2511.19189](http://arxiv.org/abs/2511.19189)|null|
+|**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
+|**2025-11-24**|**HABIT: Human Action Benchmark for Interactive Traffic in CARLA**|Mohan Ramesh et.al.|[2511.19109](http://arxiv.org/abs/2511.19109)|null|
+|**2025-11-24**|**Beyond Reward Margin: Rethinking and Resolving Likelihood Displacement in Diffusion Models via Video Generation**|Ruojun Xu et.al.|[2511.19049](http://arxiv.org/abs/2511.19049)|null|
+|**2025-11-24**|**View-Consistent Diffusion Representations for 3D-Consistent Video Generation**|Duolikun Danier et.al.|[2511.18991](http://arxiv.org/abs/2511.18991)|null|
+|**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
+|**2025-11-24**|**One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control**|Zhenxing Mi et.al.|[2511.18922](http://arxiv.org/abs/2511.18922)|null|
+|**2025-11-24**|**EventSTU: Event-Guided Efficient Spatio-Temporal Understanding for Video Large Language Models**|Wenhao Xu et.al.|[2511.18920](http://arxiv.org/abs/2511.18920)|null|
+|**2025-11-24**|**Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation**|Ruiying Liu et.al.|[2511.18919](http://arxiv.org/abs/2511.18919)|null|
+|**2025-11-24**|**MagicWorld: Interactive Geometry-driven Video World Exploration**|Guangyuan Li et.al.|[2511.18886](http://arxiv.org/abs/2511.18886)|null|
 |**2025-11-21**|**EvDiff: High Quality Video with an Event Camera**|Weilun Li et.al.|[2511.17492](http://arxiv.org/abs/2511.17492)|null|
 |**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
