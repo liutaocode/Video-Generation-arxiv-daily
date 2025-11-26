@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout**|Hidir Yesiltepe et.al.|[2511.20649](http://arxiv.org/abs/2511.20649)|null|
+|**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
+|**2025-11-25**|**MotionV2V: Editing Motion in a Video**|Ryan Burgert et.al.|[2511.20640](http://arxiv.org/abs/2511.20640)|null|
+|**2025-11-25**|**iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation**|Zhoujie Fu et.al.|[2511.20635](http://arxiv.org/abs/2511.20635)|null|
+|**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
+|**2025-11-25**|**ShapeGen: Towards High-Quality 3D Shape Synthesis**|Yangguang Li et.al.|[2511.20624](http://arxiv.org/abs/2511.20624)|null|
+|**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|Rui Xue et.al.|[2511.20564](http://arxiv.org/abs/2511.20564)|null|
+|**2025-11-25**|**A Reason-then-Describe Instruction Interpreter for Controllable Video Generation**|Shengqiong Wu et.al.|[2511.20563](http://arxiv.org/abs/2511.20563)|null|
+|**2025-11-25**|**PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding**|Haoze Zhang et.al.|[2511.20562](http://arxiv.org/abs/2511.20562)|null|
+|**2025-11-25**|**Dance Style Classification using Laban-Inspired and Frequency-Domain Motion Features**|Ben Hamscher et.al.|[2511.20469](http://arxiv.org/abs/2511.20469)|null|
+|**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
+|**2025-11-25**|**Block Cascading: Training Free Acceleration of Block-Causal Video Models**|Hmrishav Bandyopadhyay et.al.|[2511.20426](http://arxiv.org/abs/2511.20426)|null|
+|**2025-11-25**|**TReFT: Taming Rectified Flow Models For One-Step Image Translation**|Shengqian Li et.al.|[2511.20307](http://arxiv.org/abs/2511.20307)|null|
+|**2025-11-25**|**Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations**|Chao Wang et.al.|[2511.20295](http://arxiv.org/abs/2511.20295)|null|
+|**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
+|**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
+|**2025-11-25**|**Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation**|Daniel Kienzle et.al.|[2511.20250](http://arxiv.org/abs/2511.20250)|null|
+|**2025-11-25**|**GHR-VQA: Graph-guided Hierarchical Relational Reasoning for Video Question Answering**|Dionysia Danai Brilli et.al.|[2511.20201](http://arxiv.org/abs/2511.20201)|null|
+|**2025-11-25**|**SFA: Scan, Focus, and Amplify toward Guidance-aware Answering for Video TextVQA**|Haibin He et.al.|[2511.20190](http://arxiv.org/abs/2511.20190)|null|
+|**2025-11-25**|**Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis**|Mohammad Mahdi et.al.|[2511.20186](http://arxiv.org/abs/2511.20186)|null|
 |**2025-11-24**|**VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection**|Qiang Wang et.al.|[2511.19436](http://arxiv.org/abs/2511.19436)|null|
 |**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435](http://arxiv.org/abs/2511.19435)|null|
 |**2025-11-24**|**In-Video Instructions: Visual Signals as Generative Control**|Gongfan Fang et.al.|[2511.19401](http://arxiv.org/abs/2511.19401)|null|
