@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**Entropy Coding for Non-Rectangular Transform Blocks using Partitioned DCT Dictionaries for AV1**|Priyanka Das et.al.|[2511.21609](http://arxiv.org/abs/2511.21609)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
+|**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
+|**2025-11-26**|**MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices**|Shuai Zhang et.al.|[2511.21475](http://arxiv.org/abs/2511.21475)|null|
+|**2025-11-26**|**Making sense of quantum teleportation: An intervention study on students' conceptions using a diagrammatic approach**|Sebastian Kilde-Westberg et.al.|[2511.21443](http://arxiv.org/abs/2511.21443)|null|
+|**2025-11-26**|**Thinking With Bounding Boxes: Enhancing Spatio-Temporal Video Grounding via Reinforcement Fine-Tuning**|Xin Gu et.al.|[2511.21375](http://arxiv.org/abs/2511.21375)|null|
+|**2025-11-26**|**AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs**|Shuhan Xia et.al.|[2511.21251](http://arxiv.org/abs/2511.21251)|null|
+|**2025-11-26**|**AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control**|Xinyue Guo et.al.|[2511.21146](http://arxiv.org/abs/2511.21146)|null|
+|**2025-11-26**|**TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**|Jiaming He et.al.|[2511.21145](http://arxiv.org/abs/2511.21145)|null|
+|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
+|**2025-11-26**|**Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning**|Changlin Li et.al.|[2511.21136](http://arxiv.org/abs/2511.21136)|null|
+|**2025-11-26**|**SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation**|Ziyi Chen et.al.|[2511.21135](http://arxiv.org/abs/2511.21135)|null|
+|**2025-11-26**|**CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion**|Dianbing Xi et.al.|[2511.21129](http://arxiv.org/abs/2511.21129)|null|
+|**2025-11-26**|**Dataset Poisoning Attacks on Behavioral Cloning Policies**|Akansha Kalra et.al.|[2511.20992](http://arxiv.org/abs/2511.20992)|null|
+|**2025-11-26**|**TrafficLens: Multi-Camera Traffic Video Analysis Using LLMs**|Md Adnan Arefeen et.al.|[2511.20965](http://arxiv.org/abs/2511.20965)|null|
+|**2025-11-25**|**V $^{2}$ -SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence**|Jiancheng Pan et.al.|[2511.20886](http://arxiv.org/abs/2511.20886)|null|
+|**2025-11-25**|**Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries**|Sree Bhattacharyya et.al.|[2511.20854](http://arxiv.org/abs/2511.20854)|null|
+|**2025-11-25**|**Layer-Aware Video Composition via Split-then-Merge**|Ozgur Kara et.al.|[2511.20809](http://arxiv.org/abs/2511.20809)|null|
 |**2025-11-25**|**Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout**|Hidir Yesiltepe et.al.|[2511.20649](http://arxiv.org/abs/2511.20649)|null|
 |**2025-11-25**|**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization**|Tahira Kazimi et.al.|[2511.20647](http://arxiv.org/abs/2511.20647)|null|
 |**2025-11-25**|**MotionV2V: Editing Motion in a Video**|Ryan Burgert et.al.|[2511.20640](http://arxiv.org/abs/2511.20640)|null|
