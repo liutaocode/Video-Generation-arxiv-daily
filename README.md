@@ -17,6 +17,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering**|Alberto Compagnoni et.al.|[2511.22715](http://arxiv.org/abs/2511.22715)|null|
+|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|null|
+|**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
+|**2025-11-27**|**Motion-to-Motion Latency Measurement Framework for Connected and Autonomous Vehicle Teleoperation**|François Provost et.al.|[2511.22467](http://arxiv.org/abs/2511.22467)|null|
+|**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
+|**2025-11-27**|**Prompt-based Consistent Video Colorization**|Silvia Dani et.al.|[2511.22330](http://arxiv.org/abs/2511.22330)|null|
+|**2025-11-27**|**Match-and-Fuse: Consistent Generation from Unstructured Image Sets**|Kate Feingold et.al.|[2511.22287](http://arxiv.org/abs/2511.22287)|null|
+|**2025-11-27**|**DriveVGGT: Visual Geometry Transformer for Autonomous Driving**|Xiaosong Jia et.al.|[2511.22264](http://arxiv.org/abs/2511.22264)|null|
+|**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
+|**2025-11-27**|**3D-Consistent Multi-View Editing by Diffusion Guidance**|Josef Bengtson et.al.|[2511.22228](http://arxiv.org/abs/2511.22228)|null|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|null|
+|**2025-11-27**|**EASL: Multi-Emotion Guided Semantic Disentanglement for Expressive Sign Language Generation**|Yanchao Zhao et.al.|[2511.22135](http://arxiv.org/abs/2511.22135)|null|
+|**2025-11-27**|**GA2-CLIP: Generic Attribute Anchor for Efficient Prompt Tuningin Video-Language Models**|Bin Wang et.al.|[2511.22125](http://arxiv.org/abs/2511.22125)|null|
+|**2025-11-27**|**WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation**|Quanjian Song et.al.|[2511.22098](http://arxiv.org/abs/2511.22098)|null|
+|**2025-11-27**|**GACELLE: GPU-accelerated tools for model parameter estimation and image reconstruction**|Kwok-Shing Chan et.al.|[2511.22094](http://arxiv.org/abs/2511.22094)|null|
+|**2025-11-27**|**AutoRec: Accelerating Loss Recovery for Live Streaming in a Multi-Supplier Market**|Tong Li et.al.|[2511.22046](http://arxiv.org/abs/2511.22046)|null|
+|**2025-11-26**|**Digital Elevation Model Estimation from RGB Satellite Imagery using Generative Deep Learning**|Alif Ilham Madani et.al.|[2511.21985](http://arxiv.org/abs/2511.21985)|null|
+|**2025-11-26**|**Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data**|Satrajit Chakrabarty et.al.|[2511.21926](http://arxiv.org/abs/2511.21926)|null|
+|**2025-11-26**|**Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction Using Face Image and GSR Bio Signals**|Hamid Shamszare et.al.|[2511.21908](http://arxiv.org/abs/2511.21908)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**Entropy Coding for Non-Rectangular Transform Blocks using Partitioned DCT Dictionaries for AV1**|Priyanka Das et.al.|[2511.21609](http://arxiv.org/abs/2511.21609)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
