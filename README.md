@@ -17,6 +17,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
+|**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
+|**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[2511.23475](http://arxiv.org/abs/2511.23475)|null|
+|**2025-11-28**|**Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model**|Junshu Tang et.al.|[2511.23429](http://arxiv.org/abs/2511.23429)|null|
+|**2025-11-28**|**DisMo: Disentangled Motion Representations for Open-World Motion Transfer**|Thomas Ressler-Antal et.al.|[2511.23428](http://arxiv.org/abs/2511.23428)|null|
+|**2025-11-28**|**Toward Automatic Safe Driving Instruction: A Large-Scale Vision Language Model Approach**|Haruki Sakajo et.al.|[2511.23311](http://arxiv.org/abs/2511.23311)|null|
+|**2025-11-28**|**Vision Bridge Transformer at Scale**|Zhenxiong Tan et.al.|[2511.23199](http://arxiv.org/abs/2511.23199)|null|
+|**2025-11-28**|**GeoWorld: Unlocking the Potential of Geometry Models to Facilitate High-Fidelity 3D Scene Generation**|Yuhao Wan et.al.|[2511.23191](http://arxiv.org/abs/2511.23191)|null|
+|**2025-11-28**|**Fast Multi-view Consistent 3D Editing with Video Priors**|Liyi Chen et.al.|[2511.23172](http://arxiv.org/abs/2511.23172)|null|
+|**2025-11-28**|**InstanceV: Instance-Level Video Generation**|Yuheng Chen et.al.|[2511.23146](http://arxiv.org/abs/2511.23146)|null|
+|**2025-11-28**|**DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation**|Hongfei Zhang et.al.|[2511.23127](http://arxiv.org/abs/2511.23127)|null|
+|**2025-11-28**|**LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models**|Zuolei Li et.al.|[2511.23034](http://arxiv.org/abs/2511.23034)|null|
+|**2025-11-28**|**McSc: Motion-Corrective Preference Alignment for Video Generation with Self-Critic Hierarchical Reasoning**|Qiushi Yang et.al.|[2511.22974](http://arxiv.org/abs/2511.22974)|null|
+|**2025-11-28**|**BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**|Zeyu Zhang et.al.|[2511.22973](http://arxiv.org/abs/2511.22973)|null|
+|**2025-11-28**|**RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video**|Haiyang Mei et.al.|[2511.22950](http://arxiv.org/abs/2511.22950)|null|
+|**2025-11-28**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfe**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|null|
+|**2025-11-28**|**TARFVAE: Efficient One-Step Generative Time Series Forecasting via TARFLOW based VAE**|Jiawen Wei et.al.|[2511.22853](http://arxiv.org/abs/2511.22853)|null|
+|**2025-11-28**|**Captain Safari: A World Engine**|Yu-Cheng Chou et.al.|[2511.22815](http://arxiv.org/abs/2511.22815)|null|
 |**2025-11-27**|**ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering**|Alberto Compagnoni et.al.|[2511.22715](http://arxiv.org/abs/2511.22715)|null|
 |**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|null|
 |**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
