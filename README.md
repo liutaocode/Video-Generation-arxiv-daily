@@ -47,7 +47,7 @@
 |**2025-11-26**|**AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs**|Shuhan Xia et.al.|[2511.21251](http://arxiv.org/abs/2511.21251)|null|
 |**2025-11-26**|**AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control**|Xinyue Guo et.al.|[2511.21146](http://arxiv.org/abs/2511.21146)|null|
 |**2025-11-26**|**TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**|Jiaming He et.al.|[2511.21145](http://arxiv.org/abs/2511.21145)|null|
-|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
+|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|**[link](https://github.com/Sunbaoli/ProxyFormer)**|
 |**2025-11-26**|**Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning**|Changlin Li et.al.|[2511.21136](http://arxiv.org/abs/2511.21136)|null|
 |**2025-11-26**|**SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation**|Ziyi Chen et.al.|[2511.21135](http://arxiv.org/abs/2511.21135)|null|
 |**2025-11-26**|**CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion**|Dianbing Xi et.al.|[2511.21129](http://arxiv.org/abs/2511.21129)|null|
@@ -100,8 +100,8 @@
 |**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
 |**2025-11-21**|**Planning with Sketch-Guided Verification for Physics-Aware Video Generation**|Yidong Huang et.al.|[2511.17450](http://arxiv.org/abs/2511.17450)|null|
-|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|null|
-|**2025-11-21**|**Loomis Painter: Reconstructing the Painting Process**|Markus Pobitzer et.al.|[2511.17344](http://arxiv.org/abs/2511.17344)|null|
+|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian et.al.|[2511.17353](http://arxiv.org/abs/2511.17353)|**[link](https://github.com/XiaolongQian/DeVeiler)**|
+|**2025-11-21**|**Loomis Painter: Reconstructing the Painting Process**|Markus Pobitzer et.al.|[2511.17344](http://arxiv.org/abs/2511.17344)|**[link](https://github.com/Markus-Pobitzer/wlp)**|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori et.al.|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-21**|**FORWARD: Dataset of a forwarder operating in rough terrain**|Mikael Lundbäck et.al.|[2511.17318](http://arxiv.org/abs/2511.17318)|null|
 |**2025-11-21**|**PostCam: Camera-Controllable Novel-View Video Generation with Query-Shared Cross-Attention**|Yipeng Chen et.al.|[2511.17185](http://arxiv.org/abs/2511.17185)|null|
@@ -210,11 +210,11 @@
 |**2025-11-13**|**Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization**|Ashutosh Anshul et.al.|[2511.10212](http://arxiv.org/abs/2511.10212)|null|
 |**2025-11-13**|**Using an instrumented hammer during Summers osteotomy: an animal model**|Yasuhiro Homma et.al.|[2511.10126](http://arxiv.org/abs/2511.10126)|null|
 |**2025-11-13**|**An Instrumented Hammer to Detect the Bone Transitions During an High Tibial Osteotomy: An Animal Study**|Bas-Dit-Nugues Manon et.al.|[2511.10121](http://arxiv.org/abs/2511.10121)|null|
-|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
+|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|**[link](https://github.com/rikeilong/Sugar_ActionRecognition)**|
 |**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|**[link](https://github.com/rikeilong/AVConfusion)**|
 |**2025-11-13**|**Reinforcing Trustworthiness in Multimodal Emotional Support Systems**|Huy M. Le et.al.|[2511.10011](http://arxiv.org/abs/2511.10011)|null|
 |**2025-11-13**|**Learning phase diversity for solving ill-posed inverse problems in imaging**|Jasleen Birdi et.al.|[2511.09952](http://arxiv.org/abs/2511.09952)|null|
-|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
+|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|**[link](https://github.com/svishwa/crowdcount-cascaded-mtl)**|
 |**2025-11-12**|**PriVi: Towards A General-Purpose Video Model For Primate Behavior In The Wild**|Felix B. Mueller et.al.|[2511.09675](http://arxiv.org/abs/2511.09675)|null|
 |**2025-11-12**|**TempRetinex: Retinex-based Unsupervised Enhancement for Low-light Video Under Diverse Lighting Conditions**|Yini Li et.al.|[2511.09609](http://arxiv.org/abs/2511.09609)|null|
 |**2025-11-12**|**Bridging the Data Gap: Spatially Conditioned Diffusion Model for Anomaly Generation in Photovoltaic Electroluminescence Images**|Shiva Hanifi et.al.|[2511.09604](http://arxiv.org/abs/2511.09604)|null|
@@ -257,7 +257,7 @@
 |**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](http://arxiv.org/abs/2510.19022)|null|
 |**2025-10-21**|**UltraGen: High-Resolution Video Generation with Hierarchical Attention**|Teng Hu et.al.|[2510.18775](http://arxiv.org/abs/2510.18775)|null|
 |**2025-10-21**|**MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation**|Weinan Jia et.al.|[2510.18692](http://arxiv.org/abs/2510.18692)|null|
-|**2025-10-21**|**Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model**|Zhenxing Zhang et.al.|[2510.18573](http://arxiv.org/abs/2510.18573)|null|
+|**2025-10-21**|**Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model**|Zhenxing Zhang et.al.|[2510.18573](http://arxiv.org/abs/2510.18573)|**[link](https://github.com/CriliasMiller/Kaleido)**|
 |**2025-10-22**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
 |**2025-10-20**|**From Preferences to Prejudice: The Role of Alignment Tuning in Shaping Social Bias in Video Diffusion Models**|Zefan Cai et.al.|[2510.17247](http://arxiv.org/abs/2510.17247)|null|
 |**2025-10-16**|**RealDPO: Real or Not Real, that is the Preference**|Guo Cheng et.al.|[2510.14955](http://arxiv.org/abs/2510.14955)|null|
@@ -289,7 +289,7 @@
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian et.al.|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
 |**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](http://arxiv.org/abs/2510.07190)|**[link](https://github.com/zyhbili/MV-Performer)**|
 |**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
-|**2025-10-06**|**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation**|Ziqi Huang et.al.|[2510.05094](http://arxiv.org/abs/2510.05094)|null|
+|**2025-10-06**|**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation**|Ziqi Huang et.al.|[2510.05094](http://arxiv.org/abs/2510.05094)|**[link](https://github.com/Eyeline-Labs/VChain)**|
 |**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](http://arxiv.org/abs/2510.04999)|null|
 |**2025-10-05**|**ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation**|Jay Zhangjie Wu et.al.|[2510.04290](http://arxiv.org/abs/2510.04290)|null|
 |**2025-10-04**|**Generating Human Motion Videos using a Cascaded Text-to-Video Framework**|Hyelin Nam et.al.|[2510.03909](http://arxiv.org/abs/2510.03909)|null|
@@ -299,8 +299,8 @@
 |**2025-10-02**|**How Confident are Video Models? Empowering Video Models to Express their Uncertainty**|Zhiting Mei et.al.|[2510.02571](http://arxiv.org/abs/2510.02571)|**[link](https://github.com/irom-princeton/s-qubed)**|
 |**2025-10-02**|**Learning to Generate Object Interactions with Physics-Guided Video Diffusion**|David Romero et.al.|[2510.02284](http://arxiv.org/abs/2510.02284)|null|
 |**2025-10-02**|**TempoControl: Temporal Attention Guidance for Text-to-Video Models**|Shira Schiber et.al.|[2510.02226](http://arxiv.org/abs/2510.02226)|null|
-|**2025-10-03**|**UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction**|Jin Cao et.al.|[2510.01669](http://arxiv.org/abs/2510.01669)|null|
-|**2025-10-01**|**IMAGEdit: Let Any Subject Transform**|Fei Shen et.al.|[2510.01186](http://arxiv.org/abs/2510.01186)|null|
+|**2025-10-03**|**UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction**|Jin Cao et.al.|[2510.01669](http://arxiv.org/abs/2510.01669)|**[link](https://github.com/zju3dv/UniVerse)**|
+|**2025-10-01**|**IMAGEdit: Let Any Subject Transform**|Fei Shen et.al.|[2510.01186](http://arxiv.org/abs/2510.01186)|**[link](https://github.com/XWH-A/IMAGEdit)**|
 |**2025-10-01**|**Can World Models Benefit VLMs for World Dynamics?**|Kevin Zhang et.al.|[2510.00855](http://arxiv.org/abs/2510.00855)|null|
 |**2025-10-01**|**From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation**|Fan Yang et.al.|[2510.00806](http://arxiv.org/abs/2510.00806)|null|
 |**2025-10-01**|**BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration**|Zhaoyang Li et.al.|[2510.00438](http://arxiv.org/abs/2510.00438)|**[link](https://github.com/bytedance/BindWeave)**|
@@ -356,7 +356,7 @@
 |**2025-08-28**|**POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models**|Jiaxiang Cheng et.al.|[2508.21019](http://arxiv.org/abs/2508.21019)|null|
 |**2025-08-26**|**LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding**|Julian Ost et.al.|[2508.19204](http://arxiv.org/abs/2508.19204)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|**[link](https://github.com/Kunbyte-AI/ROSE)**|
-|**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
+|**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|**[link](https://github.com/objfiller3d/ObjFiller-3D)**|
 |**2025-08-24**|**A Synthetic Dataset for Manometry Recognition in Robotic Applications**|Pedro Antonio Rabelo Saraiva et.al.|[2508.17468](http://arxiv.org/abs/2508.17468)|null|
 |**2025-08-24**|**Multi-Level LVLM Guidance for Untrimmed Video Action Recognition**|Liyang Peng et.al.|[2508.17442](http://arxiv.org/abs/2508.17442)|null|
 |**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
@@ -386,7 +386,7 @@
 |**2025-08-11**|**Matrix-3D: Omnidirectional Explorable 3D World Generation**|Zhongqi Yang et.al.|[2508.08086](http://arxiv.org/abs/2508.08086)|null|
 |**2025-08-11**|**S^2VG: 3D Stereoscopic and Spatial Video Generation via Denoising Frame Matrix**|Peng Dai et.al.|[2508.08048](http://arxiv.org/abs/2508.08048)|null|
 |**2025-08-12**|**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation**|Fangyuan Mao et.al.|[2508.07981](http://arxiv.org/abs/2508.07981)|null|
-|**2025-08-11**|**Generative Video Matting**|Yongtao Ge et.al.|[2508.07905](http://arxiv.org/abs/2508.07905)|null|
+|**2025-08-11**|**Generative Video Matting**|Yongtao Ge et.al.|[2508.07905](http://arxiv.org/abs/2508.07905)|**[link](https://github.com/aim-uofa/GVM)**|
 |**2025-08-12**|**Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation**|Bowen Xue et.al.|[2508.07901](http://arxiv.org/abs/2508.07901)|null|
 |**2025-08-11**|**Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation**|Xiaoyan Liu et.al.|[2508.07769](http://arxiv.org/abs/2508.07769)|null|
 |**2025-08-11**|**Splat4D: Diffusion-Enhanced 4D Gaussian Splatting for Temporally and Spatially Consistent Content Creation**|Minghao Yin et.al.|[2508.07557](http://arxiv.org/abs/2508.07557)|null|
