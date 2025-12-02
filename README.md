@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now**|Varun Varma Thozhiyoor et.al.|[2512.02016](http://arxiv.org/abs/2512.02016)|null|
+|**2025-12-01**|**Generative Video Motion Editing with 3D Point Tracks**|Yao-Chih Lee et.al.|[2512.02015](http://arxiv.org/abs/2512.02015)|null|
+|**2025-12-01**|**TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models**|Zhiheng Liu et.al.|[2512.02014](http://arxiv.org/abs/2512.02014)|null|
+|**2025-12-01**|**Learning Dexterous Manipulation Skills from Imperfect Simulations**|Elvis Hsieh et.al.|[2512.02011](http://arxiv.org/abs/2512.02011)|null|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005](http://arxiv.org/abs/2512.02005)|null|
+|**2025-12-01**|**PAI-Bench: A Comprehensive Benchmark For Physical AI**|Fengzhe Zhou et.al.|[2512.01989](http://arxiv.org/abs/2512.01989)|null|
+|**2025-12-01**|**SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation**|Zisu Li et.al.|[2512.01960](http://arxiv.org/abs/2512.01960)|null|
+|**2025-12-01**|**GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment**|Haoyang He et.al.|[2512.01952](http://arxiv.org/abs/2512.01952)|null|
+|**2025-12-01**|**Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models**|Zhongyu Yang et.al.|[2512.01949](http://arxiv.org/abs/2512.01949)|null|
+|**2025-12-01**|**TransientTrack: Advanced Multi-Object Tracking and Classification of Cancer Cells with Transient Fluorescent Signals**|Florian Bürger et.al.|[2512.01885](http://arxiv.org/abs/2512.01885)|null|
+|**2025-12-01**|**COACH: Collaborative Agents for Contextual Highlighting - A Multi-Agent Framework for Sports Video Analysis**|Tsz-To Wong et.al.|[2512.01853](http://arxiv.org/abs/2512.01853)|null|
+|**2025-12-01**|**JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images**|Pericle Perazzo et.al.|[2512.01845](http://arxiv.org/abs/2512.01845)|null|
+|**2025-12-01**|**PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models**|Zeqing Wang et.al.|[2512.01843](http://arxiv.org/abs/2512.01843)|null|
+|**2025-12-01**|**Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling**|Meng Cao et.al.|[2512.01821](http://arxiv.org/abs/2512.01821)|null|
+|**2025-12-01**|**Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos**|Xavier Thomas et.al.|[2512.01803](http://arxiv.org/abs/2512.01803)|null|
+|**2025-12-01**|**Evaluating SAM2 for Video Semantic Segmentation**|Syed Hesham Syed Ariff et.al.|[2512.01774](http://arxiv.org/abs/2512.01774)|null|
+|**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
+|**2025-12-01**|**StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos**|Daeun Lee et.al.|[2512.01707](http://arxiv.org/abs/2512.01707)|null|
+|**2025-12-01**|**DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models**|Patrick Kwon et.al.|[2512.01686](http://arxiv.org/abs/2512.01686)|null|
+|**2025-12-01**|**Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation**|Haodong Yan et.al.|[2512.01677](http://arxiv.org/abs/2512.01677)|null|
 |**2025-11-28**|**Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models**|Muhammad Maaz et.al.|[2511.23478](http://arxiv.org/abs/2511.23478)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[2511.23475](http://arxiv.org/abs/2511.23475)|null|
