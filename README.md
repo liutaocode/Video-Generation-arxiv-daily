@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
+|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
+|**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
+|**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
+|**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
+|**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
+|**2025-12-02**|**Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks**|Matthew Dutson et.al.|[2512.03014](http://arxiv.org/abs/2512.03014)|null|
+|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench**|Lanxiang Hu et.al.|[2512.02942](http://arxiv.org/abs/2512.02942)|null|
+|**2025-12-02**|**Maintaining SUV Accuracy in Low-Count PET with PETfectior: A Deep Learning Denoising Solution**|Yamila Rotstein Habarnau et.al.|[2512.02917](http://arxiv.org/abs/2512.02917)|null|
+|**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[2512.02870](http://arxiv.org/abs/2512.02870)|null|
+|**2025-12-02**|**Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?**|Manuel Benavent-Lledo et.al.|[2512.02846](http://arxiv.org/abs/2512.02846)|null|
+|**2025-12-02**|**ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning**|Yifan Li et.al.|[2512.02835](http://arxiv.org/abs/2512.02835)|null|
+|**2025-12-02**|**From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity**|Haoming Liu et.al.|[2512.02826](http://arxiv.org/abs/2512.02826)|null|
+|**2025-12-02**|**Learning Science and the Illusion of Understanding: Exploring the Effects of Integrating Learning Tasks after Explainer Videos**|Madeleine Hörnlein et.al.|[2512.02824](http://arxiv.org/abs/2512.02824)|null|
+|**2025-12-02**|**FiMMIA: scaling semantic perturbation-based membership inference across modalities**|Anton Emelyanov et.al.|[2512.02786](http://arxiv.org/abs/2512.02786)|null|
+|**2025-12-02**|**Reasoning-Aware Multimodal Fusion for Hateful Video Detection**|Shuonan Yang et.al.|[2512.02743](http://arxiv.org/abs/2512.02743)|null|
+|**2025-12-02**|**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**|Yuhong Zhang et.al.|[2512.02729](http://arxiv.org/abs/2512.02729)|null|
 |**2025-12-01**|**Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now**|Varun Varma Thozhiyoor et.al.|[2512.02016](http://arxiv.org/abs/2512.02016)|null|
 |**2025-12-01**|**Generative Video Motion Editing with 3D Point Tracks**|Yao-Chih Lee et.al.|[2512.02015](http://arxiv.org/abs/2512.02015)|null|
 |**2025-12-01**|**TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models**|Zhiheng Liu et.al.|[2512.02014](http://arxiv.org/abs/2512.02014)|null|
