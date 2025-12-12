@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
 |**2025-12-10**|**DirectSwap: Mask-Free Cross-Identity Training and Benchmarking for Expression-Consistent Video Head Swapping**|Yanan Wang et.al.|[2512.09417](http://arxiv.org/abs/2512.09417)|null|
