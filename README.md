@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|null|
+|**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
+|**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](http://arxiv.org/abs/2512.11792)|null|
+|**2025-12-12**|**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion**|Xiangyang Luo et.al.|[2512.11274](http://arxiv.org/abs/2512.11274)|null|
+|**2025-12-12**|**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path**|Zhengyang Yu et.al.|[2512.11203](http://arxiv.org/abs/2512.11203)|null|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
