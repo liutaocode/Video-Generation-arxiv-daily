@@ -17,11 +17,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders**|Susung Hong et.al.|[2512.13690](http://arxiv.org/abs/2512.13690)|null|
+|**2025-12-15**|**KlingAvatar 2.0 Technical Report**|Kling Team et.al.|[2512.13313](http://arxiv.org/abs/2512.13313)|null|
+|**2025-12-15**|**Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?**|Jiaqi Wang et.al.|[2512.13281](http://arxiv.org/abs/2512.13281)|null|
+|**2025-12-15**|**STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits**|Foivos Paraperas Papantoniou et.al.|[2512.13247](http://arxiv.org/abs/2512.13247)|null|
+|**2025-12-15**|**Motus: A Unified Latent Action World Model**|Hongzhe Bi et.al.|[2512.13030](http://arxiv.org/abs/2512.13030)|null|
+|**2025-12-15**|**SneakPeek: Future-Guided Instructional Streaming Video Generation**|Cheeun Hong et.al.|[2512.13019](http://arxiv.org/abs/2512.13019)|null|
+|**2025-12-14**|**GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation**|Zhenya Yang et.al.|[2512.12751](http://arxiv.org/abs/2512.12751)|null|
+|**2025-12-14**|**Supervised Contrastive Frame Aggregation for Video Representation Learning**|Shaif Chowdhury et.al.|[2512.12549](http://arxiv.org/abs/2512.12549)|null|
+|**2025-12-14**|**Animus3D: Text-driven 3D Animation via Motion Score Distillation**|Qi Sun et.al.|[2512.12534](http://arxiv.org/abs/2512.12534)|null|
+|**2025-12-14**|**Generative Spatiotemporal Data Augmentation**|Jinfan Zhou et.al.|[2512.12508](http://arxiv.org/abs/2512.12508)|null|
+|**2025-12-13**|**V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping**|Hyunkoo Lee et.al.|[2512.12375](http://arxiv.org/abs/2512.12375)|null|
+|**2025-12-12**|**SPDMark: Selective Parameter Displacement for Robust Video Watermarking**|Samar Fares et.al.|[2512.12090](http://arxiv.org/abs/2512.12090)|null|
+|**2025-12-12**|**BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models**|Ryan Po et.al.|[2512.12080](http://arxiv.org/abs/2512.12080)|null|
 |**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|null|
 |**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
 |**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](http://arxiv.org/abs/2512.11792)|null|
 |**2025-12-12**|**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion**|Xiangyang Luo et.al.|[2512.11274](http://arxiv.org/abs/2512.11274)|null|
-|**2025-12-12**|**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path**|Zhengyang Yu et.al.|[2512.11203](http://arxiv.org/abs/2512.11203)|null|
+|**2025-12-15**|**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path**|Zhengyang Yu et.al.|[2512.11203](http://arxiv.org/abs/2512.11203)|null|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
