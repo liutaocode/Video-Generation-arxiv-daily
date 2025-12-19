@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang et.al.|[2512.16893](http://arxiv.org/abs/2512.16893)|null|
+|**2025-12-18**|**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models**|Mariam Hassan et.al.|[2512.16371](http://arxiv.org/abs/2512.16371)|null|
+|**2025-12-18**|**TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times**|Jintao Zhang et.al.|[2512.16093](http://arxiv.org/abs/2512.16093)|null|
+|**2025-12-17**|**CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion**|Liudi Yang et.al.|[2512.16023](http://arxiv.org/abs/2512.16023)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
 |**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|null|
@@ -29,7 +33,7 @@
 |**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
 |**2025-12-15**|**DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders**|Susung Hong et.al.|[2512.13690](http://arxiv.org/abs/2512.13690)|null|
 |**2025-12-15**|**KlingAvatar 2.0 Technical Report**|Kling Team et.al.|[2512.13313](http://arxiv.org/abs/2512.13313)|null|
-|**2025-12-16**|**Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?**|Jiaqi Wang et.al.|[2512.13281](http://arxiv.org/abs/2512.13281)|null|
+|**2025-12-18**|**Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?**|Jiaqi Wang et.al.|[2512.13281](http://arxiv.org/abs/2512.13281)|null|
 |**2025-12-15**|**STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits**|Foivos Paraperas Papantoniou et.al.|[2512.13247](http://arxiv.org/abs/2512.13247)|null|
 |**2025-12-15**|**Motus: A Unified Latent Action World Model**|Hongzhe Bi et.al.|[2512.13030](http://arxiv.org/abs/2512.13030)|null|
 |**2025-12-15**|**SneakPeek: Future-Guided Instructional Streaming Video Generation**|Cheeun Hong et.al.|[2512.13019](http://arxiv.org/abs/2512.13019)|null|
