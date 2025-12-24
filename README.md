@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
+|**2025-12-23**|**Learning Skills from Action-Free Videos**|Hung-Chieh Fang et.al.|[2512.20052](http://arxiv.org/abs/2512.20052)|null|
+|**2025-12-23**|**How Much 3D Do Video Foundation Models Encode?**|Zixuan Huang et.al.|[2512.19949](http://arxiv.org/abs/2512.19949)|null|
+|**2025-12-22**|**Learning to Refocus with Video Diffusion Models**|SaiKiran Tedla et.al.|[2512.19823](http://arxiv.org/abs/2512.19823)|null|
+|**2025-12-22**|**Generating the Past, Present and Future from a Motion-Blurred Image**|SaiKiran Tedla et.al.|[2512.19817](http://arxiv.org/abs/2512.19817)|null|
 |**2025-12-22**|**Over++: Generative Video Compositing for Layer Interaction Effects**|Luchao Qi et.al.|[2512.19661](http://arxiv.org/abs/2512.19661)|null|
 |**2025-12-22**|**StoryMem: Multi-shot Long Video Storytelling with Memory**|Kaiwen Zhang et.al.|[2512.19539](http://arxiv.org/abs/2512.19539)|null|
 |**2025-12-22**|**Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface**|Yujie Zhao et.al.|[2512.19402](http://arxiv.org/abs/2512.19402)|null|
