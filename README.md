@@ -127,7 +127,7 @@
 |**2025-12-04**|**Refaçade: Editing Object with Given Reference Texture**|Youze Huang et.al.|[2512.04534](http://arxiv.org/abs/2512.04534)|null|
 |**2025-12-04**|**PhyVLLM: Physics-Guided Video Language Model with Motion-Appearance Disentanglement**|Yu-Wei Zhan et.al.|[2512.04532](http://arxiv.org/abs/2512.04532)|null|
 |**2025-12-04**|**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory**|Yifei Yu et.al.|[2512.04519](http://arxiv.org/abs/2512.04519)|null|
-|**2025-12-04**|**EgoLCD: Egocentric Video Generation with Long Context Diffusion**|Liuzhou Zhang et.al.|[2512.04515](http://arxiv.org/abs/2512.04515)|null|
+|**2025-12-04**|**EgoLCD: Egocentric Video Generation with Long Context Diffusion**|Liuzhou Zhang et.al.|[2512.04515](http://arxiv.org/abs/2512.04515)|**[link](https://github.com/AIGeeksGroup/EgoLCD)**|
 |**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
@@ -149,8 +149,8 @@
 |**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|null|
 |**2025-12-03**|**Towards Object-centric Understanding for Instructional Videos**|Wenliang Guo et.al.|[2512.03479](http://arxiv.org/abs/2512.03479)|null|
 |**2025-12-03**|**GeoVideo: Introducing Geometric Regularization into Video Generation Model**|Yunpeng Bai et.al.|[2512.03453](http://arxiv.org/abs/2512.03453)|null|
-|**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
-|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
+|**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|**[link](https://github.com/jiayueru/Video2Act)**|
+|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|**[link](https://github.com/tulerfeng/OneThinker)**|
 |**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
 |**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
@@ -229,7 +229,7 @@
 |**2025-11-26**|**Digital Elevation Model Estimation from RGB Satellite Imagery using Generative Deep Learning**|Alif Ilham Madani et.al.|[2511.21985](http://arxiv.org/abs/2511.21985)|null|
 |**2025-11-26**|**Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data**|Satrajit Chakrabarty et.al.|[2511.21926](http://arxiv.org/abs/2511.21926)|null|
 |**2025-11-26**|**Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction Using Face Image and GSR Bio Signals**|Hamid Shamszare et.al.|[2511.21908](http://arxiv.org/abs/2511.21908)|null|
-|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|**[link](https://github.com/jayLEE0301/TraceGen)**|
 |**2025-11-26**|**Entropy Coding for Non-Rectangular Transform Blocks using Partitioned DCT Dictionaries for AV1**|Priyanka Das et.al.|[2511.21609](http://arxiv.org/abs/2511.21609)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
@@ -284,7 +284,7 @@
 |**2025-11-24**|**HABIT: Human Action Benchmark for Interactive Traffic in CARLA**|Mohan Ramesh et.al.|[2511.19109](http://arxiv.org/abs/2511.19109)|null|
 |**2025-11-24**|**Beyond Reward Margin: Rethinking and Resolving Likelihood Displacement in Diffusion Models via Video Generation**|Ruojun Xu et.al.|[2511.19049](http://arxiv.org/abs/2511.19049)|null|
 |**2025-11-24**|**View-Consistent Diffusion Representations for 3D-Consistent Video Generation**|Duolikun Danier et.al.|[2511.18991](http://arxiv.org/abs/2511.18991)|null|
-|**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
+|**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|**[link](https://github.com/AMAP-ML/Eevee)**|
 |**2025-11-24**|**One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control**|Zhenxing Mi et.al.|[2511.18922](http://arxiv.org/abs/2511.18922)|null|
 |**2025-11-24**|**EventSTU: Event-Guided Efficient Spatio-Temporal Understanding for Video Large Language Models**|Wenhao Xu et.al.|[2511.18920](http://arxiv.org/abs/2511.18920)|null|
 |**2025-11-24**|**Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation**|Ruiying Liu et.al.|[2511.18919](http://arxiv.org/abs/2511.18919)|null|
@@ -378,7 +378,7 @@
 |**2025-11-17**|**End-to-End Multi-Person Pose Estimation with Pose-Aware Video Transformer**|Yonghui Yu et.al.|[2511.13208](http://arxiv.org/abs/2511.13208)|null|
 |**2025-11-17**|**RefineVAD: Semantic-Guided Feature Recalibration for Weakly Supervised Video Anomaly Detection**|Junhee Lee et.al.|[2511.13204](http://arxiv.org/abs/2511.13204)|null|
 |**2025-11-17**|**Skeletons Speak Louder than Text: A Motion-Aware Pretraining Paradigm for Video-Based Person Re-Identification**|Rifen Lin et.al.|[2511.13150](http://arxiv.org/abs/2511.13150)|null|
-|**2025-11-17**|**VEIL: Jailbreaking Text-to-Video Models via Visual Exploitation from Implicit Language**|Zonghao Ying et.al.|[2511.13127](http://arxiv.org/abs/2511.13127)|null|
+|**2025-11-17**|**VEIL: Jailbreaking Text-to-Video Models via Visual Exploitation from Implicit Language**|Zonghao Ying et.al.|[2511.13127](http://arxiv.org/abs/2511.13127)|**[link](https://github.com/NY1024/VEIL)**|
 |**2025-11-17**|**CloseUpShot: Close-up Novel View Synthesis from Sparse-views via Point-conditioned Diffusion Model**|Yuqi Zhang et.al.|[2511.13121](http://arxiv.org/abs/2511.13121)|null|
 |**2025-11-17**|**Semantics and Content Matter: Towards Multi-Prior Hierarchical Mamba for Image Deraining**|Zhaocheng Yu et.al.|[2511.13113](http://arxiv.org/abs/2511.13113)|null|
 |**2025-11-17**|**ViSS-R1: Self-Supervised Reinforcement Video Reasoning**|Bo Fang et.al.|[2511.13054](http://arxiv.org/abs/2511.13054)|null|
