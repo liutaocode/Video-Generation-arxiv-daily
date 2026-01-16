@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Chengfeng Zhao et.al.|[2601.10632](http://arxiv.org/abs/2601.10632)|null|
+|**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
+|**2026-01-15**|**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**|Dong-Yu Chen et.al.|[2601.10214](http://arxiv.org/abs/2601.10214)|null|
+|**2026-01-15**|**CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation**|Chengzhuo Tong et.al.|[2601.10061](http://arxiv.org/abs/2601.10061)|null|
+|**2026-01-14**|**Transition Matching Distillation for Fast Video Generation**|Weili Nie et.al.|[2601.09881](http://arxiv.org/abs/2601.09881)|null|
 |**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
 |**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi et.al.|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
 |**2026-01-14**|**PhyRPR: Training-Free Physics-Constrained Video Generation**|Yibo Zhao et.al.|[2601.09255](http://arxiv.org/abs/2601.09255)|null|
