@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|
 |**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Chengfeng Zhao et.al.|[2601.10632](http://arxiv.org/abs/2601.10632)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
 |**2026-01-15**|**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**|Dong-Yu Chen et.al.|[2601.10214](http://arxiv.org/abs/2601.10214)|null|
