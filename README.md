@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255](http://arxiv.org/abs/2601.14255)|null|
+|**2026-01-15**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
+|**2026-01-19**|**Moaw: Unleashing Motion Awareness for Video Diffusion Models**|Tianqi Zhang et.al.|[2601.12761](http://arxiv.org/abs/2601.12761)|null|
 |**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|
 |**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Chengfeng Zhao et.al.|[2601.10632](http://arxiv.org/abs/2601.10632)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
