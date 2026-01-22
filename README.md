@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
+|**2026-01-21**|**Rethinking Video Generation Model for the Embodied World**|Yufan Deng et.al.|[2601.15282](http://arxiv.org/abs/2601.15282)|null|
 |**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
 |**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255](http://arxiv.org/abs/2601.14255)|null|
 |**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
