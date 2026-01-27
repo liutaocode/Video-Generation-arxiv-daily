@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
+|**2026-01-22**|**A Mechanistic View on Video Generation as World Models: State and Dynamics**|Luozhou Wang et.al.|[2601.17067](http://arxiv.org/abs/2601.17067)|null|
 |**2026-01-22**|**Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory**|Dohun Lee et.al.|[2601.16296](http://arxiv.org/abs/2601.16296)|null|
 |**2026-01-22**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|null|
 |**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
