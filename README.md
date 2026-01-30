@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**MPF-Net: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations**|Xinan He et.al.|[2601.21408](http://arxiv.org/abs/2601.21408)|null|
+|**2026-01-28**|**Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning**|Chengzu Li et.al.|[2601.21037](http://arxiv.org/abs/2601.21037)|null|
 |**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Hongyu Zhou et.al.|[2601.20857](http://arxiv.org/abs/2601.20857)|null|
 |**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|null|
 |**2026-01-28**|**Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V**|Meiqi Wu et.al.|[2601.20504](http://arxiv.org/abs/2601.20504)|null|
@@ -25,7 +27,7 @@
 |**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
 |**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
 |**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Xiao Liu et.al.|[2601.18698](http://arxiv.org/abs/2601.18698)|null|
-|**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
+|**2026-01-29**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
 |**2026-01-22**|**A Mechanistic View on Video Generation as World Models: State and Dynamics**|Luozhou Wang et.al.|[2601.17067](http://arxiv.org/abs/2601.17067)|null|
 |**2026-01-22**|**Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory**|Dohun Lee et.al.|[2601.16296](http://arxiv.org/abs/2601.16296)|null|
 |**2026-01-22**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|null|
