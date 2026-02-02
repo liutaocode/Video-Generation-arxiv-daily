@@ -212,9 +212,9 @@
 |**2025-12-03**|**Dynamic Optical Test for Bot Identification (DOT-BI): A simple check to identify bots in surveys and online processes**|Malte Bleeker et.al.|[2512.03580](http://arxiv.org/abs/2512.03580)|null|
 |**2025-12-03**|**Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching**|Wei Chee Yew et.al.|[2512.03553](http://arxiv.org/abs/2512.03553)|null|
 |**2025-12-03**|**Real-Time Control and Automation Framework for Acousto-Holographic Microscopy**|Hasan Berkay Abdioğlu et.al.|[2512.03539](http://arxiv.org/abs/2512.03539)|null|
-|**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|null|
+|**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|**[link](https://github.com/ShandaAI/FloodDiffusion)**|
 |**2025-12-03**|**Towards Object-centric Understanding for Instructional Videos**|Wenliang Guo et.al.|[2512.03479](http://arxiv.org/abs/2512.03479)|null|
-|**2025-12-03**|**GeoVideo: Introducing Geometric Regularization into Video Generation Model**|Yunpeng Bai et.al.|[2512.03453](http://arxiv.org/abs/2512.03453)|null|
+|**2025-12-03**|**GeoVideo: Introducing Geometric Regularization into Video Generation Model**|Yunpeng Bai et.al.|[2512.03453](http://arxiv.org/abs/2512.03453)|**[link](https://github.com/yunpeng1998/GeoVideo)**|
 |**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|**[link](https://github.com/jiayueru/Video2Act)**|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|**[link](https://github.com/tulerfeng/OneThinker)**|
 |**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
@@ -459,7 +459,7 @@
 |**2025-11-14**|**EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation**|Zongyang Qiu et.al.|[2511.11002](http://arxiv.org/abs/2511.11002)|null|
 |**2025-11-14**|**Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition**|Gunho Jung et.al.|[2511.10958](http://arxiv.org/abs/2511.10958)|null|
 |**2025-11-14**|**Language-Guided Graph Representation Learning for Video Summarization**|Wenrui Li et.al.|[2511.10953](http://arxiv.org/abs/2511.10953)|null|
-|**2025-11-14**|**DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting**|Luciano Araujo Dourado Filho et.al.|[2511.10894](http://arxiv.org/abs/2511.10894)|null|
+|**2025-11-14**|**DINOv3 as a Frozen Encoder for CRPS-Oriented Probabilistic Rainfall Nowcasting**|Luciano Araujo Dourado Filho et.al.|[2511.10894](http://arxiv.org/abs/2511.10894)|**[link](https://github.com/FalsoMoralista/Weather-4-Cast)**|
 |**2025-11-14**|**Short-Window Sliding Learning for Real-Time Violence Detection via LLM-based Auto-Labeling**|Seoik Jung et.al.|[2511.10866](http://arxiv.org/abs/2511.10866)|null|
 |**2025-11-13**|**From Attention to Frequency: Integration of Vision Transformer and FFT-ReLU for Enhanced Image Deblurring**|Syed Mumtahin Mahmud et.al.|[2511.10806](http://arxiv.org/abs/2511.10806)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel et.al.|[2511.10615](http://arxiv.org/abs/2511.10615)|**[link](https://github.com/pratap424/Towards-Blind-and-Low-Vision-Accessibility-of-Lightweight-VLMs-and-Custom-LLM-Evals)**|
