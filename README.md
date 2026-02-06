@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation**|Mirlan Karimov et.al.|[2602.05966](http://arxiv.org/abs/2602.05966)|null|
 |**2026-02-05**|**Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**|Hai Zhang et.al.|[2602.05827](http://arxiv.org/abs/2602.05827)|null|
 |**2026-02-05**|**GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling**|Shivanshu Shekhar et.al.|[2602.05202](http://arxiv.org/abs/2602.05202)|null|
 |**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
