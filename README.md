@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Geometry-Aware Rotary Position Embedding for Consistent Video World Model**|Chendong Xiang et.al.|[2602.07854](http://arxiv.org/abs/2602.07854)|null|
+|**2026-02-08**|**Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion**|Haodong Li et.al.|[2602.07775](http://arxiv.org/abs/2602.07775)|null|
+|**2026-02-07**|**IM-Animation: An Implicit Motion Representation for Identity-decoupled Character Animation**|Zhufeng Xu et.al.|[2602.07498](http://arxiv.org/abs/2602.07498)|null|
+|**2026-02-06**|**VideoNeuMat: Neural Material Extraction from Generative Video Models**|Bowen Xue et.al.|[2602.07272](http://arxiv.org/abs/2602.07272)|null|
+|**2026-02-04**|**Interpreting Physics in Video World Models**|Sonia Joseph et.al.|[2602.07050](http://arxiv.org/abs/2602.07050)|null|
 |**2026-02-06**|**CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation**|Kaiyi Huang et.al.|[2602.06959](http://arxiv.org/abs/2602.06959)|null|
 |**2026-02-05**|**LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation**|Mirlan Karimov et.al.|[2602.05966](http://arxiv.org/abs/2602.05966)|null|
 |**2026-02-05**|**Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**|Hai Zhang et.al.|[2602.05827](http://arxiv.org/abs/2602.05827)|null|
