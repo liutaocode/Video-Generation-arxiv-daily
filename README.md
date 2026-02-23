@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
+|**2026-02-20**|**Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers**|Hanshuai Cui et.al.|[2602.18093](http://arxiv.org/abs/2602.18093)|null|
 |**2026-02-18**|**CHAI: CacHe Attention Inference for text2video**|Joel Mathew Cherian et.al.|[2602.16132](http://arxiv.org/abs/2602.16132)|null|
 |**2026-02-17**|**World Action Models are Zero-shot Policies**|Seonghyeon Ye et.al.|[2602.15922](http://arxiv.org/abs/2602.15922)|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
