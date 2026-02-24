@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Welcome to Video Generation papers! 
 
 <details>
@@ -21,7 +21,7 @@
 |**2026-02-20**|**Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers**|Hanshuai Cui et.al.|[2602.18093](http://arxiv.org/abs/2602.18093)|null|
 |**2026-02-18**|**CHAI: CacHe Attention Inference for text2video**|Joel Mathew Cherian et.al.|[2602.16132](http://arxiv.org/abs/2602.16132)|null|
 |**2026-02-17**|**World Action Models are Zero-shot Policies**|Seonghyeon Ye et.al.|[2602.15922](http://arxiv.org/abs/2602.15922)|null|
-|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|**[link](https://github.com/VideoSketcher/VideoSketcher)**|
+|**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
 |**2026-02-17**|**Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.|[2602.14027](http://arxiv.org/abs/2602.14027)|null|
 |**2026-02-14**|**High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication**|Cem Eteke et.al.|[2602.13837](http://arxiv.org/abs/2602.13837)|null|
 |**2026-02-14**|**EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**|Rang Meng et.al.|[2602.13669](http://arxiv.org/abs/2602.13669)|null|
@@ -791,7 +791,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
