@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-22**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202](http://arxiv.org/abs/2602.19202)|null|
+|**2026-02-22**|**Ani3DHuman: Photorealistic 3D Human Animation with Self-guided Stochastic Sampling**|Qi Sun et.al.|[2602.19089](http://arxiv.org/abs/2602.19089)|null|
+|**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Seungku Kim et.al.|[2602.18742](http://arxiv.org/abs/2602.18742)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
 |**2026-02-20**|**Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers**|Hanshuai Cui et.al.|[2602.18093](http://arxiv.org/abs/2602.18093)|null|
 |**2026-02-18**|**CHAI: CacHe Attention Inference for text2video**|Joel Mathew Cherian et.al.|[2602.16132](http://arxiv.org/abs/2602.16132)|null|
