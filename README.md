@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
+|**2026-02-23**|**Pixel2Phys: Distilling Governing Laws from Visual Dynamics**|Ruikun Li et.al.|[2602.19516](http://arxiv.org/abs/2602.19516)|null|
 |**2026-02-22**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202](http://arxiv.org/abs/2602.19202)|null|
 |**2026-02-22**|**Ani3DHuman: Photorealistic 3D Human Animation with Self-guided Stochastic Sampling**|Qi Sun et.al.|[2602.19089](http://arxiv.org/abs/2602.19089)|null|
 |**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Seungku Kim et.al.|[2602.18742](http://arxiv.org/abs/2602.18742)|null|
