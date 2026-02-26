@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
 |**2026-02-24**|**Human Video Generation from a Single Image with 3D Pose and View Control**|Tiantian Wang et.al.|[2602.21188](http://arxiv.org/abs/2602.21188)|null|
 |**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
 |**2026-02-24**|**GA-Drive: Geometry-Appearance Decoupled Modeling for Free-viewpoint Driving Scene Generatio**|Hao Zhang et.al.|[2602.20673](http://arxiv.org/abs/2602.20673)|null|
