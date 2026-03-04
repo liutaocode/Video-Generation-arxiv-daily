@@ -17,13 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**|Xinjie Zhu et.al.|[2603.02882](http://arxiv.org/abs/2603.02882)|null|
+|**2026-03-03**|**Compositional Visual Planning via Inference-Time Diffusion Scaling**|Yixin Zhang et.al.|[2603.02646](http://arxiv.org/abs/2603.02646)|null|
+|**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
+|**2026-02-27**|**CamDirector: Towards Long-Term Coherent Video Trajectory Editing**|Zhihao Shi et.al.|[2603.02256](http://arxiv.org/abs/2603.02256)|null|
 |**2026-03-02**|**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**|Hualiang Wei et.al.|[2603.02129](http://arxiv.org/abs/2603.02129)|null|
 |**2026-03-02**|**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**|Yisu Zhang et.al.|[2603.02049](http://arxiv.org/abs/2603.02049)|null|
 |**2026-03-02**|**FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters**|Shao Shitong et.al.|[2603.01685](http://arxiv.org/abs/2603.01685)|null|
 |**2026-03-02**|**Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration**|Jiaqi Han et.al.|[2603.01623](http://arxiv.org/abs/2603.01623)|null|
 |**2026-03-02**|**UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**|Hebeizi Li et.al.|[2603.01418](http://arxiv.org/abs/2603.01418)|null|
 |**2026-03-01**|**EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization**|Zhaoxin Fan et.al.|[2603.00978](http://arxiv.org/abs/2603.00978)|null|
-|**2026-03-01**|**PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation**|Jiangshan Wang et.al.|[2603.00976](http://arxiv.org/abs/2603.00976)|null|
+|**2026-03-03**|**PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation**|Jiangshan Wang et.al.|[2603.00976](http://arxiv.org/abs/2603.00976)|null|
 |**2026-02-28**|**MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation**|Rongsheng Wang et.al.|[2603.00585](http://arxiv.org/abs/2603.00585)|null|
 |**2026-02-27**|**SKeDA: A Generative Watermarking Framework for Text-to-video Diffusion Models**|Yang Yang et.al.|[2603.00194](http://arxiv.org/abs/2603.00194)|null|
 |**2026-02-18**|**Learning Physics from Pretrained Video Models: A Multimodal Continuous and Sequential World Interaction Models for Robotic Manipulation**|Zijian Song et.al.|[2603.00110](http://arxiv.org/abs/2603.00110)|null|
