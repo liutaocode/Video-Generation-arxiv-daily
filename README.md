@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|null|
+|**2026-03-03**|**Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion**|Haoran Lu et.al.|[2603.03485](http://arxiv.org/abs/2603.03485)|null|
 |**2026-03-03**|**SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**|Xinjie Zhu et.al.|[2603.02882](http://arxiv.org/abs/2603.02882)|null|
 |**2026-03-03**|**Compositional Visual Planning via Inference-Time Diffusion Scaling**|Yixin Zhang et.al.|[2603.02646](http://arxiv.org/abs/2603.02646)|null|
 |**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
