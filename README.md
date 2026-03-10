@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Accelerating Video Generation Inference with Sequential-Parallel 3D Positional Encoding Using a Global Time Index**|Chao Yuan et.al.|[2603.06664](http://arxiv.org/abs/2603.06664)|null|
 |**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
 |**2026-03-06**|**GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection**|Xuan Huang et.al.|[2603.06048](http://arxiv.org/abs/2603.06048)|null|
 |**2026-03-06**|**VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2603.05851](http://arxiv.org/abs/2603.05851)|null|
@@ -832,7 +833,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
