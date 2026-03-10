@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**SWIFT: Sliding Window Reconstruction for Few-Shot Training-Free Generated Video Attribution**|Chao Wang et.al.|[2603.08536](http://arxiv.org/abs/2603.08536)|null|
+|**2026-03-09**|**SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents**|Yu Yang et.al.|[2603.08403](http://arxiv.org/abs/2603.08403)|null|
 |**2026-03-09**|**Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades**|Ashkan Taghipour et.al.|[2603.08028](http://arxiv.org/abs/2603.08028)|null|
 |**2026-03-02**|**Accelerating Video Generation Inference with Sequential-Parallel 3D Positional Encoding Using a Global Time Index**|Chao Yuan et.al.|[2603.06664](http://arxiv.org/abs/2603.06664)|null|
 |**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
