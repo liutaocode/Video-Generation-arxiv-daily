@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
 |**2026-03-12**|**OSCBench: Benchmarking Object State Change in Text-to-Video Generation**|Xianjing Han et.al.|[2603.11698](http://arxiv.org/abs/2603.11698)|null|
 |**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
 |**2026-03-10**|**Chain of Event-Centric Causal Thought for Physically Plausible Video Generation**|Zixuan Wang et.al.|[2603.09094](http://arxiv.org/abs/2603.09094)|null|
