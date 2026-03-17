@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
+|**2026-03-15**|**Early Failure Detection and Intervention in Video Diffusion Models**|Kwon Byung-Ki et.al.|[2603.14320](http://arxiv.org/abs/2603.14320)|null|
+|**2026-03-15**|**Seeking Physics in Diffusion Noise**|Chujun Tang et.al.|[2603.14294](http://arxiv.org/abs/2603.14294)|null|
+|**2026-03-15**|**CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control**|Zhiyi Kuang et.al.|[2603.14241](http://arxiv.org/abs/2603.14241)|null|
 |**2026-03-14**|**Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation**|Stefan Ainetter et.al.|[2603.13910](http://arxiv.org/abs/2603.13910)|null|
 |**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
 |**2026-03-14**|**UniVid: Pyramid Diffusion Model for High Quality Video Generation**|Xinyu Xiao et.al.|[2603.13739](http://arxiv.org/abs/2603.13739)|null|
