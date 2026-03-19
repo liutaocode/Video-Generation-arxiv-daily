@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,13 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning**|Xi Ye et.al.|[2603.17426](http://arxiv.org/abs/2603.17426)|null|
+|**2026-03-18**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240](http://arxiv.org/abs/2603.17240)|null|
+|**2026-03-17**|**MosaicMem: Hybrid Spatial Memory for Controllable Video World Models**|Wei Yu et.al.|[2603.17117](http://arxiv.org/abs/2603.17117)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
 |**2026-03-17**|**World Reconstruction From Inconsistent Views**|Lukas Höllein et.al.|[2603.16736](http://arxiv.org/abs/2603.16736)|null|
 |**2026-03-17**|**VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment**|Tengjiao Yin et.al.|[2603.16271](http://arxiv.org/abs/2603.16271)|null|
 |**2026-03-16**|**Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**|Zhenghong Zhou et.al.|[2603.15614](http://arxiv.org/abs/2603.15614)|null|
 |**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
-|**2026-03-16**|**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors**|Yunuo Chen et.al.|[2603.15129](http://arxiv.org/abs/2603.15129)|null|
+|**2026-03-18**|**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors**|Yunuo Chen et.al.|[2603.15129](http://arxiv.org/abs/2603.15129)|null|
 |**2026-03-16**|**GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis**|Minjun Kang et.al.|[2603.14965](http://arxiv.org/abs/2603.14965)|null|
 |**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
 |**2026-03-15**|**Early Failure Detection and Intervention in Video Diffusion Models**|Kwon Byung-Ki et.al.|[2603.14320](http://arxiv.org/abs/2603.14320)|null|
@@ -861,7 +864,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
