@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**|Songjia He et.al.|[2603.18811](http://arxiv.org/abs/2603.18811)|null|
+|**2026-03-19**|**6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models**|Rundong Su et.al.|[2603.18742](http://arxiv.org/abs/2603.18742)|null|
+|**2026-03-19**|**PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance**|Cong Wang et.al.|[2603.18639](http://arxiv.org/abs/2603.18639)|null|
+|**2026-03-19**|**Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering**|Jiayi Luo et.al.|[2603.18636](http://arxiv.org/abs/2603.18636)|null|
+|**2026-03-19**|**Improving Joint Audio-Video Generation with Cross-Modal Context Learning**|Bingqi Ma et.al.|[2603.18600](http://arxiv.org/abs/2603.18600)|null|
+|**2026-03-19**|**3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model**|Hyun-kyu Ko et.al.|[2603.18524](http://arxiv.org/abs/2603.18524)|null|
 |**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
 |**2026-03-18**|**EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards**|Ruixiang Wang et.al.|[2603.17808](http://arxiv.org/abs/2603.17808)|null|
 |**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
@@ -867,7 +873,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
