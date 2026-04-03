@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion**|Edoardo A. Dominici et.al.|[2604.01761](http://arxiv.org/abs/2604.01761)|null|
+|**2026-04-02**|**Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation**|Lingyu Liu et.al.|[2604.01700](http://arxiv.org/abs/2604.01700)|null|
+|**2026-04-02**|**From Understanding to Erasing: Towards Complete and Stable Video Object Removal**|Dingming Liu et.al.|[2604.01693](http://arxiv.org/abs/2604.01693)|null|
+|**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
 |**2026-04-01**|**ReinDriveGen: Reinforcement Post-Training for Out-of-Distribution Driving Scene Generation**|Hao Zhang et.al.|[2604.01129](http://arxiv.org/abs/2604.01129)|null|
 |**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](http://arxiv.org/abs/2604.01053)|null|
 |**2026-04-01**|**HICT: High-precision 3D CBCT reconstruction from a single X-ray**|Wen Ma et.al.|[2604.00792](http://arxiv.org/abs/2604.00792)|null|
@@ -31,7 +35,7 @@
 |**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao et.al.|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
 |**2026-03-27**|**Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling**|Ruixing Zhang et.al.|[2603.26610](http://arxiv.org/abs/2603.26610)|null|
 |**2026-03-27**|**VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward**|Zhaochong An et.al.|[2603.26599](http://arxiv.org/abs/2603.26599)|null|
-|**2026-03-27**|**Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow**|Ziyue Zeng et.al.|[2603.26571](http://arxiv.org/abs/2603.26571)|null|
+|**2026-04-02**|**Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow**|Ziyue Zeng et.al.|[2603.26571](http://arxiv.org/abs/2603.26571)|null|
 |**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892](http://arxiv.org/abs/2603.25892)|null|
 |**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
 |**2026-04-01**|**Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training**|Xiangyang Luo et.al.|[2603.25527](http://arxiv.org/abs/2603.25527)|null|
@@ -913,7 +917,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
