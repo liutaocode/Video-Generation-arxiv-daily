@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale**|Zhengcen Li et.al.|[2604.04634](http://arxiv.org/abs/2604.04634)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
+|**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
+|**2026-04-06**|**UENR-600K: A Large-Scale Physically Grounded Dataset for Nighttime Video Deraining**|Pei Yang et.al.|[2604.04402](http://arxiv.org/abs/2604.04402)|null|
+|**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198](http://arxiv.org/abs/2604.04198)|null|
 |**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|null|
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|null|
 |**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
