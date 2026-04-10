@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
+|**2026-04-09**|**Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**|Ying Shen et.al.|[2604.08503](http://arxiv.org/abs/2604.08503)|null|
+|**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|null|
+|**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-09**|**Lighting-grounded Video Generation with Renderer-based Agent Reasoning**|Ziqi Cai et.al.|[2604.07966](http://arxiv.org/abs/2604.07966)|null|
+|**2026-04-08**|**Grasp as You Dream: Imitating Functional Grasping from Generated Human Demonstrations**|Chao Tang et.al.|[2604.07517](http://arxiv.org/abs/2604.07517)|null|
+|**2026-04-08**|**Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity**|Yucheng Zhou et.al.|[2604.07402](http://arxiv.org/abs/2604.07402)|null|
 |**2026-04-08**|**Controllable Generative Video Compression**|Ding Ding et.al.|[2604.06655](http://arxiv.org/abs/2604.06655)|null|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
 |**2026-04-07**|**SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation**|Hiba Dahmani et.al.|[2604.06113](http://arxiv.org/abs/2604.06113)|null|
