@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
+|**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Yifan Li et.al.|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
 |**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
 |**2026-04-14**|**Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation**|Wentai Zhang et.al.|[2604.12219](http://arxiv.org/abs/2604.12219)|null|
 |**2026-04-13**|**Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale**|Dongxu Wei et.al.|[2604.11331](http://arxiv.org/abs/2604.11331)|null|
@@ -956,7 +959,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
