@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation**|Xiangyu Liu et.al.|[2604.14580](http://arxiv.org/abs/2604.14580)|null|
+|**2026-04-15**|**Geometrically Consistent Multi-View Scene Generation from Freehand Sketches**|Ahmed Bourouis et.al.|[2604.14302](http://arxiv.org/abs/2604.14302)|null|
 |**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
 |**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
 |**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Yifan Li et.al.|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
