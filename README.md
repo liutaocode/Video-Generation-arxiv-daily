@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Haoyu Wu et.al.|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
+|**2026-04-20**|**Training and Agentic Inference Strategies for LLM-based Manim Animation Generation**|Ravidu Suien Rammuni Silva et.al.|[2604.18364](http://arxiv.org/abs/2604.18364)|null|
 |**2026-04-19**|**ViPS: Video-informed Pose Spaces for Auto-Rigged Meshes**|Honglin Chen et.al.|[2604.17623](http://arxiv.org/abs/2604.17623)|null|
 |**2026-04-19**|**Long-CODE: Isolating Pure Long-Context as an Orthogonal Dimension in Video Evaluation**|Zhijiang Tang et.al.|[2604.17428](http://arxiv.org/abs/2604.17428)|null|
 |**2026-04-19**|**DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior**|Junjia Huang et.al.|[2604.17195](http://arxiv.org/abs/2604.17195)|null|
