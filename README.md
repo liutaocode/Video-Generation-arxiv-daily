@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer**|Boyang Wang et.al.|[2604.24762](http://arxiv.org/abs/2604.24762)|null|
 |**2026-04-26**|**Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling**|Zhen Ye et.al.|[2604.23586](http://arxiv.org/abs/2604.23586)|null|
 |**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Gal Metzer et.al.|[2604.22554](http://arxiv.org/abs/2604.22554)|null|
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
