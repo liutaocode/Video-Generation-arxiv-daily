@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
+|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
 |**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
 |**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
 |**2026-04-27**|**OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer**|Boyang Wang et.al.|[2604.24762](http://arxiv.org/abs/2604.24762)|null|
@@ -985,7 +987,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
