@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**PhyGround: Benchmarking Physical Reasoning in Generative World Models**|Juyi Lin et.al.|[2605.10806](http://arxiv.org/abs/2605.10806)|null|
+|**2026-05-11**|**Progressive Photorealistic Simplification**|Adi Rosenthal et.al.|[2605.10409](http://arxiv.org/abs/2605.10409)|null|
 |**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|null|
 |**2026-05-10**|**Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models**|Yicheng Ji et.al.|[2605.09681](http://arxiv.org/abs/2605.09681)|null|
 |**2026-05-10**|**Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study**|Yuhan Wang et.al.|[2605.09622](http://arxiv.org/abs/2605.09622)|null|
