@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|null|
+|**2026-05-10**|**Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models**|Yicheng Ji et.al.|[2605.09681](http://arxiv.org/abs/2605.09681)|null|
+|**2026-05-10**|**Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study**|Yuhan Wang et.al.|[2605.09622](http://arxiv.org/abs/2605.09622)|null|
+|**2026-05-10**|**SWIFT: Prompt-Adaptive Memory for Efficient Interactive Long Video Generation**|Shanwen Tan et.al.|[2605.09442](http://arxiv.org/abs/2605.09442)|null|
+|**2026-05-09**|**CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models**|Joowon Kim et.al.|[2605.08735](http://arxiv.org/abs/2605.08735)|null|
+|**2026-05-09**|**Unison: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation**|Shihao Cheng et.al.|[2605.08729](http://arxiv.org/abs/2605.08729)|null|
 |**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
 |**2026-05-08**|**Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers**|Jingyuan Zhu et.al.|[2605.07503](http://arxiv.org/abs/2605.07503)|null|
 |**2026-05-08**|**Do Joint Audio-Video Generation Models Understand Physics?**|Zijun Cui et.al.|[2605.07061](http://arxiv.org/abs/2605.07061)|null|
@@ -28,7 +34,7 @@
 |**2026-05-07**|**CFE-PPAR: Compression-friendly encryption for privacy-preserving action recognition leveraging video transformers**|Haiwei Lin et.al.|[2605.05692](http://arxiv.org/abs/2605.05692)|null|
 |**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
 |**2026-05-05**|**Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback**|Edoardo Bianchi et.al.|[2605.03848](http://arxiv.org/abs/2605.03848)|null|
-|**2026-05-07**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
+|**2026-05-11**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
 |**2026-05-05**|**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**|Zhiyuan Li et.al.|[2605.03637](http://arxiv.org/abs/2605.03637)|null|
 |**2026-05-04**|**Video Generation with Predictive Latents**|Yian Zhao et.al.|[2605.02134](http://arxiv.org/abs/2605.02134)|null|
 |**2026-05-03**|**Exploring Data-Free LoRA Transferability for Video Diffusion Models**|Yuchen Wang et.al.|[2605.01929](http://arxiv.org/abs/2605.01929)|null|
@@ -1011,7 +1017,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
