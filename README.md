@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
+|**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
+|**2026-05-13**|**GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion**|Hanxin Zhu et.al.|[2605.12957](http://arxiv.org/abs/2605.12957)|null|
 |**2026-05-12**|**GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization**|Huiran Duan et.al.|[2605.12431](http://arxiv.org/abs/2605.12431)|null|
 |**2026-05-12**|**From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation**|Yajie Li et.al.|[2605.12167](http://arxiv.org/abs/2605.12167)|null|
 |**2026-05-12**|**Single-Shot HDR Recovery via a Video Diffusion Prior**|Chinmay Talegaonkar et.al.|[2605.11628](http://arxiv.org/abs/2605.11628)|null|
@@ -1022,7 +1025,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
