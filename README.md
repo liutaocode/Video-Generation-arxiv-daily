@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](http://arxiv.org/abs/2605.14894)|null|
+|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|null|
+|**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
+|**2026-05-14**|**Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity**|Jiahao Tian et.al.|[2605.14487](http://arxiv.org/abs/2605.14487)|null|
+|**2026-05-14**|**CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL**|Zhenyang Ni et.al.|[2605.14274](http://arxiv.org/abs/2605.14274)|null|
+|**2026-05-13**|**TeDiO: Temporal Diagonal Optimization for Training-Free Coherent Video Diffusion**|Nurislam Tursynbek et.al.|[2605.14136](http://arxiv.org/abs/2605.14136)|null|
 |**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
 |**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
 |**2026-05-13**|**GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion**|Hanxin Zhu et.al.|[2605.12957](http://arxiv.org/abs/2605.12957)|null|
