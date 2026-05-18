@@ -17,11 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-15**|**Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation**|Mingqiang Wu et.al.|[2605.16003](http://arxiv.org/abs/2605.16003)|null|
+|**2026-05-15**|**Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**|Xiaoxuan He et.al.|[2605.15980](http://arxiv.org/abs/2605.15980)|null|
+|**2026-05-14**|**Video Models Can Reason with Verifiable Rewards**|Tinghui Zhu et.al.|[2605.15458](http://arxiv.org/abs/2605.15458)|null|
+|**2026-05-14**|**Sound Sparks Motion: Audio and Text Tuning for Video Editing**|AmirHossein Naghi Razlighi et.al.|[2605.15307](http://arxiv.org/abs/2605.15307)|null|
 |**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
 |**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|null|
 |**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
 |**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](http://arxiv.org/abs/2605.14894)|null|
-|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|null|
 |**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
 |**2026-05-14**|**Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity**|Jiahao Tian et.al.|[2605.14487](http://arxiv.org/abs/2605.14487)|null|
 |**2026-05-14**|**CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL**|Zhenyang Ni et.al.|[2605.14274](http://arxiv.org/abs/2605.14274)|null|
