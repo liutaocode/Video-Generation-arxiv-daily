@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**Spectral Progressive Diffusion for Efficient Image and Video Generation**|Howard Xiao et.al.|[2605.18736](http://arxiv.org/abs/2605.18736)|null|
+|**2026-05-18**|**NEWTON: Agentic Planning for Physically Grounded Video Generation**|Yuxiang Feng et.al.|[2605.18396](http://arxiv.org/abs/2605.18396)|null|
+|**2026-05-18**|**GeoFlow: Enforcing Implicit Geometric Consistency in Video Generation**|Jan Ackermann et.al.|[2605.18365](http://arxiv.org/abs/2605.18365)|null|
+|**2026-05-18**|**Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos**|X. Feng et.al.|[2605.18233](http://arxiv.org/abs/2605.18233)|null|
 |**2026-05-18**|**AdaptiveLoad: Towards Efficient Video Diffusion Transformer Training**|Yucheng Guo et.al.|[2605.17923](http://arxiv.org/abs/2605.17923)|null|
 |**2026-05-18**|**Temporal Aware Pruning for Efficient Diffusion-based Video Generation**|Sheng Li et.al.|[2605.17837](http://arxiv.org/abs/2605.17837)|null|
 |**2026-05-17**|**SpecSem-Net: Integrating Spectral and Semantic Features for Robust AI-generated Video Detection**|Zixi Wei et.al.|[2605.17311](http://arxiv.org/abs/2605.17311)|null|
