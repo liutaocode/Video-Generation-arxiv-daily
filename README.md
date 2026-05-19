@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**AdaptiveLoad: Towards Efficient Video Diffusion Transformer Training**|Yucheng Guo et.al.|[2605.17923](http://arxiv.org/abs/2605.17923)|null|
+|**2026-05-18**|**Temporal Aware Pruning for Efficient Diffusion-based Video Generation**|Sheng Li et.al.|[2605.17837](http://arxiv.org/abs/2605.17837)|null|
+|**2026-05-17**|**SpecSem-Net: Integrating Spectral and Semantic Features for Robust AI-generated Video Detection**|Zixi Wei et.al.|[2605.17311](http://arxiv.org/abs/2605.17311)|null|
+|**2026-05-16**|**3DPhysVideo: Consistency-Guided Flow SDE for Video Generation via 3D Scene Reconstruction and Physical Simulation**|Hwidong Kim et.al.|[2605.16795](http://arxiv.org/abs/2605.16795)|null|
+|**2026-05-15**|**AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling**|Ziyang Mai et.al.|[2605.16649](http://arxiv.org/abs/2605.16649)|null|
+|**2026-05-15**|**Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion**|Kunyang Li et.al.|[2605.16579](http://arxiv.org/abs/2605.16579)|null|
+|**2026-05-15**|**SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation**|Ssharvien Kumar Sivakumar et.al.|[2605.16530](http://arxiv.org/abs/2605.16530)|null|
+|**2026-05-14**|**Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance**|Stelio Bompai et.al.|[2605.16420](http://arxiv.org/abs/2605.16420)|null|
 |**2026-05-15**|**Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation**|Mingqiang Wu et.al.|[2605.16003](http://arxiv.org/abs/2605.16003)|null|
 |**2026-05-15**|**Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**|Xiaoxuan He et.al.|[2605.15980](http://arxiv.org/abs/2605.15980)|null|
 |**2026-05-14**|**Video Models Can Reason with Verifiable Rewards**|Tinghui Zhu et.al.|[2605.15458](http://arxiv.org/abs/2605.15458)|null|
@@ -1038,7 +1046,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
