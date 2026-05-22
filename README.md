@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
+|**2026-05-21**|**WorldKV: Efficient World Memory with World Retrieval and Compression**|Jung Yi et.al.|[2605.22718](http://arxiv.org/abs/2605.22718)|null|
 |**2026-05-20**|**Q-ARVD: Quantizing Autoregressive Video Diffusion Models**|Siao Tang et.al.|[2605.21072](http://arxiv.org/abs/2605.21072)|null|
 |**2026-05-20**|**Preserve, Reveal, Expand: Faithful 4D Video Editing with Region-Aware Conditioning**|Zhangchi Hu et.al.|[2605.20961](http://arxiv.org/abs/2605.20961)|null|
 |**2026-05-20**|**FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching**|Jangho Park et.al.|[2605.20910](http://arxiv.org/abs/2605.20910)|null|
@@ -33,7 +35,7 @@
 |**2026-05-18**|**GeoFlow: Enforcing Implicit Geometric Consistency in Video Generation**|Jan Ackermann et.al.|[2605.18365](http://arxiv.org/abs/2605.18365)|null|
 |**2026-05-18**|**Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos**|X. Feng et.al.|[2605.18233](http://arxiv.org/abs/2605.18233)|null|
 |**2026-05-18**|**AdaptiveLoad: Towards Efficient Video Diffusion Transformer Training**|Yucheng Guo et.al.|[2605.17923](http://arxiv.org/abs/2605.17923)|null|
-|**2026-05-18**|**Temporal Aware Pruning for Efficient Diffusion-based Video Generation**|Sheng Li et.al.|[2605.17837](http://arxiv.org/abs/2605.17837)|null|
+|**2026-05-20**|**Temporal Aware Pruning for Efficient Diffusion-based Video Generation**|Sheng Li et.al.|[2605.17837](http://arxiv.org/abs/2605.17837)|null|
 |**2026-05-17**|**SpecSem-Net: Integrating Spectral and Semantic Features for Robust AI-generated Video Detection**|Zixi Wei et.al.|[2605.17311](http://arxiv.org/abs/2605.17311)|null|
 |**2026-05-16**|**3DPhysVideo: Consistency-Guided Flow SDE for Video Generation via 3D Scene Reconstruction and Physical Simulation**|Hwidong Kim et.al.|[2605.16795](http://arxiv.org/abs/2605.16795)|null|
 |**2026-05-15**|**AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling**|Ziyang Mai et.al.|[2605.16649](http://arxiv.org/abs/2605.16649)|null|
