@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation**|Bo Jiang et.al.|[2605.23878](http://arxiv.org/abs/2605.23878)|null|
+|**2026-05-22**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345](http://arxiv.org/abs/2605.23345)|null|
+|**2026-05-22**|**SimInsert: Seamless Video Object Insertion via Regional Sparse Attention Fusion**|Xinyu Chen et.al.|[2605.23245](http://arxiv.org/abs/2605.23245)|null|
 |**2026-05-21**|**MotiMotion: Motion-Controlled Video Generation with Visual Reasoning**|Lee Hsin-Ying et.al.|[2605.22818](http://arxiv.org/abs/2605.22818)|null|
 |**2026-05-21**|**WorldKV: Efficient World Memory with World Retrieval and Compression**|Jung Yi et.al.|[2605.22718](http://arxiv.org/abs/2605.22718)|null|
 |**2026-05-20**|**Q-ARVD: Quantizing Autoregressive Video Diffusion Models**|Siao Tang et.al.|[2605.21072](http://arxiv.org/abs/2605.21072)|null|
