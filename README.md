@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
+|**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
+|**2026-05-25**|**Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video**|Tingxi Chen et.al.|[2605.25500](http://arxiv.org/abs/2605.25500)|null|
+|**2026-05-24**|**DeltaCam: Differential Intrinsic Camera Modeling for Video Generation**|Debabrata Mandal et.al.|[2605.25266](http://arxiv.org/abs/2605.25266)|null|
+|**2026-05-24**|**Tempered Self-Similarity Alignment for Physically Plausible Video Generation**|Manjin Kim et.al.|[2605.24962](http://arxiv.org/abs/2605.24962)|null|
+|**2026-05-23**|**AVBench: Human-Aligned and Automated Evaluation Benchmark for Audio-Video Generative Models**|Jialiang Yang et.al.|[2605.24652](http://arxiv.org/abs/2605.24652)|null|
+|**2026-05-23**|**DexSIM: Real-time Dexterous Simulation with Unified Causal Video Diffusion**|Adam Lee et.al.|[2605.24630](http://arxiv.org/abs/2605.24630)|null|
+|**2026-05-23**|**Φ-Noise: Training-Free Temporal Video Conditioning via Phase-Based Noise Manipulation**|Ofir Abramovich et.al.|[2605.24509](http://arxiv.org/abs/2605.24509)|null|
 |**2026-05-22**|**LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation**|Bo Jiang et.al.|[2605.23878](http://arxiv.org/abs/2605.23878)|null|
 |**2026-05-22**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345](http://arxiv.org/abs/2605.23345)|null|
 |**2026-05-22**|**SimInsert: Seamless Video Object Insertion via Regional Sparse Attention Fusion**|Xinyu Chen et.al.|[2605.23245](http://arxiv.org/abs/2605.23245)|null|
