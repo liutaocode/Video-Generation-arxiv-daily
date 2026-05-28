@@ -17,9 +17,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**HarmoVid: Relightful Video Portrait Harmonization**|Jun Myeong Choi et.al.|[2605.28811](http://arxiv.org/abs/2605.28811)|null|
+|**2026-05-27**|**OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning**|Yunyang Ge et.al.|[2605.28691](http://arxiv.org/abs/2605.28691)|null|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**Sketch2Motion: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization**|Gaurav Rai et.al.|[2605.28394](http://arxiv.org/abs/2605.28394)|null|
+|**2026-05-27**|**Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation**|Mariam Hassan et.al.|[2605.28230](http://arxiv.org/abs/2605.28230)|null|
+|**2026-05-27**|**Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models**|Haozhan Shen et.al.|[2605.28132](http://arxiv.org/abs/2605.28132)|null|
+|**2026-05-27**|**SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control**|Zhida Zhang et.al.|[2605.27891](http://arxiv.org/abs/2605.27891)|null|
+|**2026-05-27**|**Turning Video Models into Generalist Robot Policies**|Sizhe Lester Li et.al.|[2605.27817](http://arxiv.org/abs/2605.27817)|null|
+|**2026-05-26**|**What-If World: A Causal Benchmark for General World Models in Embodied Scenarios**|Kunlin Cai et.al.|[2605.27589](http://arxiv.org/abs/2605.27589)|null|
 |**2026-05-26**|**Are Video Models Zero-Shot Learners and Reasoners in Education? EduVideoBench, A Knowledge-Skills-Attitude Benchmark for Educational Video Generation**|Unggi Lee et.al.|[2605.26918](http://arxiv.org/abs/2605.26918)|null|
 |**2026-05-25**|**Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion**|Tuna Tuncer et.al.|[2605.26266](http://arxiv.org/abs/2605.26266)|null|
-|**2026-05-25**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
+|**2026-05-27**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
 |**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
 |**2026-05-25**|**Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video**|Tingxi Chen et.al.|[2605.25500](http://arxiv.org/abs/2605.25500)|null|
 |**2026-05-24**|**DeltaCam: Differential Intrinsic Camera Modeling for Video Generation**|Debabrata Mandal et.al.|[2605.25266](http://arxiv.org/abs/2605.25266)|null|
