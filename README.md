@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**AdaState: Self-Evolving Anchors for Streaming Video Generation**|Yusuf Dalva et.al.|[2605.30349](http://arxiv.org/abs/2605.30349)|null|
+|**2026-05-28**|**YoCausal: How Far is Video Generation from World Model? A Causality Perspective**|You-Zhe Xie et.al.|[2605.30346](http://arxiv.org/abs/2605.30346)|null|
+|**2026-05-28**|**Benchmarking Single-Factor Physical Video-to-Audio Generation**|Tingle Li et.al.|[2605.30339](http://arxiv.org/abs/2605.30339)|null|
+|**2026-05-28**|**Veda: Scalable Video Diffusion via Distilled Sparse Attention**|Shihao Han et.al.|[2605.30325](http://arxiv.org/abs/2605.30325)|null|
+|**2026-05-28**|**minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models**|Min Zhao et.al.|[2605.30263](http://arxiv.org/abs/2605.30263)|null|
+|**2026-05-28**|**LiveSVG: Zero-Shot SVG Animation via Video Generation**|Matan Levy et.al.|[2605.30174](http://arxiv.org/abs/2605.30174)|null|
+|**2026-05-28**|**SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation**|Zhuguanyu Wu et.al.|[2605.30116](http://arxiv.org/abs/2605.30116)|null|
+|**2026-05-28**|**LLM-Guided Future Hypotheses for Horizon-Aware Exploration in Multi-Step Robot Manipulation**|Mohammad Khoshnazar et.al.|[2605.29864](http://arxiv.org/abs/2605.29864)|null|
 |**2026-05-27**|**HarmoVid: Relightful Video Portrait Harmonization**|Jun Myeong Choi et.al.|[2605.28811](http://arxiv.org/abs/2605.28811)|null|
 |**2026-05-27**|**OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning**|Yunyang Ge et.al.|[2605.28691](http://arxiv.org/abs/2605.28691)|null|
 |**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
@@ -28,7 +36,7 @@
 |**2026-05-26**|**What-If World: A Causal Benchmark for General World Models in Embodied Scenarios**|Kunlin Cai et.al.|[2605.27589](http://arxiv.org/abs/2605.27589)|null|
 |**2026-05-26**|**Are Video Models Zero-Shot Learners and Reasoners in Education? EduVideoBench, A Knowledge-Skills-Attitude Benchmark for Educational Video Generation**|Unggi Lee et.al.|[2605.26918](http://arxiv.org/abs/2605.26918)|null|
 |**2026-05-25**|**Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion**|Tuna Tuncer et.al.|[2605.26266](http://arxiv.org/abs/2605.26266)|null|
-|**2026-05-27**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
+|**2026-05-28**|**Paris 2.0: A Decentralized Diffusion Model for Video Generation**|Ali Rouzbayani et.al.|[2605.26064](http://arxiv.org/abs/2605.26064)|null|
 |**2026-05-25**|**Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models**|Yiwei Xie et.al.|[2605.25941](http://arxiv.org/abs/2605.25941)|null|
 |**2026-05-25**|**Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video**|Tingxi Chen et.al.|[2605.25500](http://arxiv.org/abs/2605.25500)|null|
 |**2026-05-24**|**DeltaCam: Differential Intrinsic Camera Modeling for Video Generation**|Debabrata Mandal et.al.|[2605.25266](http://arxiv.org/abs/2605.25266)|null|
