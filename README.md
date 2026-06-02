@@ -17,6 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**RoboDream: Compositional World Models for Scalable Robot Data Synthesis**|Junjie Ye et.al.|[2606.02577](http://arxiv.org/abs/2606.02577)|null|
+|**2026-06-01**|**VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization**|Junhao Cheng et.al.|[2606.02564](http://arxiv.org/abs/2606.02564)|null|
+|**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|null|
+|**2026-06-01**|**Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs**|Sicheng Xu et.al.|[2606.01620](http://arxiv.org/abs/2606.01620)|null|
+|**2026-06-01**|**Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis**|Zhengfei Kuang et.al.|[2606.01590](http://arxiv.org/abs/2606.01590)|null|
+|**2026-06-01**|**MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics**|Žiga Kovačič et.al.|[2606.01538](http://arxiv.org/abs/2606.01538)|null|
+|**2026-05-31**|**AlbedoEdit: Unified Instance-Level Video Editing with Albedo Guidance**|Xilong Zhou et.al.|[2606.01362](http://arxiv.org/abs/2606.01362)|null|
+|**2026-05-31**|**Knowledge-Intensive Video Generation**|Chenxu Wang et.al.|[2606.01285](http://arxiv.org/abs/2606.01285)|null|
+|**2026-05-31**|**ImagineUAV: Aerial Vision-Language Navigation via World-Action Modeling and Kinodynamic Planning**|Xuchen Liu et.al.|[2606.01205](http://arxiv.org/abs/2606.01205)|null|
+|**2026-05-30**|**SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models**|Ziheng He et.al.|[2606.00664](http://arxiv.org/abs/2606.00664)|null|
+|**2026-05-30**|**Collaborative Few-Step Distillation and Low-Bit Quantization for Wan2.2 Dual-Expert Video Diffusion Models**|Jinyang Du et.al.|[2606.00658](http://arxiv.org/abs/2606.00658)|null|
+|**2026-05-30**|**OptiWorld: Optimal Control for Video World Generation under Physical Constraints**|Yu Yuan et.al.|[2606.00499](http://arxiv.org/abs/2606.00499)|null|
+|**2026-05-29**|**Real2SAM2Real: Generative 3D Caches as Complementary Context for Video Diffusion**|Jiayi Wu et.al.|[2606.00299](http://arxiv.org/abs/2606.00299)|null|
 |**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|null|
 |**2026-05-29**|**DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory**|Zhenhao Yang et.al.|[2605.31336](http://arxiv.org/abs/2605.31336)|null|
 |**2026-05-29**|**SlotMemory: Object-Centric KV Memory for Streaming Long-Video Generation**|Weijia Dou et.al.|[2605.31033](http://arxiv.org/abs/2605.31033)|null|
