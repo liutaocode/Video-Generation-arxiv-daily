@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.05
+## Updated on 2026.06.06
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,10 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them**|Woojung Han et.al.|[2606.06361](http://arxiv.org/abs/2606.06361)|null|
+|**2026-06-04**|**RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling**|Chensheng Dai et.al.|[2606.06309](http://arxiv.org/abs/2606.06309)|null|
+|**2026-06-03**|**The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show**|Parsa Esmati et.al.|[2606.05328](http://arxiv.org/abs/2606.05328)|null|
+|**2026-06-04**|**Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?**|Rui Zhao et.al.|[2606.04811](http://arxiv.org/abs/2606.04811)|null|
+|**2026-06-03**|**Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control**|Jihoon Hong et.al.|[2606.04775](http://arxiv.org/abs/2606.04775)|null|
+|**2026-06-03**|**Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment**|Cong Wang et.al.|[2606.04737](http://arxiv.org/abs/2606.04737)|null|
+|**2026-06-03**|**DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation**|Thanh-Tung Le et.al.|[2606.04432](http://arxiv.org/abs/2606.04432)|null|
 |**2026-06-02**|**Video-Mirai: Autoregressive Video Diffusion Models Need Foresight**|Yonghao Yu et.al.|[2606.03971](http://arxiv.org/abs/2606.03971)|null|
 |**2026-06-02**|**PointAction: 3D Points as Universal Action Representations for Robot Control**|Mutian Tong et.al.|[2606.03943](http://arxiv.org/abs/2606.03943)|null|
 |**2026-06-02**|**Inference-Time Scaling for Joint Audio-Video Generation**|Jaemin Jung et.al.|[2606.03183](http://arxiv.org/abs/2606.03183)|null|
-|**2026-06-01**|**Pixel Cube: Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction**|Yufan Zhang et.al.|[2606.02919](http://arxiv.org/abs/2606.02919)|null|
+|**2026-06-04**|**Pixel Cube: Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction**|Yufan Zhang et.al.|[2606.02919](http://arxiv.org/abs/2606.02919)|null|
 |**2026-06-01**|**RoboDream: Compositional World Models for Scalable Robot Data Synthesis**|Junjie Ye et.al.|[2606.02577](http://arxiv.org/abs/2606.02577)|null|
 |**2026-06-01**|**VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization**|Junhao Cheng et.al.|[2606.02564](http://arxiv.org/abs/2606.02564)|null|
 |**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|null|
@@ -1114,7 +1121,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
