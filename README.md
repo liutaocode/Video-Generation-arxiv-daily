@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2026-06-08**|**CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation**|Yuheng Chen et.al.|[2606.09639](http://arxiv.org/abs/2606.09639)|null|
 |**2026-06-08**|**CP4D: Compositional Physics-aware 4D Scene Generation**|Hanxin Zhu et.al.|[2606.09187](http://arxiv.org/abs/2606.09187)|null|
-|**2026-06-08**|**Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions**|Luxury et.al.|[2606.09150](http://arxiv.org/abs/2606.09150)|null|
+|**2026-06-08**|**Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions**| Luxury et.al.|[2606.09150](http://arxiv.org/abs/2606.09150)|null|
 |**2026-06-08**|**MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation**|Ishaan Preetam Chandratreya et.al.|[2606.09056](http://arxiv.org/abs/2606.09056)|null|
 |**2026-06-05**|**CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models**|Anku Rani et.al.|[2606.07311](http://arxiv.org/abs/2606.07311)|null|
 |**2026-06-05**|**MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models**|Yifan Xu et.al.|[2606.06853](http://arxiv.org/abs/2606.06853)|null|
