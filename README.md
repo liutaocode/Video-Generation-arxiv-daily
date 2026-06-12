@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,12 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-11**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
+|**2026-06-11**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
+|**2026-06-11**|**ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance**|Salaheldin Mohamed et.al.|[2606.13304](http://arxiv.org/abs/2606.13304)|null|
+|**2026-06-11**|**TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment**|Yu Meng et.al.|[2606.13035](http://arxiv.org/abs/2606.13035)|null|
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Lu Qiu et.al.|[2606.12217](http://arxiv.org/abs/2606.12217)|null|
 |**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Sebastian Stapf et.al.|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
 |**2026-06-10**|**VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network**|Song Chen et.al.|[2606.12028](http://arxiv.org/abs/2606.12028)|null|
 |**2026-06-09**|**AnimaSpark: A Feed-Forward Method for Animating Arbitrary 3D Objects**|Yiming Zhao et.al.|[2606.10988](http://arxiv.org/abs/2606.10988)|null|
 |**2026-06-10**|**BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression**|Shaohao Rui et.al.|[2606.10135](http://arxiv.org/abs/2606.10135)|null|
-|**2026-06-08**|**CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation**|Yuheng Chen et.al.|[2606.09639](http://arxiv.org/abs/2606.09639)|null|
+|**2026-06-11**|**CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation**|Yuheng Chen et.al.|[2606.09639](http://arxiv.org/abs/2606.09639)|null|
 |**2026-06-08**|**CP4D: Compositional Physics-aware 4D Scene Generation**|Hanxin Zhu et.al.|[2606.09187](http://arxiv.org/abs/2606.09187)|null|
 |**2026-06-08**|**Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions**| Luxury et.al.|[2606.09150](http://arxiv.org/abs/2606.09150)|null|
 |**2026-06-08**|**MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation**|Ishaan Preetam Chandratreya et.al.|[2606.09056](http://arxiv.org/abs/2606.09056)|null|
@@ -1132,7 +1136,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
