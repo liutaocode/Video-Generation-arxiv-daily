@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-21**|**Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars**|Chandranath Adak et.al.|[2606.22494](http://arxiv.org/abs/2606.22494)|null|
+|**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416](http://arxiv.org/abs/2606.22416)|null|
+|**2026-06-20**|**CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation**|Wenhu Zhang et.al.|[2606.21982](http://arxiv.org/abs/2606.21982)|null|
+|**2026-06-18**|**World Action Models: A Survey**|Qiuhong Shen et.al.|[2606.20781](http://arxiv.org/abs/2606.20781)|null|
+|**2026-06-15**|**GEOPHYS: The Geometry of Physical Plausibility**|Christian Internò et.al.|[2606.20707](http://arxiv.org/abs/2606.20707)|null|
 |**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
 |**2026-06-18**|**Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models**|Haoxuan Wu et.al.|[2606.20310](http://arxiv.org/abs/2606.20310)|null|
 |**2026-06-17**|**Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models**|Tianyi Xiang et.al.|[2606.20233](http://arxiv.org/abs/2606.20233)|null|
@@ -1155,7 +1160,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
