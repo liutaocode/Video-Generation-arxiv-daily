@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Vera: A Layered Diffusion Model for Content-Preserving Video Editing**|Hongkai Zheng et.al.|[2606.23610](http://arxiv.org/abs/2606.23610)|null|
+|**2026-06-22**|**SteerVTE: Seamless Video Text Editing with Style and Glyph Control**|Kai Zeng et.al.|[2606.23254](http://arxiv.org/abs/2606.23254)|null|
+|**2026-06-22**|**Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation**|Yu Cao et.al.|[2606.22918](http://arxiv.org/abs/2606.22918)|null|
+|**2026-06-21**|**Generative Relightable Avatars**|Kunwar Maheep Singh et.al.|[2606.22718](http://arxiv.org/abs/2606.22718)|null|
 |**2026-06-21**|**Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars**|Chandranath Adak et.al.|[2606.22494](http://arxiv.org/abs/2606.22494)|null|
 |**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416](http://arxiv.org/abs/2606.22416)|null|
 |**2026-06-20**|**CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation**|Wenhu Zhang et.al.|[2606.21982](http://arxiv.org/abs/2606.21982)|null|
