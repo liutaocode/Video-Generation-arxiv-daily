@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,11 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
+|**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](http://arxiv.org/abs/2606.25430)|null|
+|**2026-06-24**|**Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation**|Atin Pothiraj et.al.|[2606.25306](http://arxiv.org/abs/2606.25306)|null|
 |**2026-06-23**|**FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation**|Orest Kupyn et.al.|[2606.24876](http://arxiv.org/abs/2606.24876)|null|
 |**2026-06-23**|**TIGER: Taming Identity, Geometry, and Generative Priors for High-Quality Face Video Restoration**|Yang Zhou et.al.|[2606.24336](http://arxiv.org/abs/2606.24336)|null|
 |**2026-06-23**|**Trimming the Long-Tail of Visual World Modeling Evaluation**|Bingxuan Li et.al.|[2606.24256](http://arxiv.org/abs/2606.24256)|null|
 |**2026-06-23**|**Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models**|Xin Wang et.al.|[2606.24152](http://arxiv.org/abs/2606.24152)|null|
-|**2026-06-21**|**Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation**|Yitong Li et.al.|[2606.23743](http://arxiv.org/abs/2606.23743)|null|
+|**2026-06-24**|**Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation**|Yitong Li et.al.|[2606.23743](http://arxiv.org/abs/2606.23743)|null|
 |**2026-06-22**|**Vera: A Layered Diffusion Model for Content-Preserving Video Editing**|Hongkai Zheng et.al.|[2606.23610](http://arxiv.org/abs/2606.23610)|null|
 |**2026-06-22**|**SteerVTE: Seamless Video Text Editing with Style and Glyph Control**|Kai Zeng et.al.|[2606.23254](http://arxiv.org/abs/2606.23254)|null|
 |**2026-06-22**|**Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation**|Yu Cao et.al.|[2606.22918](http://arxiv.org/abs/2606.22918)|null|
@@ -1169,7 +1172,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
