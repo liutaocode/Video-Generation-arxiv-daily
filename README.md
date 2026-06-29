@@ -18,13 +18,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-26**|**Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors**|Youzhi Liu et.al.|[2606.28237](http://arxiv.org/abs/2606.28237)|null|
-|**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Peiwen Zhang et.al.|[2606.28128](http://arxiv.org/abs/2606.28128)|**[link](https://github.com/DAGroup-PKU/PhysisForcing)**|
+|**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Peiwen Zhang et.al.|[2606.28128](http://arxiv.org/abs/2606.28128)|null|
 |**2026-06-26**|**TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL**|Jing Wang et.al.|[2606.28016](http://arxiv.org/abs/2606.28016)|null|
 |**2026-06-26**|**SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models**|Ruoyu Wang et.al.|[2606.27741](http://arxiv.org/abs/2606.27741)|null|
 |**2026-06-25**|**MemoBench: Benchmarking World Modeling in Dynamically Changing Environments**|Haoyu Chen et.al.|[2606.27537](http://arxiv.org/abs/2606.27537)|null|
 |**2026-06-25**|**DnA: Denoising Attention for Visual Tasks**|Ron Campos et.al.|[2606.27372](http://arxiv.org/abs/2606.27372)|null|
 |**2026-06-25**|**PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation**|Kexu Cheng et.al.|[2606.26916](http://arxiv.org/abs/2606.26916)|null|
-|**2026-06-25**|**NaviCache: Test-Time Self-Calibration Caching for Video Generation**|Zheqi Lv et.al.|[2606.26795](http://arxiv.org/abs/2606.26795)|**[link](https://github.com/HelloZicky/NaviCache)**|
+|**2026-06-25**|**NaviCache: Test-Time Self-Calibration Caching for Video Generation**|Zheqi Lv et.al.|[2606.26795](http://arxiv.org/abs/2606.26795)|null|
 |**2026-06-23**|**Unsupervised Memory-Enhanced Video Transformers: Obstacle Detection for Autonomous Agricultural Rover**|Théo Biardeau et.al.|[2606.26151](http://arxiv.org/abs/2606.26151)|null|
 |**2026-06-24**|**MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation**|JoungBin Lee et.al.|[2606.26087](http://arxiv.org/abs/2606.26087)|null|
 |**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](http://arxiv.org/abs/2606.25430)|null|
