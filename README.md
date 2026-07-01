@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,13 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
+|**2026-06-30**|**InfiniVerse: Occupancy Guided Unbounded Scene Generation for Autonomous Driving**|Xiaoyu Ye et.al.|[2606.31109](http://arxiv.org/abs/2606.31109)|null|
+|**2026-06-30**|**Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors**|Zixing Wang et.al.|[2606.31101](http://arxiv.org/abs/2606.31101)|null|
 |**2026-06-29**|**Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding**|Seongro Yoon et.al.|[2606.30611](http://arxiv.org/abs/2606.30611)|null|
 |**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
 |**2026-06-26**|**Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors**|Youzhi Liu et.al.|[2606.28237](http://arxiv.org/abs/2606.28237)|null|
 |**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Peiwen Zhang et.al.|[2606.28128](http://arxiv.org/abs/2606.28128)|null|
 |**2026-06-26**|**TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL**|Jing Wang et.al.|[2606.28016](http://arxiv.org/abs/2606.28016)|null|
 |**2026-06-26**|**SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models**|Ruoyu Wang et.al.|[2606.27741](http://arxiv.org/abs/2606.27741)|null|
-|**2026-06-25**|**MemoBench: Benchmarking World Modeling in Dynamically Changing Environments**|Haoyu Chen et.al.|[2606.27537](http://arxiv.org/abs/2606.27537)|null|
+|**2026-06-30**|**MemoBench: Benchmarking World Modeling in Dynamically Changing Environments**|Haoyu Chen et.al.|[2606.27537](http://arxiv.org/abs/2606.27537)|null|
 |**2026-06-25**|**DnA: Denoising Attention for Visual Tasks**|Ron Campos et.al.|[2606.27372](http://arxiv.org/abs/2606.27372)|null|
 |**2026-06-25**|**PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation**|Kexu Cheng et.al.|[2606.26916](http://arxiv.org/abs/2606.26916)|null|
 |**2026-06-25**|**NaviCache: Test-Time Self-Calibration Caching for Video Generation**|Zheqi Lv et.al.|[2606.26795](http://arxiv.org/abs/2606.26795)|null|
@@ -32,7 +35,7 @@
 |**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](http://arxiv.org/abs/2606.25430)|null|
 |**2026-06-24**|**Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation**|Atin Pothiraj et.al.|[2606.25306](http://arxiv.org/abs/2606.25306)|null|
 |**2026-06-23**|**FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation**|Orest Kupyn et.al.|[2606.24876](http://arxiv.org/abs/2606.24876)|null|
-|**2026-06-23**|**TIGER: Taming Identity, Geometry, and Generative Priors for High-Quality Face Video Restoration**|Yang Zhou et.al.|[2606.24336](http://arxiv.org/abs/2606.24336)|null|
+|**2026-06-30**|**TIGER: Taming Identity, Geometry, and Generative Priors for High-Quality Face Video Restoration**|Yang Zhou et.al.|[2606.24336](http://arxiv.org/abs/2606.24336)|null|
 |**2026-06-23**|**Trimming the Long-Tail of Visual World Modeling Evaluation**|Bingxuan Li et.al.|[2606.24256](http://arxiv.org/abs/2606.24256)|null|
 |**2026-06-23**|**Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models**|Xin Wang et.al.|[2606.24152](http://arxiv.org/abs/2606.24152)|null|
 |**2026-06-24**|**Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation**|Yitong Li et.al.|[2606.23743](http://arxiv.org/abs/2606.23743)|null|
@@ -1183,7 +1186,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
