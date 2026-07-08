@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555](http://arxiv.org/abs/2607.06555)|null|
+|**2026-07-07**|**FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration**|Jin Jiang et.al.|[2607.06389](http://arxiv.org/abs/2607.06389)|null|
+|**2026-07-07**|**MobileWan: Closing the Quality Gap for Mobile Video Diffusion**|Mohsen Ghafoorian et.al.|[2607.06173](http://arxiv.org/abs/2607.06173)|null|
+|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018](http://arxiv.org/abs/2607.06018)|null|
 |**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
 |**2026-07-06**|**InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**|Haoxiang Ma et.al.|[2607.04988](http://arxiv.org/abs/2607.04988)|null|
 |**2026-07-06**|**Video Generation Models Are Inherent Lighting Estimators**|Ziqi Cai et.al.|[2607.04674](http://arxiv.org/abs/2607.04674)|null|
