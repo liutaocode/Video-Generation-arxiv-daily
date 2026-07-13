@@ -93,17 +93,17 @@
 |**2026-06-15**|**SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues**|Suttisak Wizadwongsa et.al.|[2606.17310](http://arxiv.org/abs/2606.17310)|null|
 |**2026-06-15**|**Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering**|Rohit Kundu et.al.|[2606.17257](http://arxiv.org/abs/2606.17257)|null|
 |**2026-06-15**|**Revealing Artifacts via Noise Amplification: A Novel Perspective for AI-Generated Video Detection**|Renxi Cheng et.al.|[2606.16742](http://arxiv.org/abs/2606.16742)|null|
-|**2026-06-16**|**PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory**|Shuai Yang et.al.|[2606.16449](http://arxiv.org/abs/2606.16449)|null|
-|**2026-06-14**|**Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation**|Jingyu Li et.al.|[2606.15869](http://arxiv.org/abs/2606.15869)|null|
+|**2026-06-16**|**PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory**|Shuai Yang et.al.|[2606.16449](http://arxiv.org/abs/2606.16449)|**[link](https://github.com/YS-IMTech/PermaVid)**|
+|**2026-06-14**|**Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation**|Jingyu Li et.al.|[2606.15869](http://arxiv.org/abs/2606.15869)|**[link](https://github.com/LogosRoboticsGroup/Metis)**|
 |**2026-06-13**|**CausalDrive: Real-time Causal World Models for Autonomous Driving**|Tianyi Yan et.al.|[2606.15341](http://arxiv.org/abs/2606.15341)|null|
 |**2026-06-12**|**Toward Richer Material Generation via Procedural Data Enhancement**|Yunchen Yu et.al.|[2606.14988](http://arxiv.org/abs/2606.14988)|null|
-|**2026-06-12**|**CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation**|Sihan Zhuang et.al.|[2606.14317](http://arxiv.org/abs/2606.14317)|null|
+|**2026-06-12**|**CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation**|Sihan Zhuang et.al.|[2606.14317](http://arxiv.org/abs/2606.14317)|**[link](https://github.com/zhuangsh0713/CausalMotion)**|
 |**2026-06-12**|**VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling**|Xunzhi Xiang et.al.|[2606.14162](http://arxiv.org/abs/2606.14162)|null|
 |**2026-06-16**|**CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation**|Sharath Girish et.al.|[2606.13768](http://arxiv.org/abs/2606.13768)|null|
 |**2026-06-13**|**RepWAM: World Action Modeling with Representation Visual-Action Tokenizers**|Junke Wang et.al.|[2606.13674](http://arxiv.org/abs/2606.13674)|null|
 |**2026-06-13**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
 |**2026-06-11**|**ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance**|Salaheldin Mohamed et.al.|[2606.13304](http://arxiv.org/abs/2606.13304)|null|
-|**2026-06-11**|**TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment**|Yu Meng et.al.|[2606.13035](http://arxiv.org/abs/2606.13035)|null|
+|**2026-06-11**|**TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment**|Yu Meng et.al.|[2606.13035](http://arxiv.org/abs/2606.13035)|**[link](https://github.com/my4f175/TetherCache)**|
 |**2026-06-10**|**Making Foresight Actionable: Repurposing Representation Alignment in World Action Models**|Lu Qiu et.al.|[2606.12217](http://arxiv.org/abs/2606.12217)|null|
 |**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Sebastian Stapf et.al.|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
 |**2026-06-10**|**VICX: Generalizable Robot Manipulation via Video Generation and In-Context Operator Network**|Song Chen et.al.|[2606.12028](http://arxiv.org/abs/2606.12028)|null|
@@ -262,7 +262,7 @@
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|**[link](https://github.com/alaya-studio/WorldMark)**|
 |**2026-04-23**|**Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation**|Boxun Xu et.al.|[2604.21221](http://arxiv.org/abs/2604.21221)|**[link](https://github.com/rikzyj/CM2604_ML_CW_20210667_2122107)**|
 |**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154](http://arxiv.org/abs/2604.21154)|null|
-|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://github.com/snuvclab/devi)**|
 |**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|**[link](https://github.com/OpenImagingLab/AnyRecon)**|
 |**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**|Zhengwentai Sun et.al.|[2604.19720](http://arxiv.org/abs/2604.19720)|null|
@@ -309,7 +309,7 @@
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 |**2026-04-06**|**UENR-600K: A Large-Scale Physically Grounded Dataset for Nighttime Video Deraining**|Pei Yang et.al.|[2604.04402](http://arxiv.org/abs/2604.04402)|null|
 |**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198](http://arxiv.org/abs/2604.04198)|null|
-|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|null|
+|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|**[link](https://github.com/hwang-cs-ime/ATSS)**|
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552](http://arxiv.org/abs/2604.03552)|null|
 |**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|**[link](https://github.com/XingtongGe/Salt)**|
@@ -406,7 +406,7 @@
 |**2026-03-02**|**Accelerating Video Generation Inference with Sequential-Parallel 3D Positional Encoding Using a Global Time Index**|Chao Yuan et.al.|[2603.06664](http://arxiv.org/abs/2603.06664)|null|
 |**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
 |**2026-03-06**|**GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection**|Xuan Huang et.al.|[2603.06048](http://arxiv.org/abs/2603.06048)|**[link](https://github.com/XuanHuang0/GenHOI_release)**|
-|**2026-03-06**|**VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2603.05851](http://arxiv.org/abs/2603.05851)|null|
+|**2026-03-06**|**VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2603.05851](http://arxiv.org/abs/2603.05851)|**[link](https://github.com/zmhcasmy/VS3R)**|
 |**2026-03-06**|**Training-free Latent Inter-Frame Pruning with Attention Recovery**|Dennis Menn et.al.|[2603.05811](http://arxiv.org/abs/2603.05811)|null|
 |**2026-03-05**|**EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation**|Gehao Zhang et.al.|[2603.05757](http://arxiv.org/abs/2603.05757)|null|
 |**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[2603.05506](http://arxiv.org/abs/2603.05506)|**[link](https://github.com/weijielyu/FaceCam)**|
@@ -824,7 +824,7 @@
 |**2025-11-24**|**SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation**|Jiaming Zhang et.al.|[2511.19320](http://arxiv.org/abs/2511.19320)|**[link](https://github.com/MCG-NJU/SteadyDancer)**|
 |**2025-11-24**|**SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2511.19319](http://arxiv.org/abs/2511.19319)|**[link](https://github.com/Droliven/SyncMV4D)**|
 |**2025-11-24**|**LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models**|Shuai Wang et.al.|[2511.19261](http://arxiv.org/abs/2511.19261)|null|
-|**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235](http://arxiv.org/abs/2511.19235)|null|
+|**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235](http://arxiv.org/abs/2511.19235)|**[link](https://github.com/zenseact/idsplat)**|
 |**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|**[link](https://github.com/Thrcle421/DiT-Mem)**|
 |**2025-11-24**|**AvatarBrush: Monocular Reconstruction of Gaussian Avatars with Intuitive Local Editing**|Mengtian Li et.al.|[2511.19189](http://arxiv.org/abs/2511.19189)|null|
 |**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
