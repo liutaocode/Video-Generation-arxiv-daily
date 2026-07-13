@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
+|**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|null|
 |**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|null|
