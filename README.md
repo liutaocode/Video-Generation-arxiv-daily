@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**ShotPlan: Cinematic Video Generation with Learnable Planning Token**|Su Guo et.al.|[2607.17675](http://arxiv.org/abs/2607.17675)|null|
+|**2026-07-20**|**Brain-Aligned Multi-Stream Video Transformers with Sparse Self-Selection**|Amir Hosein Fadaei et.al.|[2607.17625](http://arxiv.org/abs/2607.17625)|null|
+|**2026-07-20**|**Thinking in Video: Can Video Generators Really Reason About the Real World?**|Yongheng Zhang et.al.|[2607.17523](http://arxiv.org/abs/2607.17523)|null|
+|**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](http://arxiv.org/abs/2607.17279)|null|
+|**2026-07-19**|**The generator is the tracker: Multi-object tracking by painting persistent identity colours**|Haiyu Yang et.al.|[2607.17120](http://arxiv.org/abs/2607.17120)|null|
+|**2026-07-17**|**Apple- $π$ : Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence**|Runmao Yao et.al.|[2607.16401](http://arxiv.org/abs/2607.16401)|null|
+|**2026-07-17**|**PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation**|Qirui Li et.al.|[2607.16355](http://arxiv.org/abs/2607.16355)|null|
 |**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
 |**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|null|
 |**2026-07-16**|**From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting**|Zizhao Chen et.al.|[2607.14976](http://arxiv.org/abs/2607.14976)|null|
