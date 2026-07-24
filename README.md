@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
+|**2026-07-23**|**Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention**|Zekun Li et.al.|[2607.20940](http://arxiv.org/abs/2607.20940)|null|
+|**2026-07-22**|**HeadCast: Casting Attention Heads for Efficient Autoregressive Video Generation**|Jinliang Shen et.al.|[2607.20125](http://arxiv.org/abs/2607.20125)|null|
+|**2026-07-21**|**Geospatial Diffusion-based Evolution Synthesis (GeoDES) for Storm-Centered Weather Augmentation**|Sonia Cromp et.al.|[2607.19522](http://arxiv.org/abs/2607.19522)|null|
 |**2026-07-21**|**FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling**|Jialong Zuo et.al.|[2607.19038](http://arxiv.org/abs/2607.19038)|null|
 |**2026-07-21**|**Learning Explicit Physical Parameter Control and Benchmarking for Video Generation**|Yanxun Li et.al.|[2607.18924](http://arxiv.org/abs/2607.18924)|null|
 |**2026-07-21**|**DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking**|Yunyi Li et.al.|[2607.18664](http://arxiv.org/abs/2607.18664)|null|
