@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,12 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
+|**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
+|**2026-07-29**|**TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models**|Taewon Kang et.al.|[2607.26706](http://arxiv.org/abs/2607.26706)|null|
+|**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646](http://arxiv.org/abs/2607.26646)|null|
+|**2026-07-29**|**ContactFlow: A video action conditioning that transfers across embodiments**|Sami Azirar et.al.|[2607.26579](http://arxiv.org/abs/2607.26579)|null|
+|**2026-07-29**|**CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling**|Yuyang Huang et.al.|[2607.26529](http://arxiv.org/abs/2607.26529)|null|
+|**2026-07-28**|**WildShadowRemover: In-the-Wild Video Shadow Removal via Detail-Preserving Video Diffusion Models**|Jiamin Xu et.al.|[2607.26203](http://arxiv.org/abs/2607.26203)|null|
 |**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|null|
 |**2026-07-28**|**Loss Invariance Determines What Concept Layers Encode: Volume Grounding in Echocardiography**|Hyunkyung Han et.al.|[2607.25748](http://arxiv.org/abs/2607.25748)|null|
-|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-29**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
 |**2026-07-28**|**Physics-Grounded Fluid Video Generation with a Simulation Dataset and Dual-Stream Optical-Flow Supervision**|Ruijie Su et.al.|[2607.25321](http://arxiv.org/abs/2607.25321)|null|
 |**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
-|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
+|**2026-07-29**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
 |**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159](http://arxiv.org/abs/2607.24159)|null|
 |**2026-07-27**|**ViDS: Video Diffusion Shader using 3D Face Tracking**|Wenbo Ji et.al.|[2607.24124](http://arxiv.org/abs/2607.24124)|null|
 |**2026-07-26**|**OmniCache: Multidimensional Hierarchical Feature Caching For Diffusion Models**|Zhaoyuan He et.al.|[2607.23844](http://arxiv.org/abs/2607.23844)|null|
@@ -1267,7 +1274,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
