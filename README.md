@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
+|**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|null|
+|**2026-07-29**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
 |**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
 |**2026-07-29**|**TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models**|Taewon Kang et.al.|[2607.26706](http://arxiv.org/abs/2607.26706)|null|
