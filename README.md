@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,13 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
+|**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|null|
 |**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|null|
 |**2026-08-03**|**Faster-WAM: Do World Action Models Need Deep Action Modules?**|Liheng Ma et.al.|[2608.02365](http://arxiv.org/abs/2608.02365)|null|
 |**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
-|**2026-08-02**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
+|**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Tongsheng Ding et.al.|[2608.00486](http://arxiv.org/abs/2608.00486)|null|
-|**2026-07-30**|**Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh**|Junhao Chen et.al.|[2608.00094](http://arxiv.org/abs/2608.00094)|null|
+|**2026-08-04**|**Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh**|Junhao Chen et.al.|[2608.00094](http://arxiv.org/abs/2608.00094)|null|
 |**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|null|
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
 |**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|null|
@@ -1285,7 +1288,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
