@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
+|**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Subin Jeon et.al.|[2608.06192](http://arxiv.org/abs/2608.06192)|null|
+|**2026-08-06**|**Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training**|Rui Li et.al.|[2608.06125](http://arxiv.org/abs/2608.06125)|null|
+|**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|**2026-08-06**|**Diff-VF: Training-free High-quality Long Video Generation via Diffusion Model**|Haoning Yang et.al.|[2608.05976](http://arxiv.org/abs/2608.05976)|null|
+|**2026-08-06**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|null|
+|**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**| Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
+|**2026-08-05**|**In-Context Forcing: Uncovering Context Effects in Autoregressive Video Diffusion**|Lingxiao Yang et.al.|[2608.05237](http://arxiv.org/abs/2608.05237)|null|
 |**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
