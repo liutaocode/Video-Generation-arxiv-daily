@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics**|Bowei Liu et.al.|[2608.11201](http://arxiv.org/abs/2608.11201)|null|
+|**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
+|**2026-08-11**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
+|**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
+|**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|null|
+|**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
+|**2026-08-10**|**CodecArena: Codec Quality Assessment via Visual Reinforcement Learning**|Jiaye Fu et.al.|[2608.09139](http://arxiv.org/abs/2608.09139)|null|
+|**2026-08-10**|**RAVEN-Eval: Rubric-Guided Automatic Evaluation for AI Video Generation Models Based on LMM Preference Judgement**|Ziheng Jia et.al.|[2608.09111](http://arxiv.org/abs/2608.09111)|null|
 |**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
 |**2026-08-07**|**CoDAT: Collaborative Dual-Attention Transformer with Low-Cost Temporal Modeling for Efficient Edge Action Recognition**|Novendra Setyawan et.al.|[2608.06691](http://arxiv.org/abs/2608.06691)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
