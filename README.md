@@ -17,9 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence**|Aman Tyagi et.al.|[2608.12290](http://arxiv.org/abs/2608.12290)|null|
 |**2026-08-11**|**VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics**|Bowei Liu et.al.|[2608.11201](http://arxiv.org/abs/2608.11201)|null|
 |**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
-|**2026-08-11**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
+|**2026-08-12**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
 |**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
 |**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|null|
 |**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
