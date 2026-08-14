@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation**|Jisoo Jeong et.al.|[2608.13460](http://arxiv.org/abs/2608.13460)|null|
+|**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|null|
+|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Dingyi Rong et.al.|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|**2026-08-13**|**From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion**|Xichen Ye et.al.|[2608.13043](http://arxiv.org/abs/2608.13043)|null|
 |**2026-08-12**|**Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence**|Aman Tyagi et.al.|[2608.12290](http://arxiv.org/abs/2608.12290)|null|
 |**2026-08-11**|**VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics**|Bowei Liu et.al.|[2608.11201](http://arxiv.org/abs/2608.11201)|null|
 |**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
