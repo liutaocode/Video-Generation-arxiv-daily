@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**Omni-LiveAvatar: Minute-Level Real-Time Streaming Joint Audio-Visual Avatar Generation**|Lunjie Zhu et.al.|[2608.13602](http://arxiv.org/abs/2608.13602)|null|
 |**2026-08-13**|**SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation**|Jisoo Jeong et.al.|[2608.13460](http://arxiv.org/abs/2608.13460)|null|
 |**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|null|
 |**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Dingyi Rong et.al.|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
