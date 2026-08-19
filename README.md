@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation**|Keyu Tu et.al.|[2608.17426](http://arxiv.org/abs/2608.17426)|null|
+|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|null|
 |**2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Jianchun Yang et.al.|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
 |**2026-08-17**|**AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model**|Kwan Yun et.al.|[2608.16143](http://arxiv.org/abs/2608.16143)|null|
 |**2026-08-16**|**RigidBench: Evaluating Rigid-Body Physics in Video Generation Models**|Swarnim Jain et.al.|[2608.15555](http://arxiv.org/abs/2608.15555)|null|
