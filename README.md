@@ -17,14 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
+|**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|**[link](https://github.com/ant-research/4DAnyone)**|
 |**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Yufei Liu et.al.|[2608.20308](http://arxiv.org/abs/2608.20308)|null|
 |**2026-08-20**|**AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures**|Guoxing Sun et.al.|[2608.19900](http://arxiv.org/abs/2608.19900)|null|
 |**2026-08-20**|**VGI-BENCH: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
-|**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
+|**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|**[link](https://github.com/ShareLab-SII/VA-Judger)**|
 |**2026-08-19**|**Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models**|Pardis Taghavi et.al.|[2608.18484](http://arxiv.org/abs/2608.18484)|null|
 |**2026-08-18**|**SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation**|Keyu Tu et.al.|[2608.17426](http://arxiv.org/abs/2608.17426)|null|
-|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|null|
+|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|**[link](https://github.com/Li00147/SPVC)**|
 |**2026-08-17**|**DriveCache: Action-Aware Caching for Driving World Model Inference**|Jianchun Yang et.al.|[2608.16354](http://arxiv.org/abs/2608.16354)|null|
 |**2026-08-17**|**AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model**|Kwan Yun et.al.|[2608.16143](http://arxiv.org/abs/2608.16143)|null|
 |**2026-08-16**|**RigidBench: Evaluating Rigid-Body Physics in Video Generation Models**|Swarnim Jain et.al.|[2608.15555](http://arxiv.org/abs/2608.15555)|null|
@@ -147,7 +147,7 @@
 |**2026-07-04**|**Reward Lightning: Fast Video Generation via Homologous Preference Distillation**|Jiaxiang Cheng et.al.|[2607.03960](http://arxiv.org/abs/2607.03960)|null|
 |**2026-07-04**|**ProxyUp: Training-Free Proxy-Conditioned Video Generation for Controllable Dynamics**|Zanwei Zhou et.al.|[2607.03732](http://arxiv.org/abs/2607.03732)|null|
 |**2026-07-03**|**Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model**|Xinyin Ma et.al.|[2607.03509](http://arxiv.org/abs/2607.03509)|null|
-|**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|null|
+|**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|**[link](https://github.com/shengshu-ai/Vidu-S1)**|
 |**2026-07-03**|**Natural Language Camera Movement Understanding**|Yuwen Tan et.al.|[2607.03043](http://arxiv.org/abs/2607.03043)|null|
 |**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
 |**2026-07-01**|**RotateAttention: RoPE-Aware Rotation and Range Rectification for INT4 Quantized Attention in Video Generation**|Yaofu Liu et.al.|[2607.02584](http://arxiv.org/abs/2607.02584)|null|
@@ -768,8 +768,8 @@
 |**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094](http://arxiv.org/abs/2512.05094)|**[link](https://github.com/lucidrains/genmimic)**|
 |**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|
-|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
-|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|**[link](https://github.com/19reborn/BulletTime)**|
+|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|**[link](https://github.com/CUC-MIPG/GNVC-VD)**|
 |**2025-12-04**|**Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies**|Jonne Van Haastregt et.al.|[2512.04960](http://arxiv.org/abs/2512.04960)|null|
 |**2025-12-04**|**Multi Task Denoiser Training for Solving Linear Inverse Problems**|Clément Bled et.al.|[2512.04709](http://arxiv.org/abs/2512.04709)|null|
 |**2025-12-04**|**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation**|Yunhong Lu et.al.|[2512.04678](http://arxiv.org/abs/2512.04678)|**[link](https://github.com/JaydenLyh/Reward-Forcing)**|
