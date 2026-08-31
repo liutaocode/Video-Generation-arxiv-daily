@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](http://arxiv.org/abs/2608.28549)|null|
+|**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](http://arxiv.org/abs/2608.28549)|**[link](https://github.com/Creative-Intelligence-Studio/GeoNeXt)**|
 |**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|null|
 |**2026-08-28**|**DensityKV: Density-Guided KV Cache Compression for Long Video Generation**|Wenqu Zhao et.al.|[2608.27922](http://arxiv.org/abs/2608.27922)|null|
 |**2026-08-28**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|null|
@@ -75,15 +75,15 @@
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
-|**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|null|
-|**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|null|
+|**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|**[link](https://github.com/CryptoAILab/FakeI2V-Bench)**|
+|**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|**[link](https://github.com/YuxueYang1204/WorldExam)**|
 |**2026-08-03**|**Faster-WAM: Do World Action Models Need Deep Action Modules?**|Liheng Ma et.al.|[2608.02365](http://arxiv.org/abs/2608.02365)|null|
 |**2026-08-03**|**UniMoCa: Unifying Motion and Camera Controls as Visual Proxies for Faithful Human Video Generation**|Liming Tan et.al.|[2608.01944](http://arxiv.org/abs/2608.01944)|null|
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Tongsheng Ding et.al.|[2608.00486](http://arxiv.org/abs/2608.00486)|null|
 |**2026-08-04**|**Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh**|Junhao Chen et.al.|[2608.00094](http://arxiv.org/abs/2608.00094)|null|
-|**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|null|
+|**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|**[link](https://github.com/Stable-Baselines-Team/stable-baselines)**|
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
 |**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|null|
 |**2026-07-29**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
@@ -132,13 +132,13 @@
 |**2026-07-16**|**FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers**|Minguk Kang et.al.|[2607.14898](http://arxiv.org/abs/2607.14898)|null|
 |**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
 |**2026-07-16**|**MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation**|Yinhan Zhang et.al.|[2607.14595](http://arxiv.org/abs/2607.14595)|null|
-|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
+|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|**[link](https://github.com/zhxie0117/VideoRAE)**|
 |**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](http://arxiv.org/abs/2607.14076)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
 |**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](http://arxiv.org/abs/2607.13527)|null|
 |**2026-07-14**|**Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization**|Yuxin Huang et.al.|[2607.13336](http://arxiv.org/abs/2607.13336)|null|
 |**2026-07-14**|**Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation**|Ruize Xia et.al.|[2607.13164](http://arxiv.org/abs/2607.13164)|null|
-|**2026-07-14**|**The Seriality Gap in Video Diffusion Models**|Jorge Diaz Chao et.al.|[2607.13031](http://arxiv.org/abs/2607.13031)|null|
+|**2026-07-14**|**The Seriality Gap in Video Diffusion Models**|Jorge Diaz Chao et.al.|[2607.13031](http://arxiv.org/abs/2607.13031)|**[link](https://github.com/jdiazchao/seriality-gap)**|
 |**2026-07-16**|**ACID: Adaptive Caching for vIDeo generation**|Om Agrawal et.al.|[2607.12358](http://arxiv.org/abs/2607.12358)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**Video Transformer for Remote Identity Document Hologram Detection**|Joris Voerman et.al.|[2607.11419](http://arxiv.org/abs/2607.11419)|null|
@@ -738,7 +738,7 @@
 |**2025-12-14**|**Supervised Contrastive Frame Aggregation for Video Representation Learning**|Shaif Chowdhury et.al.|[2512.12549](http://arxiv.org/abs/2512.12549)|null|
 |**2025-12-14**|**Animus3D: Text-driven 3D Animation via Motion Score Distillation**|Qi Sun et.al.|[2512.12534](http://arxiv.org/abs/2512.12534)|null|
 |**2025-12-14**|**Generative Spatiotemporal Data Augmentation**|Jinfan Zhou et.al.|[2512.12508](http://arxiv.org/abs/2512.12508)|null|
-|**2025-12-13**|**V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping**|Hyunkoo Lee et.al.|[2512.12375](http://arxiv.org/abs/2512.12375)|null|
+|**2025-12-13**|**V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping**|Hyunkoo Lee et.al.|[2512.12375](http://arxiv.org/abs/2512.12375)|**[link](https://github.com/cvlab-kaist/V-Warper)**|
 |**2025-12-12**|**SPDMark: Selective Parameter Displacement for Robust Video Watermarking**|Samar Fares et.al.|[2512.12090](http://arxiv.org/abs/2512.12090)|null|
 |**2025-12-12**|**BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models**|Ryan Po et.al.|[2512.12080](http://arxiv.org/abs/2512.12080)|null|
 |**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|**[link](https://github.com/Aleafy/V-RGBX)**|
