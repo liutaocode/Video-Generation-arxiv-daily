@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling**|Xin Shen et.al.|[2609.01479](http://arxiv.org/abs/2609.01479)|null|
+|**2026-09-01**|**Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning**|Zixuan Wang et.al.|[2609.00656](http://arxiv.org/abs/2609.00656)|null|
 |**2026-08-31**|**DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution**|Jiashu Zhu et.al.|[2608.31106](http://arxiv.org/abs/2608.31106)|null|
 |**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
 |**2026-08-29**|**Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling**|Hangzhou He et.al.|[2608.29322](http://arxiv.org/abs/2608.29322)|null|
