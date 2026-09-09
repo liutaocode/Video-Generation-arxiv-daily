@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout**|Zhuoran Zhao et.al.|[2609.09123](http://arxiv.org/abs/2609.09123)|null|
 |**2026-09-08**|**Temporal State Transport in Video Generation: Diagnosing and Correcting Spectral Imbalance**|Luyao Tang et.al.|[2609.08505](http://arxiv.org/abs/2609.08505)|null|
 |**2026-09-08**|**SignRefine: Adapting Foundational Video Models for Sign Language Generation**|Anton Pelykh et.al.|[2609.08496](http://arxiv.org/abs/2609.08496)|null|
 |**2026-09-08**|**PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation**|Cong Wang et.al.|[2609.08215](http://arxiv.org/abs/2609.08215)|null|
