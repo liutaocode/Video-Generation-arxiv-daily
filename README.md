@@ -17,10 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Temporal State Transport in Video Generation: Diagnosing and Correcting Spectral Imbalance**|Luyao Tang et.al.|[2609.08505](http://arxiv.org/abs/2609.08505)|null|
+|**2026-09-08**|**SignRefine: Adapting Foundational Video Models for Sign Language Generation**|Anton Pelykh et.al.|[2609.08496](http://arxiv.org/abs/2609.08496)|null|
+|**2026-09-08**|**PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation**|Cong Wang et.al.|[2609.08215](http://arxiv.org/abs/2609.08215)|null|
+|**2026-09-07**|**The Price of Consistency: Exploiting Visual Anchors for Multimodal Jailbreaking in Video Generation**|Peng Li et.al.|[2609.07216](http://arxiv.org/abs/2609.07216)|null|
+|**2026-09-06**|**MVWeaver: A Hierarchical Music Video Generation Agent with a Learned Song-to-Visual Bridge**|Sifei Li et.al.|[2609.06478](http://arxiv.org/abs/2609.06478)|null|
 |**2026-09-03**|**Joint Alignment and Distillation for Video Generation via Sample-Guided Distribution Matching**|Jiuzhou Lin et.al.|[2609.04283](http://arxiv.org/abs/2609.04283)|null|
 |**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
 |**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](http://arxiv.org/abs/2609.03639)|null|
-|**2026-09-03**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
+|**2026-09-08**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
 |**2026-09-03**|**The Attention Triangle in Audio-Video Models**|Sagi Polaczek et.al.|[2609.03586](http://arxiv.org/abs/2609.03586)|null|
 |**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
 |**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[2609.02864](http://arxiv.org/abs/2609.02864)|null|
