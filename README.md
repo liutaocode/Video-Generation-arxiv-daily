@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
+|**2026-09-10**|**From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models**|Meng Luo et.al.|[2609.11242](http://arxiv.org/abs/2609.11242)|null|
 |**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
 |**2026-09-08**|**Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout**|Zhuoran Zhao et.al.|[2609.09123](http://arxiv.org/abs/2609.09123)|null|
 |**2026-09-08**|**Temporal State Transport in Video Generation: Diagnosing and Correcting Spectral Imbalance**|Luyao Tang et.al.|[2609.08505](http://arxiv.org/abs/2609.08505)|null|
