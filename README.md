@@ -46,11 +46,11 @@
 |**2026-09-03**|**The Attention Triangle in Audio-Video Models**|Sagi Polaczek et.al.|[2609.03586](http://arxiv.org/abs/2609.03586)|null|
 |**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
 |**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[2609.02864](http://arxiv.org/abs/2609.02864)|null|
-|**2026-09-04**|**RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation**|Xiaolei Lang et.al.|[2609.02847](http://arxiv.org/abs/2609.02847)|null|
+|**2026-09-04**|**RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation**|Xiaolei Lang et.al.|[2609.02847](http://arxiv.org/abs/2609.02847)|**[link](https://github.com/Jerry-locker/RoGe)**|
 |**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531](http://arxiv.org/abs/2609.02531)|null|
 |**2026-09-02**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|null|
 |**2026-09-01**|**VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls**|Qian Zhang et.al.|[2609.01698](http://arxiv.org/abs/2609.01698)|null|
-|**2026-09-01**|**CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling**|Xin Shen et.al.|[2609.01479](http://arxiv.org/abs/2609.01479)|null|
+|**2026-09-01**|**CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling**|Xin Shen et.al.|[2609.01479](http://arxiv.org/abs/2609.01479)|**[link](https://github.com/King-Wood-Shen/CameraEditor-Home)**|
 |**2026-09-01**|**Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning**|Zixuan Wang et.al.|[2609.00656](http://arxiv.org/abs/2609.00656)|null|
 |**2026-08-31**|**DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution**|Jiashu Zhu et.al.|[2608.31106](http://arxiv.org/abs/2608.31106)|null|
 |**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
@@ -124,7 +124,7 @@
 |**2026-08-04**|**Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh**|Junhao Chen et.al.|[2608.00094](http://arxiv.org/abs/2608.00094)|null|
 |**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|**[link](https://github.com/Stable-Baselines-Team/stable-baselines)**|
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
-|**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|null|
+|**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|**[link](https://github.com/da-eun07/Rest2Art)**|
 |**2026-07-29**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
 |**2026-08-03**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
@@ -201,7 +201,7 @@
 |**2026-07-06**|**Video Generation Models Are Inherent Lighting Estimators**|Ziqi Cai et.al.|[2607.04674](http://arxiv.org/abs/2607.04674)|null|
 |**2026-07-08**|**Enhancing Video Physical Consistency via Role-aware Joint Training and Modality-decoupled Denoising**|Guangting Zheng et.al.|[2607.04653](http://arxiv.org/abs/2607.04653)|null|
 |**2026-07-05**|**Lights, Camera, Carbon: Architectural Scaling Laws for Video Generation Energy Consumption**|Nidhal Jegham et.al.|[2607.04553](http://arxiv.org/abs/2607.04553)|null|
-|**2026-07-04**|**Reward Lightning: Fast Video Generation via Homologous Preference Distillation**|Jiaxiang Cheng et.al.|[2607.03960](http://arxiv.org/abs/2607.03960)|null|
+|**2026-07-04**|**Reward Lightning: Fast Video Generation via Homologous Preference Distillation**|Jiaxiang Cheng et.al.|[2607.03960](http://arxiv.org/abs/2607.03960)|**[link](https://github.com/reward-lightning/reward-lightning.github.io)**|
 |**2026-07-04**|**ProxyUp: Training-Free Proxy-Conditioned Video Generation for Controllable Dynamics**|Zanwei Zhou et.al.|[2607.03732](http://arxiv.org/abs/2607.03732)|null|
 |**2026-07-03**|**Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model**|Xinyin Ma et.al.|[2607.03509](http://arxiv.org/abs/2607.03509)|null|
 |**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|**[link](https://github.com/shengshu-ai/Vidu-S1)**|
@@ -507,7 +507,7 @@
 |**2026-04-01**|**Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training**|Xiangyang Luo et.al.|[2603.25527](http://arxiv.org/abs/2603.25527)|null|
 |**2026-03-26**|**Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction**|Jiahao Tian et.al.|[2603.25209](http://arxiv.org/abs/2603.25209)|**[link](https://github.com/Westlake-AGI-Lab/FreeLOC)**|
 |**2026-03-25**|**DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation**|Junyi Ouyang et.al.|[2603.24835](http://arxiv.org/abs/2603.24835)|**[link](https://github.com/Ufere/Assingment_1)**|
-|**2026-04-01**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-04-01**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|**[link](https://github.com/pengxuanyang/DreamerAD)**|
 |**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
 |**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Jiawei Zhou et.al.|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
 |**2026-03-25**|**OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**|Kaihang Pan et.al.|[2603.24458](http://arxiv.org/abs/2603.24458)|**[link](https://github.com/Tencent-Hunyuan/OmniWeaving)**|
@@ -792,7 +792,7 @@
 |**2025-12-10**|**H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos**|Hai Ci et.al.|[2512.09406](http://arxiv.org/abs/2512.09406)|null|
 |**2025-12-10**|**VABench: A Comprehensive Benchmark for Audio-Video Generation**|Daili Hua et.al.|[2512.09299](http://arxiv.org/abs/2512.09299)|null|
 |**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|**[link](https://github.com/EternalEvan/Astra)**|
-|**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](http://arxiv.org/abs/2512.08905)|null|
+|**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](http://arxiv.org/abs/2512.08905)|**[link](https://github.com/UCSB-AI/EvoScene)**|
 |**2025-12-09**|**Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance**|Ruihang Chu et.al.|[2512.08765](http://arxiv.org/abs/2512.08765)|**[link](https://github.com/ali-vilab/Wan-Move)**|
 |**2025-12-09**|**EgoX: Egocentric Video Generation from a Single Exocentric Video**|Taewoong Kang et.al.|[2512.08269](http://arxiv.org/abs/2512.08269)|**[link](https://github.com/DAVIAN-Robotics/EgoX)**|
 |**2025-12-09**|**Embodied Tree of Thoughts: Deliberate Manipulation Planning with Embodied World Model**|Wenjiang Xu et.al.|[2512.08188](http://arxiv.org/abs/2512.08188)|**[link](https://github.com/HEA1OR/Embodied-Tree-of-Thoughts)**|
