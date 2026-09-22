@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms**|Yueyan Li et.al.|[2609.23658](http://arxiv.org/abs/2609.23658)|null|
+|**2026-09-20**|**An Efficient and Effective Watermarking Scheme for the Protection of the Intellectual Property Rights of Video Generative Models**|Wenhong Huang et.al.|[2609.23586](http://arxiv.org/abs/2609.23586)|null|
+|**2026-09-19**|**RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling**|Zhenchen Tang et.al.|[2609.22947](http://arxiv.org/abs/2609.22947)|null|
+|**2026-09-13**|**Rethinking Streaming Video Diffusion Model: Context, Execution, and Training**|Hongchen Zhang et.al.|[2609.22283](http://arxiv.org/abs/2609.22283)|null|
 |**2026-09-18**|**JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting**|Trinh Tra Giang Nguyen et.al.|[2609.21379](http://arxiv.org/abs/2609.21379)|null|
 |**2026-09-18**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|null|
 |**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
@@ -28,7 +32,7 @@
 |**2026-09-15**|**VOR-Bench: A Human Perception-Driven Benchmark for Video Object Removal**|Haonan Huang et.al.|[2609.16878](http://arxiv.org/abs/2609.16878)|null|
 |**2026-09-14**|**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**|Xiaofeng Mao et.al.|[2609.15863](http://arxiv.org/abs/2609.15863)|null|
 |**2026-09-15**|**DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models**|Jing Lyu et.al.|[2609.15570](http://arxiv.org/abs/2609.15570)|null|
-|**2026-09-13**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
+|**2026-09-20**|**CrossDistill: Balancing Quality and Diversity via Trajectory-Level Hybrid Few-Step Distillation**|Yuxi Liu et.al.|[2609.14725](http://arxiv.org/abs/2609.14725)|null|
 |**2026-09-07**|**BEACON: Behavior and Appearance Control for Subject-Specific Video Generation**|Pokrzywa Baptiste et.al.|[2609.13264](http://arxiv.org/abs/2609.13264)|null|
 |**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
 |**2026-09-10**|**From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models**|Meng Luo et.al.|[2609.11242](http://arxiv.org/abs/2609.11242)|null|
@@ -1383,7 +1387,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
