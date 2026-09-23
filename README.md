@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|null|
+|**2026-09-22**|**Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention**|Shanghao Liu et.al.|[2609.25869](http://arxiv.org/abs/2609.25869)|null|
+|**2026-09-22**|**TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection**|Huangsen Cao et.al.|[2609.25775](http://arxiv.org/abs/2609.25775)|null|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**Streaming Video Editing with Easy Adaptation**|Yujia Hu et.al.|[2609.24788](http://arxiv.org/abs/2609.24788)|null|
 |**2026-09-20**|**Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms**|Yueyan Li et.al.|[2609.23658](http://arxiv.org/abs/2609.23658)|null|
@@ -24,8 +27,8 @@
 |**2026-09-19**|**RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling**|Zhenchen Tang et.al.|[2609.22947](http://arxiv.org/abs/2609.22947)|null|
 |**2026-09-13**|**Rethinking Streaming Video Diffusion Model: Context, Execution, and Training**|Hongchen Zhang et.al.|[2609.22283](http://arxiv.org/abs/2609.22283)|null|
 |**2026-09-18**|**JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting**|Trinh Tra Giang Nguyen et.al.|[2609.21379](http://arxiv.org/abs/2609.21379)|null|
-|**2026-09-18**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|null|
-|**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
+|**2026-09-21**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|null|
+|**2026-09-21**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
 |**2026-09-17**|**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**|Yexin Hu et.al.|[2609.20582](http://arxiv.org/abs/2609.20582)|null|
 |**2026-09-17**|**DART: Distillation-Aware Reparameterization for Training-Free LoRA Reuse in Few-Step Video Diffusion Models**|Shihong Li et.al.|[2609.20051](http://arxiv.org/abs/2609.20051)|null|
 |**2026-09-17**|**Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings**|Yutao Ming et.al.|[2609.19782](http://arxiv.org/abs/2609.19782)|null|
@@ -1389,7 +1392,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
