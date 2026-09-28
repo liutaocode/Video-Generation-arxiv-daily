@@ -86,7 +86,7 @@
 |**2026-08-21**|**Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs**|Craig W. Looney et.al.|[2608.20733](http://arxiv.org/abs/2608.20733)|null|
 |**2026-08-20**|**Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation**|Shengze Wang et.al.|[2608.20534](http://arxiv.org/abs/2608.20534)|null|
 |**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
-|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Yufei Liu et.al.|[2608.20308](http://arxiv.org/abs/2608.20308)|null|
+|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Yufei Liu et.al.|[2608.20308](http://arxiv.org/abs/2608.20308)|**[link](https://github.com/Ziyang-Li-AILab/Ace-Ego-Hand)**|
 |**2026-08-20**|**AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures**|Guoxing Sun et.al.|[2608.19900](http://arxiv.org/abs/2608.19900)|null|
 |**2026-08-26**|**VGI-Bench: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
 |**2026-08-20**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|null|
@@ -166,7 +166,7 @@
 |**2026-07-21**|**Geospatial Diffusion-based Evolution Synthesis (GeoDES) for Storm-Centered Weather Augmentation**|Sonia Cromp et.al.|[2607.19522](http://arxiv.org/abs/2607.19522)|null|
 |**2026-07-21**|**FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling**|Jialong Zuo et.al.|[2607.19038](http://arxiv.org/abs/2607.19038)|null|
 |**2026-07-21**|**Learning Explicit Physical Parameter Control and Benchmarking for Video Generation**|Yanxun Li et.al.|[2607.18924](http://arxiv.org/abs/2607.18924)|null|
-|**2026-07-21**|**DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking**|Yunyi Li et.al.|[2607.18664](http://arxiv.org/abs/2607.18664)|null|
+|**2026-07-21**|**DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking**|Yunyi Li et.al.|[2607.18664](http://arxiv.org/abs/2607.18664)|**[link](https://github.com/nemosunny/DeforM-code)**|
 |**2026-07-20**|**AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation**|Yen-Chi Cheng et.al.|[2607.18539](http://arxiv.org/abs/2607.18539)|null|
 |**2026-07-20**|**ShotPlan: Cinematic Video Generation with Learnable Planning Token**|Su Guo et.al.|[2607.17675](http://arxiv.org/abs/2607.17675)|null|
 |**2026-07-20**|**Brain-Aligned Multi-Stream Video Transformers with Sparse Self-Selection**|Amir Hosein Fadaei et.al.|[2607.17625](http://arxiv.org/abs/2607.17625)|null|
@@ -228,8 +228,8 @@
 |**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
 |**2026-06-30**|**InfiniVerse: Occupancy Guided Unbounded Scene Generation for Autonomous Driving**|Xiaoyu Ye et.al.|[2606.31109](http://arxiv.org/abs/2606.31109)|null|
 |**2026-06-30**|**Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors**|Zixing Wang et.al.|[2606.31101](http://arxiv.org/abs/2606.31101)|null|
-|**2026-06-29**|**Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding**|Seongro Yoon et.al.|[2606.30611](http://arxiv.org/abs/2606.30611)|null|
-|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|null|
+|**2026-06-29**|**Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding**|Seongro Yoon et.al.|[2606.30611](http://arxiv.org/abs/2606.30611)|**[link](https://github.com/ysrinria/MiRA)**|
+|**2026-06-29**|**The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction**|Yuxi Wang et.al.|[2606.30308](http://arxiv.org/abs/2606.30308)|**[link](https://github.com/NTUYWANG103/ViDiHand)**|
 |**2026-06-26**|**Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors**|Youzhi Liu et.al.|[2606.28237](http://arxiv.org/abs/2606.28237)|null|
 |**2026-06-26**|**PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation**|Peiwen Zhang et.al.|[2606.28128](http://arxiv.org/abs/2606.28128)|**[link](https://github.com/DAGroup-PKU/PhysisForcing)**|
 |**2026-07-02**|**TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL**|Jing Wang et.al.|[2606.28016](http://arxiv.org/abs/2606.28016)|null|
