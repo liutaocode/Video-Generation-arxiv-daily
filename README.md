@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
+|**2026-09-25**|**Where and When to Force: Routed Forcing for Streaming Avatars**|Zihan Su et.al.|[2609.30963](http://arxiv.org/abs/2609.30963)|null|
 |**2026-09-23**|**Training Object Permanence in World Models**|Haotian Zhang et.al.|[2609.28654](http://arxiv.org/abs/2609.28654)|null|
 |**2026-09-24**|**Latent evolving World Action Model**|Xueji Fang et.al.|[2609.27455](http://arxiv.org/abs/2609.27455)|null|
 |**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|null|
