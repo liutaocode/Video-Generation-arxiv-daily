@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**|Zimo Wang et.al.|[2609.35768](http://arxiv.org/abs/2609.35768)|null|
+|**2026-09-28**|**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**|Kerui Ren et.al.|[2609.35734](http://arxiv.org/abs/2609.35734)|null|
+|**2026-09-28**|**Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge**|Yitong Li et.al.|[2609.35110](http://arxiv.org/abs/2609.35110)|null|
+|**2026-09-28**|**GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior**|Yajiao Xiong et.al.|[2609.34579](http://arxiv.org/abs/2609.34579)|null|
+|**2026-09-28**|**From Static to Dynamic: On-Policy Distillation from Image to Video Diffusion Models**|Bingqing Jiang et.al.|[2609.34371](http://arxiv.org/abs/2609.34371)|null|
+|**2026-09-28**|**Enhanced Video Text Editing with Trajectory-Aligned Glyph Rendering**|Shulian Zhang et.al.|[2609.34178](http://arxiv.org/abs/2609.34178)|null|
+|**2026-09-27**|**VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis**|Kangjie Chen et.al.|[2609.33253](http://arxiv.org/abs/2609.33253)|null|
+|**2026-09-26**|**REMEDY: How Far Is Video Generation from Medical Education World Models?**|Lixing Tan et.al.|[2609.32460](http://arxiv.org/abs/2609.32460)|null|
+|**2026-09-26**|**SparSP: Exploiting Communication Sparsity for Sequence-Parallel Video DiTs**|Desen Sun et.al.|[2609.32197](http://arxiv.org/abs/2609.32197)|null|
 |**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
 |**2026-09-25**|**Where and When to Force: Routed Forcing for Streaming Avatars**|Zihan Su et.al.|[2609.30963](http://arxiv.org/abs/2609.30963)|null|
 |**2026-09-23**|**Training Object Permanence in World Models**|Haotian Zhang et.al.|[2609.28654](http://arxiv.org/abs/2609.28654)|null|
