@@ -17,10 +17,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**LongLive-Plug: Once-for-All Distillation for Video Generation**|Shuai Yang et.al.|[2609.38154](http://arxiv.org/abs/2609.38154)|null|
+|**2026-09-29**|**FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation**|Trong-Tung Nguyen et.al.|[2609.38152](http://arxiv.org/abs/2609.38152)|null|
+|**2026-09-29**|**Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE**|Yu Xu et.al.|[2609.38140](http://arxiv.org/abs/2609.38140)|null|
+|**2026-09-29**|**MUGEN: Interactive Panoramic World Exploration via Camera Control**|Jiaming Tan et.al.|[2609.38077](http://arxiv.org/abs/2609.38077)|null|
+|**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Shenghe Zheng et.al.|[2609.38059](http://arxiv.org/abs/2609.38059)|null|
+|**2026-09-29**|**RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution**|Xijun Wang et.al.|[2609.37850](http://arxiv.org/abs/2609.37850)|null|
+|**2026-09-29**|**Texture Space Material Diffusion**|Jacob Munkberg et.al.|[2609.37654](http://arxiv.org/abs/2609.37654)|null|
+|**2026-09-29**|**Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL**|Songlin Yang et.al.|[2609.37200](http://arxiv.org/abs/2609.37200)|null|
+|**2026-09-29**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107](http://arxiv.org/abs/2609.37107)|null|
+|**2026-09-29**|**MotionInsight: Diagnosing Object Motion Deficiencies in Generated Videos**|Jiahao Zhan et.al.|[2609.37030](http://arxiv.org/abs/2609.37030)|null|
+|**2026-09-29**|**Motion Concept Unlearning in Video Diffusion Models**|Ping Liu et.al.|[2609.36832](http://arxiv.org/abs/2609.36832)|null|
+|**2026-09-29**|**Learning via Self-Consistency for Diffusion-based Video Reasoning**|Zhenghao Ni et.al.|[2609.36826](http://arxiv.org/abs/2609.36826)|null|
+|**2026-09-28**|**Enabling Immersive Audio-Visual Experience from Any Video**|Zitong Lan et.al.|[2609.36295](http://arxiv.org/abs/2609.36295)|null|
+|**2026-09-28**|**CoRe: Co-Evolving Reward Models for Mitigating Latent Reward Hacking in Video Diffusion Models**|Zhaolong Su et.al.|[2609.36245](http://arxiv.org/abs/2609.36245)|null|
 |**2026-09-28**|**PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**|Zimo Wang et.al.|[2609.35768](http://arxiv.org/abs/2609.35768)|null|
-|**2026-09-28**|**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**|Kerui Ren et.al.|[2609.35734](http://arxiv.org/abs/2609.35734)|null|
+|**2026-09-29**|**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**|Kerui Ren et.al.|[2609.35734](http://arxiv.org/abs/2609.35734)|null|
 |**2026-09-28**|**Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge**|Yitong Li et.al.|[2609.35110](http://arxiv.org/abs/2609.35110)|null|
-|**2026-09-28**|**GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior**|Yajiao Xiong et.al.|[2609.34579](http://arxiv.org/abs/2609.34579)|null|
+|**2026-09-29**|**GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior**|Yajiao Xiong et.al.|[2609.34579](http://arxiv.org/abs/2609.34579)|null|
 |**2026-09-28**|**From Static to Dynamic: On-Policy Distillation from Image to Video Diffusion Models**|Bingqing Jiang et.al.|[2609.34371](http://arxiv.org/abs/2609.34371)|null|
 |**2026-09-28**|**Enhanced Video Text Editing with Trajectory-Aligned Glyph Rendering**|Shulian Zhang et.al.|[2609.34178](http://arxiv.org/abs/2609.34178)|null|
 |**2026-09-27**|**VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis**|Kangjie Chen et.al.|[2609.33253](http://arxiv.org/abs/2609.33253)|null|
