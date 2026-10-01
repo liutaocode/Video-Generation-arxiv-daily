@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](http://arxiv.org/abs/2609.40358)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
+|**2026-09-30**|**VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning**|Zehua Ma et.al.|[2609.40129](http://arxiv.org/abs/2609.40129)|null|
+|**2026-09-30**|**PartiCam: Camera Controlled Video Generation with Reward Guidance**|Amine Ouasfi et.al.|[2609.39504](http://arxiv.org/abs/2609.39504)|null|
+|**2026-09-30**|**Sparse-WAM: Accelerating World Action Models via Action-Guided Sparse Imagination**|Xinling Xie et.al.|[2609.38984](http://arxiv.org/abs/2609.38984)|null|
+|**2026-09-30**|**Future Video Generation Better Aligns with the Human Visual Cortex than Observed Video**|Chang-Bae Bang et.al.|[2609.38819](http://arxiv.org/abs/2609.38819)|null|
+|**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|null|
+|**2026-09-29**|**Strike a Chord! Modal Kinetic Typography**|Maham Tanveer et.al.|[2609.38325](http://arxiv.org/abs/2609.38325)|null|
 |**2026-09-29**|**LongLive-Plug: Once-for-All Distillation for Video Generation**|Shuai Yang et.al.|[2609.38154](http://arxiv.org/abs/2609.38154)|null|
 |**2026-09-29**|**FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation**|Trong-Tung Nguyen et.al.|[2609.38152](http://arxiv.org/abs/2609.38152)|null|
 |**2026-09-29**|**Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE**|Yu Xu et.al.|[2609.38140](http://arxiv.org/abs/2609.38140)|null|
@@ -25,7 +33,7 @@
 |**2026-09-29**|**RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution**|Xijun Wang et.al.|[2609.37850](http://arxiv.org/abs/2609.37850)|null|
 |**2026-09-29**|**Texture Space Material Diffusion**|Jacob Munkberg et.al.|[2609.37654](http://arxiv.org/abs/2609.37654)|null|
 |**2026-09-29**|**Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL**|Songlin Yang et.al.|[2609.37200](http://arxiv.org/abs/2609.37200)|null|
-|**2026-09-29**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107](http://arxiv.org/abs/2609.37107)|null|
+|**2026-09-30**|**Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware**|Rajit Rajpal et.al.|[2609.37107](http://arxiv.org/abs/2609.37107)|null|
 |**2026-09-29**|**MotionInsight: Diagnosing Object Motion Deficiencies in Generated Videos**|Jiahao Zhan et.al.|[2609.37030](http://arxiv.org/abs/2609.37030)|null|
 |**2026-09-29**|**Motion Concept Unlearning in Video Diffusion Models**|Ping Liu et.al.|[2609.36832](http://arxiv.org/abs/2609.36832)|null|
 |**2026-09-29**|**Learning via Self-Consistency for Diffusion-based Video Reasoning**|Zhenghao Ni et.al.|[2609.36826](http://arxiv.org/abs/2609.36826)|null|
