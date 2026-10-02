@@ -17,6 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models**|Huanran Hu et.al.|[2610.01661](http://arxiv.org/abs/2610.01661)|null|
+|**2026-10-01**|**VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation**|Yu Huang et.al.|[2610.01499](http://arxiv.org/abs/2610.01499)|null|
+|**2026-10-01**|**PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models**|Isaiah Milkey et.al.|[2610.01162](http://arxiv.org/abs/2610.01162)|null|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Patrick Amadeus Irawan et.al.|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
+|**2026-10-01**|**Bootstrapping Video Interaction Generation with Synthetic State Transitions**|Jiho Jang et.al.|[2610.01039](http://arxiv.org/abs/2610.01039)|null|
+|**2026-09-30**|**Video Generation Models: A Survey of Post-Training and Alignment**|Chaoyu Li et.al.|[2610.00812](http://arxiv.org/abs/2610.00812)|null|
+|**2026-09-30**|**Soundwich: Video Generation with Layered and Controllable Audio**|Zhuo Ning et.al.|[2610.00691](http://arxiv.org/abs/2610.00691)|null|
+|**2026-09-30**|**Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment**|Jinho Chang et.al.|[2610.00365](http://arxiv.org/abs/2610.00365)|null|
+|**2026-09-30**|**Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength**|Candi Zheng et.al.|[2610.00359](http://arxiv.org/abs/2610.00359)|null|
 |**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](http://arxiv.org/abs/2609.40358)|null|
 |**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
 |**2026-09-30**|**VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning**|Zehua Ma et.al.|[2609.40129](http://arxiv.org/abs/2609.40129)|null|
