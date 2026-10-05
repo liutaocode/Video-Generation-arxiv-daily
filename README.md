@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
+|**2026-10-02**|**Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models**|Jonas Kneifl et.al.|[2610.03154](http://arxiv.org/abs/2610.03154)|null|
+|**2026-10-02**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
+|**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models**|Huanran Hu et.al.|[2610.01661](http://arxiv.org/abs/2610.01661)|null|
@@ -25,7 +29,7 @@
 |**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Patrick Amadeus Irawan et.al.|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
 |**2026-10-01**|**Bootstrapping Video Interaction Generation with Synthetic State Transitions**|Jiho Jang et.al.|[2610.01039](http://arxiv.org/abs/2610.01039)|null|
 |**2026-09-30**|**Video Generation Models: A Survey of Post-Training and Alignment**|Chaoyu Li et.al.|[2610.00812](http://arxiv.org/abs/2610.00812)|null|
-|**2026-09-30**|**Soundwich: Video Generation with Layered and Controllable Audio**|Zhuo Ning et.al.|[2610.00691](http://arxiv.org/abs/2610.00691)|null|
+|**2026-10-02**|**Soundwich: Video Generation with Layered and Controllable Audio**|Zhuo Ning et.al.|[2610.00691](http://arxiv.org/abs/2610.00691)|null|
 |**2026-09-30**|**Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment**|Jinho Chang et.al.|[2610.00365](http://arxiv.org/abs/2610.00365)|null|
 |**2026-09-30**|**Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength**|Candi Zheng et.al.|[2610.00359](http://arxiv.org/abs/2610.00359)|null|
 |**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](http://arxiv.org/abs/2609.40358)|null|
