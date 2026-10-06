@@ -17,12 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
+|**2026-10-05**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](http://arxiv.org/abs/2610.06687)|null|
+|**2026-10-05**|**Level-of-Token Diffusion**|Kiyohiro Nakayama et.al.|[2610.05816](http://arxiv.org/abs/2610.05816)|null|
+|**2026-10-04**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
+|**2026-10-03**|**Investigating Spatiotemporal Redundancy in Video Transformer for Collision Anticipation**|Xiaoshan Zhou et.al.|[2610.04727](http://arxiv.org/abs/2610.04727)|null|
 |**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
 |**2026-10-02**|**Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models**|Jonas Kneifl et.al.|[2610.03154](http://arxiv.org/abs/2610.03154)|null|
 |**2026-10-02**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
-|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models**|Huanran Hu et.al.|[2610.01661](http://arxiv.org/abs/2610.01661)|null|
 |**2026-10-01**|**VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation**|Yu Huang et.al.|[2610.01499](http://arxiv.org/abs/2610.01499)|null|
 |**2026-10-01**|**PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models**|Isaiah Milkey et.al.|[2610.01162](http://arxiv.org/abs/2610.01162)|null|
