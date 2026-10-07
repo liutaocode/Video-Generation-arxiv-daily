@@ -17,8 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**HuC-VideoMAE: Human-Centric Video Masked Autoencoding from synthetic data**|Ricardo Pizarro et.al.|[2610.08433](http://arxiv.org/abs/2610.08433)|null|
+|**2026-10-06**|**Rethinking Visual Provenance: Detection and Watermarking Across Direct Visual Generation and LLM-Driven Code Rendering**|Zheng Gao et.al.|[2610.08137](http://arxiv.org/abs/2610.08137)|null|
 |**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
-|**2026-10-05**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](http://arxiv.org/abs/2610.06687)|null|
+|**2026-10-06**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](http://arxiv.org/abs/2610.06687)|null|
 |**2026-10-05**|**Level-of-Token Diffusion**|Kiyohiro Nakayama et.al.|[2610.05816](http://arxiv.org/abs/2610.05816)|null|
 |**2026-10-04**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
 |**2026-10-03**|**Investigating Spatiotemporal Redundancy in Video Transformer for Collision Anticipation**|Xiaoshan Zhou et.al.|[2610.04727](http://arxiv.org/abs/2610.04727)|null|
