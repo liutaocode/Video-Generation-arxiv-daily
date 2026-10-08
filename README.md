@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**GRACE: Generation-aware latent compression for efficient video generation**|Jiyoung Kim et.al.|[2610.10524](http://arxiv.org/abs/2610.10524)|null|
+|**2026-10-07**|**MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration**|Yuxiang Xiong et.al.|[2610.10457](http://arxiv.org/abs/2610.10457)|null|
+|**2026-10-07**|**RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer**|Huang Huang et.al.|[2610.09254](http://arxiv.org/abs/2610.09254)|null|
+|**2026-10-06**|**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**|Kevin Stephen et.al.|[2610.09223](http://arxiv.org/abs/2610.09223)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**HuC-VideoMAE: Human-Centric Video Masked Autoencoding from synthetic data**|Ricardo Pizarro et.al.|[2610.08433](http://arxiv.org/abs/2610.08433)|null|
 |**2026-10-06**|**Rethinking Visual Provenance: Detection and Watermarking Across Direct Visual Generation and LLM-Driven Code Rendering**|Zheng Gao et.al.|[2610.08137](http://arxiv.org/abs/2610.08137)|null|
@@ -27,7 +31,7 @@
 |**2026-10-03**|**Investigating Spatiotemporal Redundancy in Video Transformer for Collision Anticipation**|Xiaoshan Zhou et.al.|[2610.04727](http://arxiv.org/abs/2610.04727)|null|
 |**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
 |**2026-10-02**|**Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models**|Jonas Kneifl et.al.|[2610.03154](http://arxiv.org/abs/2610.03154)|null|
-|**2026-10-02**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
+|**2026-10-07**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
 |**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
