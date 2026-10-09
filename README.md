@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
+|**2026-10-08**|**LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation**|Suhwan Cho et.al.|[2610.12442](http://arxiv.org/abs/2610.12442)|null|
+|**2026-10-08**|**Phase-aware video generation for physics-grounded dynamics and interactions**|Jingfeng Ou et.al.|[2610.11791](http://arxiv.org/abs/2610.11791)|null|
+|**2026-10-08**|**Conditional Residual Prediction: Improving Autoregressive Video Diffusion without a Bidirectional Teacher**|Bowen Zheng et.al.|[2610.11479](http://arxiv.org/abs/2610.11479)|null|
+|**2026-10-08**|**IntactWorld: Joint World Modeling with Intact Features**|Boming Tan et.al.|[2610.11174](http://arxiv.org/abs/2610.11174)|null|
+|**2026-10-08**|**Transforming Image Editors into Video Editors**|Feng Wang et.al.|[2610.11037](http://arxiv.org/abs/2610.11037)|null|
 |**2026-10-07**|**GRACE: Generation-aware latent compression for efficient video generation**|Jiyoung Kim et.al.|[2610.10524](http://arxiv.org/abs/2610.10524)|null|
 |**2026-10-07**|**MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration**|Yuxiang Xiong et.al.|[2610.10457](http://arxiv.org/abs/2610.10457)|null|
 |**2026-10-07**|**RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer**|Huang Huang et.al.|[2610.09254](http://arxiv.org/abs/2610.09254)|null|
