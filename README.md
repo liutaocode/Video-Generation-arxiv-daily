@@ -17,6 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation**|Hajira Amjad et.al.|[2610.13849](http://arxiv.org/abs/2610.13849)|null|
+|**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Yuchen Wang et.al.|[2610.13681](http://arxiv.org/abs/2610.13681)|null|
+|**2026-10-09**|**Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening**|Zhiyu Xu et.al.|[2610.13187](http://arxiv.org/abs/2610.13187)|null|
+|**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|null|
+|**2026-10-09**|**AV-FlowEdit: Training-Free Prompt-Driven Audio-Visual Editing with Event-Aware Spectral Trajectory Preservation**|Shaohua Pan et.al.|[2610.13072](http://arxiv.org/abs/2610.13072)|null|
+|**2026-10-09**|**What Visual Representations Do World Action Models Need?**|Kai Liu et.al.|[2610.13024](http://arxiv.org/abs/2610.13024)|null|
+|**2026-10-09**|**Unified Generative Video Compression with Autoregressive and Bidirectional Video Diffusion**|Tianyu Zhang et.al.|[2610.13023](http://arxiv.org/abs/2610.13023)|null|
+|**2026-10-08**|**StereoEngine: Scaling Stereo Bimanual Robot Data without Stereo Cameras**|Jason Chen et.al.|[2610.12734](http://arxiv.org/abs/2610.12734)|null|
+|**2026-10-08**|**ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion**|Zekai Gu et.al.|[2610.12625](http://arxiv.org/abs/2610.12625)|null|
+|**2026-10-08**|**CASTER: Formalizing Zero-Shot Manipulation from Synthetic Videos as Constrained Optimization**|Yinlong Dai et.al.|[2610.12567](http://arxiv.org/abs/2610.12567)|null|
+|**2026-10-07**|**CORAL-KV: Compact Cross-Layer Prediction and Residual Coding for Autoregressive Video KV Caches**|Albert Ge et.al.|[2610.12514](http://arxiv.org/abs/2610.12514)|null|
 |**2026-10-08**|**DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training**|Junyan Li et.al.|[2610.12468](http://arxiv.org/abs/2610.12468)|null|
 |**2026-10-08**|**LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation**|Suhwan Cho et.al.|[2610.12442](http://arxiv.org/abs/2610.12442)|null|
 |**2026-10-08**|**Phase-aware video generation for physics-grounded dynamics and interactions**|Jingfeng Ou et.al.|[2610.11791](http://arxiv.org/abs/2610.11791)|null|
