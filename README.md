@@ -51,13 +51,13 @@
 |**2026-10-07**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
-|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|**[link](https://github.com/UniWAM/UniWAM)**|
 |**2026-10-01**|**DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models**|Huanran Hu et.al.|[2610.01661](http://arxiv.org/abs/2610.01661)|null|
 |**2026-10-01**|**VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation**|Yu Huang et.al.|[2610.01499](http://arxiv.org/abs/2610.01499)|null|
 |**2026-10-01**|**PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models**|Isaiah Milkey et.al.|[2610.01162](http://arxiv.org/abs/2610.01162)|null|
-|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Patrick Amadeus Irawan et.al.|[2610.01092](http://arxiv.org/abs/2610.01092)|null|
-|**2026-10-01**|**Bootstrapping Video Interaction Generation with Synthetic State Transitions**|Jiho Jang et.al.|[2610.01039](http://arxiv.org/abs/2610.01039)|null|
-|**2026-09-30**|**Video Generation Models: A Survey of Post-Training and Alignment**|Chaoyu Li et.al.|[2610.00812](http://arxiv.org/abs/2610.00812)|null|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Patrick Amadeus Irawan et.al.|[2610.01092](http://arxiv.org/abs/2610.01092)|**[link](https://github.com/ego2act/ego2act)**|
+|**2026-10-01**|**Bootstrapping Video Interaction Generation with Synthetic State Transitions**|Jiho Jang et.al.|[2610.01039](http://arxiv.org/abs/2610.01039)|**[link](https://github.com/hagiss/synthetic-state-transitions)**|
+|**2026-09-30**|**Video Generation Models: A Survey of Post-Training and Alignment**|Chaoyu Li et.al.|[2610.00812](http://arxiv.org/abs/2610.00812)|**[link](https://github.com/people-robots/Awesome-Video-Generation-Post-Training)**|
 |**2026-10-02**|**Soundwich: Video Generation with Layered and Controllable Audio**|Zhuo Ning et.al.|[2610.00691](http://arxiv.org/abs/2610.00691)|null|
 |**2026-09-30**|**Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment**|Jinho Chang et.al.|[2610.00365](http://arxiv.org/abs/2610.00365)|null|
 |**2026-09-30**|**Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength**|Candi Zheng et.al.|[2610.00359](http://arxiv.org/abs/2610.00359)|null|
@@ -144,8 +144,8 @@
 |**2026-08-30**|**On the Resilience of Text-to-Video Diffusion Models to Hardware Faults**|Zachary Coalson et.al.|[2608.29598](http://arxiv.org/abs/2608.29598)|null|
 |**2026-08-29**|**Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling**|Hangzhou He et.al.|[2608.29322](http://arxiv.org/abs/2608.29322)|null|
 |**2026-08-29**|**Dancing Stick Figures: An Introductory Dataset for Training Video Generation Models**|Jin Hyuk Cho et.al.|[2608.29123](http://arxiv.org/abs/2608.29123)|null|
-|**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](http://arxiv.org/abs/2608.28549)|null|
-|**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|null|
+|**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549](http://arxiv.org/abs/2608.28549)|**[link](https://github.com/Creative-Intelligence-Studio/GeoNeXt)**|
+|**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|**[link](https://github.com/valeoai/VATIX)**|
 |**2026-08-28**|**DensityKV: Density-Guided KV Cache Compression for Long Video Generation**|Wenqu Zhao et.al.|[2608.27922](http://arxiv.org/abs/2608.27922)|null|
 |**2026-09-03**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|**[link](https://github.com/Andrew0613/PAWBench_webpage)**|
 |**2026-08-28**|**SpatialCrafter: Single Image World Modeling with Generative 3D Proxies**|Chuan Fang et.al.|[2608.27073](http://arxiv.org/abs/2608.27073)|**[link](https://github.com/fangchuan/SpatialCrafter)**|
@@ -191,7 +191,7 @@
 |**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
 |**2026-08-07**|**CoDAT: Collaborative Dual-Attention Transformer with Low-Cost Temporal Modeling for Efficient Edge Action Recognition**|Novendra Setyawan et.al.|[2608.06691](http://arxiv.org/abs/2608.06691)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
-|**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Subin Jeon et.al.|[2608.06192](http://arxiv.org/abs/2608.06192)|null|
+|**2026-08-06**|**HOPE: Hand-Object Pressure Estimation from Monocular Videos**|Subin Jeon et.al.|[2608.06192](http://arxiv.org/abs/2608.06192)|**[link](https://github.com/subin6/page-hope)**|
 |**2026-08-06**|**Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training**|Rui Li et.al.|[2608.06125](http://arxiv.org/abs/2608.06125)|null|
 |**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
 |**2026-08-06**|**Diff-VF: Training-free High-quality Long Video Generation via Diffusion Model**|Haoning Yang et.al.|[2608.05976](http://arxiv.org/abs/2608.05976)|null|
@@ -231,7 +231,7 @@
 |**2026-07-27**|**ViDS: Video Diffusion Shader using 3D Face Tracking**|Wenbo Ji et.al.|[2607.24124](http://arxiv.org/abs/2607.24124)|null|
 |**2026-07-26**|**OmniCache: Multidimensional Hierarchical Feature Caching For Diffusion Models**|Zhaoyuan He et.al.|[2607.23844](http://arxiv.org/abs/2607.23844)|null|
 |**2026-07-26**|**VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation**|Tianxiao Chen et.al.|[2607.23472](http://arxiv.org/abs/2607.23472)|null|
-|**2026-07-25**|**CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion**|Shreshth Saini et.al.|[2607.23159](http://arxiv.org/abs/2607.23159)|null|
+|**2026-07-25**|**CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion**|Shreshth Saini et.al.|[2607.23159](http://arxiv.org/abs/2607.23159)|**[link](https://github.com/shreshthsaini/ComfyUI-CachedSearch)**|
 |**2026-07-24**|**Generative Video Compression with Adaptive Score Distillation**|Naifu Xue et.al.|[2607.22772](http://arxiv.org/abs/2607.22772)|null|
 |**2026-07-17**|**MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion**|Jiacheng Liu et.al.|[2607.22696](http://arxiv.org/abs/2607.22696)|null|
 |**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|**[link](https://github.com/bone-11/agenthoi)**|
@@ -297,7 +297,7 @@
 |**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
 |**2026-07-01**|**RotateAttention: RoPE-Aware Rotation and Range Rectification for INT4 Quantized Attention in Video Generation**|Yaofu Liu et.al.|[2607.02584](http://arxiv.org/abs/2607.02584)|null|
 |**2026-07-02**|**QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers**|Kyobin Choo et.al.|[2607.01869](http://arxiv.org/abs/2607.01869)|**[link](https://github.com/MICV-yonsei/QWERTY)**|
-|**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|null|
+|**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|**[link](https://github.com/alexhe101/ICDepth)**|
 |**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|**[link](https://github.com/YueHan99/Ink3D.TextureGen)**|
 |**2026-07-06**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
 |**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Amirreza Rouhi et.al.|[2607.00310](http://arxiv.org/abs/2607.00310)|null|
@@ -1223,7 +1223,7 @@
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong et.al.|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
 |**2025-11-06**|**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation**|Xiangjun Zhang et.al.|[2511.04317](http://arxiv.org/abs/2511.04317)|null|
 |**2025-11-07**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
-|**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|null|
+|**2025-11-05**|**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising**|Shuangquan Lyu et.al.|[2511.03272](http://arxiv.org/abs/2511.03272)|**[link](https://github.com/lvshq/Unified-Long-Video-In-Outpainting)**|
 |**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen et.al.|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
 |**2025-11-03**|**Towards One-step Causal Video Generation via Adversarial Self-Distillation**|Yongqi Yang et.al.|[2511.01419](http://arxiv.org/abs/2511.01419)|**[link](https://github.com/BigAandSmallq/SAD)**|
 |**2025-11-02**|**Anatomically Constrained Transformers for Echocardiogram Analysis**|Alexander Thorley et.al.|[2511.01109](http://arxiv.org/abs/2511.01109)|null|
