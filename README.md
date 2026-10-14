@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**GAD: Geometry Attention Distillation for Consistent Video Generation**|Junfeng Ni et.al.|[2610.18779](http://arxiv.org/abs/2610.18779)|null|
+|**2026-10-13**|**LongForcing: Scaling Temporal Manifold Matching for Long-Horizon World Rollout**|Ziyu Zhu et.al.|[2610.18289](http://arxiv.org/abs/2610.18289)|null|
+|**2026-10-13**|**Data-Free Continual Learning for World Action Model with Rectified Generative Replay**|Kaipeng Fang et.al.|[2610.18038](http://arxiv.org/abs/2610.18038)|null|
+|**2026-10-13**|**Hierarchical Curriculum Learning for Surgical Video Generation: Focusing on Bilateral Axillo-Breast Approach Robotic Thyroidectomy Datasets**|Youngbin Kong et.al.|[2610.17684](http://arxiv.org/abs/2610.17684)|null|
+|**2026-10-12**|**Heuristics are Not Enough: Calibrated and Corrected Caching for Video Diffusion Acceleration**|Jiyue Jiang et.al.|[2610.16545](http://arxiv.org/abs/2610.16545)|null|
+|**2026-10-12**|**MiMaAlign: Hierarchical Micro-Macro Alignment for Physically Plausible Video Generation**|Yansong Liu et.al.|[2610.16482](http://arxiv.org/abs/2610.16482)|null|
+|**2026-10-12**|**Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration**|Lei Zhu et.al.|[2610.16448](http://arxiv.org/abs/2610.16448)|null|
+|**2026-10-12**|**PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation**|Xinyu Guo et.al.|[2610.16355](http://arxiv.org/abs/2610.16355)|null|
+|**2026-10-12**|**HeteroVDiff: Pipelining Video Diffusion across Mobile NPU and GPU with Shared Weights**|Zheyu Shen et.al.|[2610.16244](http://arxiv.org/abs/2610.16244)|null|
+|**2026-10-12**|**VGGA: Geometry-Grounded Autoencoder for Video Generation**|Chaofan Gan et.al.|[2610.16204](http://arxiv.org/abs/2610.16204)|null|
+|**2026-10-11**|**PhySimCode: A Benchmark and Evaluation Method for Physics Video to Code Generation**|Souraja Kundu et.al.|[2610.15722](http://arxiv.org/abs/2610.15722)|null|
+|**2026-10-11**|**A Plausible Future Is Not a Causal Future: Can Video Models Generate How the World Unfolds?**|Jialiang Li et.al.|[2610.15562](http://arxiv.org/abs/2610.15562)|null|
+|**2026-10-11**|**Video-Based Sexual Harassment Detection Using Fine-Tuned Video Transformers**|Jubayer- Al- Mahmud et.al.|[2610.15354](http://arxiv.org/abs/2610.15354)|null|
+|**2026-10-11**|**TempoKV: Predictive KV Cache Quantization for Autoregressive Video Generation**|Jiahui Hu et.al.|[2610.15324](http://arxiv.org/abs/2610.15324)|null|
+|**2026-10-10**|**TIDE: Trajectory-Informed Skill Distillation for Efficient Text-to-Video Prompt Optimization**|Chengxing Zhou et.al.|[2610.15098](http://arxiv.org/abs/2610.15098)|null|
+|**2026-10-10**|**CatPortrait: Taming Video Generative Models for Portrait Animation via In-context Conditioning**|Ziqi Ni et.al.|[2610.14957](http://arxiv.org/abs/2610.14957)|null|
+|**2026-10-10**|**Demiurge: Forging Navigable 4D Worlds via Autoregressive Video Rerendering**|Hanxin Zhu et.al.|[2610.14685](http://arxiv.org/abs/2610.14685)|null|
+|**2026-10-10**|**Adversarial Gradient Forcing for Robust Few-Step Autoregressive Video Generation**|Chenxi Xia et.al.|[2610.14553](http://arxiv.org/abs/2610.14553)|null|
+|**2026-10-10**|**FreeCHROMA: Generative Chroma Keying from Unaligned Background References**|Jiayi Wu et.al.|[2610.14445](http://arxiv.org/abs/2610.14445)|null|
+|**2026-10-09**|**GeoFix: Geometry Fixing for 4D Consistent Generation**|Yeobin Hong et.al.|[2610.14293](http://arxiv.org/abs/2610.14293)|null|
 |**2026-10-09**|**HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation**|Hajira Amjad et.al.|[2610.13849](http://arxiv.org/abs/2610.13849)|null|
 |**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Yuchen Wang et.al.|[2610.13681](http://arxiv.org/abs/2610.13681)|null|
 |**2026-10-09**|**Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening**|Zhiyu Xu et.al.|[2610.13187](http://arxiv.org/abs/2610.13187)|null|
