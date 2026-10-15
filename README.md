@@ -17,9 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**RepForcing: Representation-Space Initialization for Autoregressive Video Distillation**|Siming Fu et.al.|[2610.20111](http://arxiv.org/abs/2610.20111)|null|
+|**2026-10-14**|**When Pairwise Preferences Cycle: A Reliability-Anchored Preference Walk for Video GRPO**|Xinrui Lin et.al.|[2610.20089](http://arxiv.org/abs/2610.20089)|null|
+|**2026-10-14**|**StateCraft: Augmenting Video World Models with Abstract-State Reasoning**|Lorenzo Venturoli et.al.|[2610.19795](http://arxiv.org/abs/2610.19795)|null|
+|**2026-10-14**|**SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models**|Zefan Yang et.al.|[2610.19327](http://arxiv.org/abs/2610.19327)|null|
 |**2026-10-13**|**GAD: Geometry Attention Distillation for Consistent Video Generation**|Junfeng Ni et.al.|[2610.18779](http://arxiv.org/abs/2610.18779)|null|
 |**2026-10-13**|**LongForcing: Scaling Temporal Manifold Matching for Long-Horizon World Rollout**|Ziyu Zhu et.al.|[2610.18289](http://arxiv.org/abs/2610.18289)|null|
-|**2026-10-13**|**Data-Free Continual Learning for World Action Model with Rectified Generative Replay**|Kaipeng Fang et.al.|[2610.18038](http://arxiv.org/abs/2610.18038)|null|
+|**2026-10-14**|**Data-Free Continual Learning for World Action Model with Rectified Generative Replay**|Kaipeng Fang et.al.|[2610.18038](http://arxiv.org/abs/2610.18038)|null|
 |**2026-10-13**|**Hierarchical Curriculum Learning for Surgical Video Generation: Focusing on Bilateral Axillo-Breast Approach Robotic Thyroidectomy Datasets**|Youngbin Kong et.al.|[2610.17684](http://arxiv.org/abs/2610.17684)|null|
 |**2026-10-12**|**Heuristics are Not Enough: Calibrated and Corrected Caching for Video Diffusion Acceleration**|Jiyue Jiang et.al.|[2610.16545](http://arxiv.org/abs/2610.16545)|null|
 |**2026-10-12**|**MiMaAlign: Hierarchical Micro-Macro Alignment for Physically Plausible Video Generation**|Yansong Liu et.al.|[2610.16482](http://arxiv.org/abs/2610.16482)|null|
