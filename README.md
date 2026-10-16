@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
+|**2026-10-15**|**Velox: Spatial Memory Makes World Models Efficient**|Qiuhong Shen et.al.|[2610.22311](http://arxiv.org/abs/2610.22311)|null|
+|**2026-10-14**|**Temporal Specification Guidance for Text-to-Video Generation**|Avishree Khare et.al.|[2610.20822](http://arxiv.org/abs/2610.20822)|null|
 |**2026-10-14**|**RepForcing: Representation-Space Initialization for Autoregressive Video Distillation**|Siming Fu et.al.|[2610.20111](http://arxiv.org/abs/2610.20111)|null|
 |**2026-10-14**|**When Pairwise Preferences Cycle: A Reliability-Anchored Preference Walk for Video GRPO**|Xinrui Lin et.al.|[2610.20089](http://arxiv.org/abs/2610.20089)|null|
 |**2026-10-14**|**StateCraft: Augmenting Video World Models with Abstract-State Reasoning**|Lorenzo Venturoli et.al.|[2610.19795](http://arxiv.org/abs/2610.19795)|null|
