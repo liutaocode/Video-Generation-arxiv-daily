@@ -17,6 +17,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning**|Sheng-Wei Zhang et.al.|[2610.26851](http://arxiv.org/abs/2610.26851)|null|
+|**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
+|**2026-10-19**|**RECAP: Reciprocal Sparse Attention and Hierarchical Caching for Efficient Video Diffusion**|Tiange Xu et.al.|[2610.26244](http://arxiv.org/abs/2610.26244)|null|
+|**2026-10-19**|**Risk Decomposition for Hallucination-Aware Video Sampling**|Chenyan Zheng et.al.|[2610.26069](http://arxiv.org/abs/2610.26069)|null|
+|**2026-10-19**|**PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching**|Liwei Lan et.al.|[2610.25664](http://arxiv.org/abs/2610.25664)|null|
+|**2026-10-19**|**FluidGen: Physics-Aware Fluid Video Generation via Motion-Guided Post-Training**|Yang Zheng et.al.|[2610.25660](http://arxiv.org/abs/2610.25660)|null|
+|**2026-10-19**|**Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base**|Wenqing Wang et.al.|[2610.25634](http://arxiv.org/abs/2610.25634)|null|
+|**2026-10-18**|**Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion**|Yushi Lan et.al.|[2610.25276](http://arxiv.org/abs/2610.25276)|null|
+|**2026-10-18**|**GeoART: Geometry-Aware Refinement via Test-Time Scaling for Camera-Conditioned Video Diffusion**|Liudi Yang et.al.|[2610.25273](http://arxiv.org/abs/2610.25273)|null|
+|**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245](http://arxiv.org/abs/2610.25245)|null|
+|**2026-10-18**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|
+|**2026-10-17**|**SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay**|Zhaoqi Wang et.al.|[2610.24869](http://arxiv.org/abs/2610.24869)|null|
+|**2026-10-17**|**BodyBridge: Grounded Body Layers for Sim-to-Real Translation of Vulnerable Road Users**|Mark Azer et.al.|[2610.24436](http://arxiv.org/abs/2610.24436)|null|
+|**2026-10-16**|**Self-Improving Video-to-Action Models**|Hyunwoo Ryu et.al.|[2610.24177](http://arxiv.org/abs/2610.24177)|null|
 |**2026-10-16**|**Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars**|Simon Giebenhain et.al.|[2610.23772](http://arxiv.org/abs/2610.23772)|null|
 |**2026-10-15**|**AVC-Reward: Event-Centric Audio-Video Consistency Evaluation**|Yuruo Wu et.al.|[2610.22321](http://arxiv.org/abs/2610.22321)|null|
 |**2026-10-15**|**Velox: Spatial Memory Makes World Models Efficient**|Qiuhong Shen et.al.|[2610.22311](http://arxiv.org/abs/2610.22311)|null|
