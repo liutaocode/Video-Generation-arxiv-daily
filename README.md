@@ -17,10 +17,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**|Noam Rotstein et.al.|[2610.28632](http://arxiv.org/abs/2610.28632)|null|
+|**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
+|**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
+|**2026-10-20**|**StreamEval: Evaluating Interactive Streaming Video Generation Models**|StreamEval Team et.al.|[2610.28402](http://arxiv.org/abs/2610.28402)|null|
+|**2026-10-20**|**KPage: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention**|Junwei Feng et.al.|[2610.28096](http://arxiv.org/abs/2610.28096)|null|
+|**2026-10-20**|**MoDDiT: Simple Token Routing in Diffusion Transformers**|Jarek Liesen et.al.|[2610.28086](http://arxiv.org/abs/2610.28086)|null|
+|**2026-10-20**|**Decoupling Action from Egocentric Observation for World Simulation**|Yue Ma et.al.|[2610.27946](http://arxiv.org/abs/2610.27946)|null|
+|**2026-10-20**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
+|**2026-10-20**|**RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation**|Siyuan Ma et.al.|[2610.27782](http://arxiv.org/abs/2610.27782)|null|
+|**2026-10-19**|**Training Controllable World Models via Action Influence Maximization**|Samuel M. Bateman et.al.|[2610.27387](http://arxiv.org/abs/2610.27387)|null|
+|**2026-10-19**|**Neural Controlled Directional Frame Generation for Sprite Animation**|Kenneth Alonso et.al.|[2610.27253](http://arxiv.org/abs/2610.27253)|null|
 |**2026-10-19**|**Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning**|Sheng-Wei Zhang et.al.|[2610.26851](http://arxiv.org/abs/2610.26851)|null|
 |**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711](http://arxiv.org/abs/2610.26711)|null|
 |**2026-10-19**|**RECAP: Reciprocal Sparse Attention and Hierarchical Caching for Efficient Video Diffusion**|Tiange Xu et.al.|[2610.26244](http://arxiv.org/abs/2610.26244)|null|
-|**2026-10-19**|**Risk Decomposition for Hallucination-Aware Video Sampling**|Chenyan Zheng et.al.|[2610.26069](http://arxiv.org/abs/2610.26069)|null|
+|**2026-10-20**|**Risk Decomposition for Hallucination-Aware Video Sampling**|Chenyan Zheng et.al.|[2610.26069](http://arxiv.org/abs/2610.26069)|null|
 |**2026-10-19**|**PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching**|Liwei Lan et.al.|[2610.25664](http://arxiv.org/abs/2610.25664)|null|
 |**2026-10-19**|**FluidGen: Physics-Aware Fluid Video Generation via Motion-Guided Post-Training**|Yang Zheng et.al.|[2610.25660](http://arxiv.org/abs/2610.25660)|null|
 |**2026-10-19**|**Clean Forcing: Drift-Resistant Autoregressive Video Diffusion with a Frozen Base**|Wenqing Wang et.al.|[2610.25634](http://arxiv.org/abs/2610.25634)|null|
