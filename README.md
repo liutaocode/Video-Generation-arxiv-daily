@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**RealMe: Immersive Volumetric Video from Minimal Captures**|Chenxu Zhou et.al.|[2610.30023](http://arxiv.org/abs/2610.30023)|null|
+|**2026-10-21**|**Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation**|Ruopeng Gao et.al.|[2610.29989](http://arxiv.org/abs/2610.29989)|null|
+|**2026-10-21**|**CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion**|Kai Zhu et.al.|[2610.29915](http://arxiv.org/abs/2610.29915)|null|
+|**2026-10-21**|**OccJEPA: Occlusion as Masking for Amodal Video Segmentation**|Genpei Zhang et.al.|[2610.29061](http://arxiv.org/abs/2610.29061)|null|
+|**2026-10-20**|**HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics**|Mauricio Soroco et.al.|[2610.28829](http://arxiv.org/abs/2610.28829)|null|
 |**2026-10-20**|**Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**|Noam Rotstein et.al.|[2610.28632](http://arxiv.org/abs/2610.28632)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
@@ -24,7 +29,7 @@
 |**2026-10-20**|**KPage: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention**|Junwei Feng et.al.|[2610.28096](http://arxiv.org/abs/2610.28096)|null|
 |**2026-10-20**|**MoDDiT: Simple Token Routing in Diffusion Transformers**|Jarek Liesen et.al.|[2610.28086](http://arxiv.org/abs/2610.28086)|null|
 |**2026-10-20**|**Decoupling Action from Egocentric Observation for World Simulation**|Yue Ma et.al.|[2610.27946](http://arxiv.org/abs/2610.27946)|null|
-|**2026-10-20**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
+|**2026-10-21**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
 |**2026-10-20**|**RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation**|Siyuan Ma et.al.|[2610.27782](http://arxiv.org/abs/2610.27782)|null|
 |**2026-10-19**|**Training Controllable World Models via Action Influence Maximization**|Samuel M. Bateman et.al.|[2610.27387](http://arxiv.org/abs/2610.27387)|null|
 |**2026-10-19**|**Neural Controlled Directional Frame Generation for Sprite Animation**|Kenneth Alonso et.al.|[2610.27253](http://arxiv.org/abs/2610.27253)|null|
@@ -1524,7 +1529,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
