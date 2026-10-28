@@ -17,10 +17,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-23**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381](http://arxiv.org/abs/2610.32381)|null|
+|**2026-10-27**|**GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis**|Akshay Krishnan et.al.|[2610.37545](http://arxiv.org/abs/2610.37545)|null|
+|**2026-10-27**|**Taming Noise Initialization for Zero-shot Video Restoration with Image Diffusion Priors**|Chong Wang et.al.|[2610.37290](http://arxiv.org/abs/2610.37290)|null|
+|**2026-10-27**|**TAPESTRY: A Single Backbone for Video Generation and Robot Control**|Jeremy A. Collins et.al.|[2610.36823](http://arxiv.org/abs/2610.36823)|null|
+|**2026-10-27**|**RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions**|Haoyu Zhao et.al.|[2610.36791](http://arxiv.org/abs/2610.36791)|null|
+|**2026-10-27**|**Adapting Video Models for Robot Control via Motion-guided Asymmetric Prediction**|Taeyoung Kim et.al.|[2610.36624](http://arxiv.org/abs/2610.36624)|null|
+|**2026-10-27**|**VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation**|Muxi Diao et.al.|[2610.35864](http://arxiv.org/abs/2610.35864)|null|
+|**2026-10-26**|**VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion**|Yanming Yang et.al.|[2610.35756](http://arxiv.org/abs/2610.35756)|null|
+|**2026-10-26**|**Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation**|Junyi Chen et.al.|[2610.35594](http://arxiv.org/abs/2610.35594)|null|
+|**2026-10-25**|**EditDistill: Is It Possible to Guide Video Editing with Image Editing?**|Guojun Lei et.al.|[2610.34303](http://arxiv.org/abs/2610.34303)|null|
+|**2026-10-25**|**X-World: Transferring Video Priors to Variable-View Robot Control**|Chun Gu et.al.|[2610.34105](http://arxiv.org/abs/2610.34105)|null|
+|**2026-10-24**|**Mix Forcing: Causal Pre-Training via Mixture Attention for Interactive World Models**|Zelin Gao et.al.|[2610.33589](http://arxiv.org/abs/2610.33589)|null|
+|**2026-10-23**|**Detecting Temporal Concepts in Video Transformers via a No-False-Positives Test**|Jianghuai Li et.al.|[2610.33353](http://arxiv.org/abs/2610.33353)|null|
+|**2026-10-26**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381](http://arxiv.org/abs/2610.32381)|null|
 |**2026-10-22**|**SyncVid: World-Equivariant Diffusion for Synchronized Video Generation**|Farhad G. Zanjani et.al.|[2610.31765](http://arxiv.org/abs/2610.31765)|null|
 |**2026-10-22**|**WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models**|Chenxi Song et.al.|[2610.31640](http://arxiv.org/abs/2610.31640)|null|
-|**2026-10-22**|**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**|Ruicong Liu et.al.|[2610.31466](http://arxiv.org/abs/2610.31466)|null|
+|**2026-10-25**|**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**|Ruicong Liu et.al.|[2610.31466](http://arxiv.org/abs/2610.31466)|null|
 |**2026-10-22**|**PhysTrace: Interpretable Temporal Evaluation of Physical Consistency in Video Generative Models**|Taekoan Yoo et.al.|[2610.31429](http://arxiv.org/abs/2610.31429)|null|
 |**2026-10-22**|**DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models**|Adam Lee et.al.|[2610.30781](http://arxiv.org/abs/2610.30781)|null|
 |**2026-10-21**|**Latent Space Jam: Layout Guided Video Synthesis**|Asaf Joseph et.al.|[2610.30390](http://arxiv.org/abs/2610.30390)|null|
