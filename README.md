@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[2610.40495](http://arxiv.org/abs/2610.40495)|null|
+|**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339](http://arxiv.org/abs/2610.40339)|null|
 |**2026-10-27**|**GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis**|Akshay Krishnan et.al.|[2610.37545](http://arxiv.org/abs/2610.37545)|null|
 |**2026-10-27**|**Taming Noise Initialization for Zero-shot Video Restoration with Image Diffusion Priors**|Chong Wang et.al.|[2610.37290](http://arxiv.org/abs/2610.37290)|null|
 |**2026-10-27**|**TAPESTRY: A Single Backbone for Video Generation and Robot Control**|Jeremy A. Collins et.al.|[2610.36823](http://arxiv.org/abs/2610.36823)|null|
