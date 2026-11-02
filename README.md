@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2026-10-30**|**GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002](http://arxiv.org/abs/2610.42002)|null|
 |**2026-10-30**|**Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning**|Zhuguanyu Wu et.al.|[2610.41949](http://arxiv.org/abs/2610.41949)|null|
-|**2026-10-30**|**GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning**|Ke Yang et.al.|[2610.41314](http://arxiv.org/abs/2610.41314)|null|
+|**2026-10-30**|**GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning**|Ke Yang et.al.|[2610.41314](http://arxiv.org/abs/2610.41314)|**[link](https://github.com/KindofCrazy/GenDSR)**|
 |**2026-10-30**|**MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding**|Eadom Dessalene et.al.|[2610.41127](http://arxiv.org/abs/2610.41127)|null|
 |**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[2610.40495](http://arxiv.org/abs/2610.40495)|null|
 |**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339](http://arxiv.org/abs/2610.40339)|null|
@@ -51,10 +51,10 @@
 |**2026-10-20**|**Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**|Noam Rotstein et.al.|[2610.28632](http://arxiv.org/abs/2610.28632)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
-|**2026-10-23**|**StreamEval: Evaluating Interactive Streaming Video Generation Models**| StreamEval Team et.al.|[2610.28402](http://arxiv.org/abs/2610.28402)|null|
+|**2026-10-23**|**StreamEval: Evaluating Interactive Streaming Video Generation Models**|StreamEval Team et.al.|[2610.28402](http://arxiv.org/abs/2610.28402)|null|
 |**2026-10-20**|**KPage: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention**|Junwei Feng et.al.|[2610.28096](http://arxiv.org/abs/2610.28096)|null|
 |**2026-10-20**|**MoDDiT: Simple Token Routing in Diffusion Transformers**|Jarek Liesen et.al.|[2610.28086](http://arxiv.org/abs/2610.28086)|null|
-|**2026-10-20**|**Decoupling Action from Egocentric Observation for World Simulation**|Yue Ma et.al.|[2610.27946](http://arxiv.org/abs/2610.27946)|null|
+|**2026-10-20**|**Decoupling Action from Egocentric Observation for World Simulation**|Yue Ma et.al.|[2610.27946](http://arxiv.org/abs/2610.27946)|**[link](https://github.com/mayuelala/EgoACT)**|
 |**2026-10-21**|**LaLa-World: Scaling Latent World Models with Natural Language Actions**|Junha Song et.al.|[2610.27851](http://arxiv.org/abs/2610.27851)|null|
 |**2026-10-20**|**RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation**|Siyuan Ma et.al.|[2610.27782](http://arxiv.org/abs/2610.27782)|null|
 |**2026-10-19**|**Training Controllable World Models via Action Influence Maximization**|Samuel M. Bateman et.al.|[2610.27387](http://arxiv.org/abs/2610.27387)|null|
@@ -118,10 +118,10 @@
 |**2026-10-08**|**Conditional Residual Prediction: Improving Autoregressive Video Diffusion without a Bidirectional Teacher**|Bowen Zheng et.al.|[2610.11479](http://arxiv.org/abs/2610.11479)|null|
 |**2026-10-08**|**IntactWorld: Joint World Modeling with Intact Features**|Boming Tan et.al.|[2610.11174](http://arxiv.org/abs/2610.11174)|null|
 |**2026-10-08**|**Transforming Image Editors into Video Editors**|Feng Wang et.al.|[2610.11037](http://arxiv.org/abs/2610.11037)|**[link](https://github.com/wangf3014/AVE)**|
-|**2026-10-07**|**GRACE: Generation-aware latent compression for efficient video generation**|Jiyoung Kim et.al.|[2610.10524](http://arxiv.org/abs/2610.10524)|null|
-|**2026-10-07**|**MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration**|Yuxiang Xiong et.al.|[2610.10457](http://arxiv.org/abs/2610.10457)|null|
+|**2026-10-07**|**GRACE: Generation-aware latent compression for efficient video generation**|Jiyoung Kim et.al.|[2610.10524](http://arxiv.org/abs/2610.10524)|**[link](https://github.com/cvlab-kaist/GRACE)**|
+|**2026-10-07**|**MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration**|Yuxiang Xiong et.al.|[2610.10457](http://arxiv.org/abs/2610.10457)|**[link](https://github.com/x10ngyx/MORCA)**|
 |**2026-10-07**|**RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer**|Huang Huang et.al.|[2610.09254](http://arxiv.org/abs/2610.09254)|null|
-|**2026-10-06**|**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**|Kevin Stephen et.al.|[2610.09223](http://arxiv.org/abs/2610.09223)|null|
+|**2026-10-06**|**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**|Kevin Stephen et.al.|[2610.09223](http://arxiv.org/abs/2610.09223)|**[link](https://github.com/airtimemedia/PVSync)**|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**HuC-VideoMAE: Human-Centric Video Masked Autoencoding from synthetic data**|Ricardo Pizarro et.al.|[2610.08433](http://arxiv.org/abs/2610.08433)|null|
 |**2026-10-06**|**Rethinking Visual Provenance: Detection and Watermarking Across Direct Visual Generation and LLM-Driven Code Rendering**|Zheng Gao et.al.|[2610.08137](http://arxiv.org/abs/2610.08137)|null|
@@ -132,7 +132,7 @@
 |**2026-10-03**|**Investigating Spatiotemporal Redundancy in Video Transformer for Collision Anticipation**|Xiaoshan Zhou et.al.|[2610.04727](http://arxiv.org/abs/2610.04727)|null|
 |**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|null|
 |**2026-10-02**|**Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models**|Jonas Kneifl et.al.|[2610.03154](http://arxiv.org/abs/2610.03154)|null|
-|**2026-10-07**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|null|
+|**2026-10-07**|**In-Distribution Forcing for Long Video Generation at Test Time**|Jeongwoo Shin et.al.|[2610.03120](http://arxiv.org/abs/2610.03120)|**[link](https://github.com/In-Distribution-Forcing/ID-Forcing)**|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
 |**2026-10-03**|**UniWAM: Unified World-Action Model**|Wenxuan Song et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|**[link](https://github.com/UniWAM/UniWAM)**|
@@ -146,7 +146,7 @@
 |**2026-09-30**|**Manifold-Constrained Initial Noise Optimization for Efficient Generative Model Alignment**|Jinho Chang et.al.|[2610.00365](http://arxiv.org/abs/2610.00365)|null|
 |**2026-09-30**|**Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength**|Candi Zheng et.al.|[2610.00359](http://arxiv.org/abs/2610.00359)|null|
 |**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](http://arxiv.org/abs/2609.40358)|null|
-|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|**[link](https://github.com/dream4act/dream4act.github.io)**|
 |**2026-09-30**|**VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning**|Zehua Ma et.al.|[2609.40129](http://arxiv.org/abs/2609.40129)|null|
 |**2026-09-30**|**PartiCam: Camera Controlled Video Generation with Reward Guidance**|Amine Ouasfi et.al.|[2609.39504](http://arxiv.org/abs/2609.39504)|null|
 |**2026-09-30**|**Sparse-WAM: Accelerating World Action Models via Action-Guided Sparse Imagination**|Xinling Xie et.al.|[2609.38984](http://arxiv.org/abs/2609.38984)|null|
@@ -173,7 +173,7 @@
 |**2026-09-29**|**GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior**|Yajiao Xiong et.al.|[2609.34579](http://arxiv.org/abs/2609.34579)|null|
 |**2026-09-28**|**From Static to Dynamic: On-Policy Distillation from Image to Video Diffusion Models**|Bingqing Jiang et.al.|[2609.34371](http://arxiv.org/abs/2609.34371)|null|
 |**2026-09-28**|**Enhanced Video Text Editing with Trajectory-Aligned Glyph Rendering**|Shulian Zhang et.al.|[2609.34178](http://arxiv.org/abs/2609.34178)|null|
-|**2026-09-27**|**VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis**|Kangjie Chen et.al.|[2609.33253](http://arxiv.org/abs/2609.33253)|null|
+|**2026-09-27**|**VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis**|Kangjie Chen et.al.|[2609.33253](http://arxiv.org/abs/2609.33253)|**[link](https://github.com/chenkangjie1123/VGGT-Diff)**|
 |**2026-09-26**|**REMEDY: How Far Is Video Generation from Medical Education World Models?**|Lixing Tan et.al.|[2609.32460](http://arxiv.org/abs/2609.32460)|null|
 |**2026-09-26**|**SparSP: Exploiting Communication Sparsity for Sequence-Parallel Video DiTs**|Desen Sun et.al.|[2609.32197](http://arxiv.org/abs/2609.32197)|null|
 |**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
@@ -213,7 +213,7 @@
 |**2026-09-06**|**MVWeaver: A Hierarchical Music Video Generation Agent with a Learned Song-to-Visual Bridge**|Sifei Li et.al.|[2609.06478](http://arxiv.org/abs/2609.06478)|null|
 |**2026-09-03**|**Joint Alignment and Distillation for Video Generation via Sample-Guided Distribution Matching**|Jiuzhou Lin et.al.|[2609.04283](http://arxiv.org/abs/2609.04283)|null|
 |**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
-|**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](http://arxiv.org/abs/2609.03639)|null|
+|**2026-09-03**|**Stabilizing Camera-Controlled Novel View Synthesis at Inference Time**|Prajwal Singh et.al.|[2609.03639](http://arxiv.org/abs/2609.03639)|**[link](https://github.com/prajwalsingh/CamTrolpp)**|
 |**2026-09-08**|**EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders**|Xinghao Wang et.al.|[2609.03629](http://arxiv.org/abs/2609.03629)|null|
 |**2026-09-03**|**The Attention Triangle in Audio-Video Models**|Sagi Polaczek et.al.|[2609.03586](http://arxiv.org/abs/2609.03586)|**[link](https://github.com/SagiPolaczek/The-Attention-Triangle)**|
 |**2026-09-03**|**LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL**|Sijie Wang et.al.|[2609.03528](http://arxiv.org/abs/2609.03528)|null|
@@ -282,7 +282,7 @@
 |**2026-08-07**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|**[link](https://github.com/Haodong-Yan/Robust-WAM-release)**|
 |**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
 |**2026-08-05**|**In-Context Forcing: Uncovering Context Effects in Autoregressive Video Diffusion**|Lingxiao Yang et.al.|[2608.05237](http://arxiv.org/abs/2608.05237)|null|
-|**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|null|
+|**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|**[link](https://github.com/AlayaLab/HelloWorld)**|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference**|Shanghao Liu et.al.|[2608.03335](http://arxiv.org/abs/2608.03335)|null|
@@ -298,7 +298,7 @@
 |**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
 |**2026-07-30**|**Articulated Object Reconstruction from Rest-State Observation**|Daeun Lee et.al.|[2607.27749](http://arxiv.org/abs/2607.27749)|**[link](https://github.com/da-eun07/Rest2Art)**|
 |**2026-07-29**|**VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System**|Haodong Li et.al.|[2607.27380](http://arxiv.org/abs/2607.27380)|null|
-|**2026-08-03**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|null|
+|**2026-08-03**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|**[link](https://github.com/jiatongli2024/FreqForcing)**|
 |**2026-07-29**|**Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory**|Yanbo Ding et.al.|[2607.26818](http://arxiv.org/abs/2607.26818)|null|
 |**2026-07-29**|**TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models**|Taewon Kang et.al.|[2607.26706](http://arxiv.org/abs/2607.26706)|null|
 |**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646](http://arxiv.org/abs/2607.26646)|null|
@@ -377,8 +377,8 @@
 |**2026-07-04**|**ProxyUp: Training-Free Proxy-Conditioned Video Generation for Controllable Dynamics**|Zanwei Zhou et.al.|[2607.03732](http://arxiv.org/abs/2607.03732)|null|
 |**2026-07-03**|**Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model**|Xinyin Ma et.al.|[2607.03509](http://arxiv.org/abs/2607.03509)|null|
 |**2026-07-03**|**Vidu S1: A Real-Time Interactive Video Generation Model**|Jintao Zhang et.al.|[2607.03118](http://arxiv.org/abs/2607.03118)|**[link](https://github.com/shengshu-ai/Vidu-S1)**|
-|**2026-07-03**|**Natural Language Camera Movement Understanding**|Yuwen Tan et.al.|[2607.03043](http://arxiv.org/abs/2607.03043)|null|
-|**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|null|
+|**2026-07-03**|**Natural Language Camera Movement Understanding**|Yuwen Tan et.al.|[2607.03043](http://arxiv.org/abs/2607.03043)|**[link](https://github.com/1yuwen/AcaM--Camera-Understanding)**|
+|**2026-07-02**|**Track the Noise, Move the World:3D-Grounded Motion-Consistent Noise for Controllable Video Generation**|Long Vu et.al.|[2607.02798](http://arxiv.org/abs/2607.02798)|**[link](https://github.com/gulucaptain/UniCaMo-Implementation)**|
 |**2026-07-01**|**RotateAttention: RoPE-Aware Rotation and Range Rectification for INT4 Quantized Attention in Video Generation**|Yaofu Liu et.al.|[2607.02584](http://arxiv.org/abs/2607.02584)|null|
 |**2026-07-02**|**QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers**|Kyobin Choo et.al.|[2607.01869](http://arxiv.org/abs/2607.01869)|**[link](https://github.com/MICV-yonsei/QWERTY)**|
 |**2026-07-02**|**ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning**|Xuanhua He et.al.|[2607.01677](http://arxiv.org/abs/2607.01677)|**[link](https://github.com/alexhe101/ICDepth)**|
@@ -409,7 +409,7 @@
 |**2026-06-23**|**Autonomous Video Generation with Counterfactual Controllability for Self-Evolving World Models**|Xin Wang et.al.|[2606.24152](http://arxiv.org/abs/2606.24152)|null|
 |**2026-06-24**|**Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation**|Yitong Li et.al.|[2606.23743](http://arxiv.org/abs/2606.23743)|null|
 |**2026-06-22**|**Vera: A Layered Diffusion Model for Content-Preserving Video Editing**|Hongkai Zheng et.al.|[2606.23610](http://arxiv.org/abs/2606.23610)|null|
-|**2026-06-22**|**SteerVTE: Seamless Video Text Editing with Style and Glyph Control**|Kai Zeng et.al.|[2606.23254](http://arxiv.org/abs/2606.23254)|null|
+|**2026-06-22**|**SteerVTE: Seamless Video Text Editing with Style and Glyph Control**|Kai Zeng et.al.|[2606.23254](http://arxiv.org/abs/2606.23254)|**[link](https://github.com/zengkaiya/SteerVTE)**|
 |**2026-06-22**|**Each Judge Its Own Yardstick: Discovering Per-VLM Taxonomies for Physical Video Evaluation**|Yu Cao et.al.|[2606.22918](http://arxiv.org/abs/2606.22918)|null|
 |**2026-06-21**|**Generative Relightable Avatars**|Kunwar Maheep Singh et.al.|[2606.22718](http://arxiv.org/abs/2606.22718)|null|
 |**2026-06-21**|**Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars**|Ramesh Nandipalli et.al.|[2606.22494](http://arxiv.org/abs/2606.22494)|null|
@@ -530,13 +530,13 @@
 |**2026-05-20**|**Temporal Aware Pruning for Efficient Diffusion-based Video Generation**|Sheng Li et.al.|[2605.17837](http://arxiv.org/abs/2605.17837)|null|
 |**2026-05-17**|**SpecSem-Net: Integrating Spectral and Semantic Features for Robust AI-generated Video Detection**|Zixi Wei et.al.|[2605.17311](http://arxiv.org/abs/2605.17311)|null|
 |**2026-05-16**|**3DPhysVideo: Consistency-Guided Flow SDE for Video Generation via 3D Scene Reconstruction and Physical Simulation**|Hwidong Kim et.al.|[2605.16795](http://arxiv.org/abs/2605.16795)|**[link](https://github.com/hwidong-kim/3DPhysVideo)**|
-|**2026-05-15**|**AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling**|Ziyang Mai et.al.|[2605.16649](http://arxiv.org/abs/2605.16649)|null|
+|**2026-05-15**|**AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling**|Ziyang Mai et.al.|[2605.16649](http://arxiv.org/abs/2605.16649)|**[link](https://github.com/ziyang1106/AtlasVid)**|
 |**2026-05-15**|**Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion**|Kunyang Li et.al.|[2605.16579](http://arxiv.org/abs/2605.16579)|null|
 |**2026-05-15**|**SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation**|Ssharvien Kumar Sivakumar et.al.|[2605.16530](http://arxiv.org/abs/2605.16530)|**[link](https://github.com/MECLabTUDA/SWoMo)**|
 |**2026-05-14**|**Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance**|Stelio Bompai et.al.|[2605.16420](http://arxiv.org/abs/2605.16420)|null|
 |**2026-05-15**|**Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation**|Mingqiang Wu et.al.|[2605.16003](http://arxiv.org/abs/2605.16003)|**[link](https://github.com/mingqiangWu/Echo-Forcing)**|
 |**2026-05-15**|**Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**|Xiaoxuan He et.al.|[2605.15980](http://arxiv.org/abs/2605.15980)|**[link](https://github.com/Shredded-Pork/Flash-GRPO)**|
-|**2026-05-14**|**Video Models Can Reason with Verifiable Rewards**|Tinghui Zhu et.al.|[2605.15458](http://arxiv.org/abs/2605.15458)|null|
+|**2026-05-14**|**Video Models Can Reason with Verifiable Rewards**|Tinghui Zhu et.al.|[2605.15458](http://arxiv.org/abs/2605.15458)|**[link](https://github.com/luka-group/VideoRLVR)**|
 |**2026-05-14**|**Sound Sparks Motion: Audio and Text Tuning for Video Editing**|AmirHossein Naghi Razlighi et.al.|[2605.15307](http://arxiv.org/abs/2605.15307)|null|
 |**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|**[link](https://github.com/mvp-ai-lab/RAVEN)**|
 |**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|**[link](https://github.com/yyfz/Warp-as-History)**|
@@ -857,7 +857,7 @@
 |**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
 |**2026-01-21**|**Rethinking Video Generation Model for the Embodied World**|Yufan Deng et.al.|[2601.15282](http://arxiv.org/abs/2601.15282)|**[link](https://github.com/DAGroup-PKU/ReVidgen)**|
 |**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
-|**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255](http://arxiv.org/abs/2601.14255)|null|
+|**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255](http://arxiv.org/abs/2601.14255)|**[link](https://github.com/cvlab-kaist/VideoMaMa)**|
 |**2026-01-21**|**Human detectors are surprisingly powerful reward models**|Kumar Ashutosh et.al.|[2601.14037](http://arxiv.org/abs/2601.14037)|null|
 |**2026-01-19**|**Moaw: Unleashing Motion Awareness for Video Diffusion Models**|Tianqi Zhang et.al.|[2601.12761](http://arxiv.org/abs/2601.12761)|null|
 |**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|
@@ -1265,7 +1265,7 @@
 |**2025-11-17**|**CloseUpShot: Close-up Novel View Synthesis from Sparse-views via Point-conditioned Diffusion Model**|Yuqi Zhang et.al.|[2511.13121](http://arxiv.org/abs/2511.13121)|null|
 |**2025-11-17**|**Semantics and Content Matter: Towards Multi-Prior Hierarchical Mamba for Image Deraining**|Zhaocheng Yu et.al.|[2511.13113](http://arxiv.org/abs/2511.13113)|null|
 |**2025-11-17**|**ViSS-R1: Self-Supervised Reinforcement Video Reasoning**|Bo Fang et.al.|[2511.13054](http://arxiv.org/abs/2511.13054)|**[link](https://github.com/bofang98/ViSS-R1)**|
-|**2025-11-17**|**Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention**|Taiye Chen et.al.|[2511.12940](http://arxiv.org/abs/2511.12940)|null|
+|**2025-11-17**|**Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention**|Taiye Chen et.al.|[2511.12940](http://arxiv.org/abs/2511.12940)|**[link](https://github.com/yeyutaihan/rad)**|
 |**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng et.al.|[2511.11520](http://arxiv.org/abs/2511.11520)|**[link](https://github.com/jettbrains/-L-)**|
 |**2025-11-14**|**Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis**|Feng-Qi Cui et.al.|[2511.11406](http://arxiv.org/abs/2511.11406)|null|
 |**2025-11-14**|**YCB-Ev SD: Synthetic event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2511.11344](http://arxiv.org/abs/2511.11344)|null|
