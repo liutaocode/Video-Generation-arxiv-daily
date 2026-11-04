@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Jisoo Kim et.al.|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
+|**2026-11-03**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
+|**2026-11-03**|**Future Representation Distillation for Imagination-Free World Action Models**|Jaehyeong Jo et.al.|[2611.04527](http://arxiv.org/abs/2611.04527)|null|
 |**2026-11-02**|**Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion**|Zhengyang Yu et.al.|[2611.02822](http://arxiv.org/abs/2611.02822)|null|
 |**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Xiaopeng Zhang et.al.|[2611.02600](http://arxiv.org/abs/2611.02600)|null|
 |**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
