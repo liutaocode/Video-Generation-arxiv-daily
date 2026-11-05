@@ -17,15 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**ReactWorld: Structuring Interaction Responses for Embodied Video Generation**|Hanwei Liu et.al.|[2611.06120](http://arxiv.org/abs/2611.06120)|null|
 |**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Jisoo Kim et.al.|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
-|**2026-11-03**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
-|**2026-11-03**|**Future Representation Distillation for Imagination-Free World Action Models**|Jaehyeong Jo et.al.|[2611.04527](http://arxiv.org/abs/2611.04527)|null|
+|**2026-11-04**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
+|**2026-11-04**|**Future Representation Distillation for Imagination-free World Action Models**|Jaehyeong Jo et.al.|[2611.04527](http://arxiv.org/abs/2611.04527)|null|
 |**2026-11-02**|**Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion**|Zhengyang Yu et.al.|[2611.02822](http://arxiv.org/abs/2611.02822)|null|
 |**2026-11-02**|**W2A: Distilling World Priors into Action Models for Real-Time Robotic Control**|Xiaopeng Zhang et.al.|[2611.02600](http://arxiv.org/abs/2611.02600)|null|
 |**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
 |**2026-10-30**|**PAM-Mamba - Efficient Dense Action Detection using Mamba**|Dhruvraj Singh Rawat et.al.|[2611.00423](http://arxiv.org/abs/2611.00423)|null|
 |**2026-10-30**|**Seeing the Unseen: Unified Visible--Invisible Motion for Physically Consistent Video Generation**|Mingyang Bao et.al.|[2611.00293](http://arxiv.org/abs/2611.00293)|null|
-|**2026-10-30**|**GeoFlip: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002](http://arxiv.org/abs/2610.42002)|null|
+|**2026-11-04**|**GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation**|Yuqi Li et.al.|[2610.42002](http://arxiv.org/abs/2610.42002)|null|
 |**2026-10-30**|**Optimizing Stochastic Policy Geometry for Few-Step Flow Reinforcement Learning**|Zhuguanyu Wu et.al.|[2610.41949](http://arxiv.org/abs/2610.41949)|null|
 |**2026-10-30**|**GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning**|Ke Yang et.al.|[2610.41314](http://arxiv.org/abs/2610.41314)|null|
 |**2026-10-30**|**MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding**|Eadom Dessalene et.al.|[2610.41127](http://arxiv.org/abs/2610.41127)|null|
