@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Precision - Preserving Subtensor Inference for a 22B Joint Audio - Video Generator under a Fixed GPU Working Set**|Hanyue Shen et.al.|[2611.08023](http://arxiv.org/abs/2611.08023)|null|
+|**2026-11-05**|**CoGenRec: A Unified Generative Framework for Complementary Vision Reconstruction**|Yapeng Meng et.al.|[2611.07665](http://arxiv.org/abs/2611.07665)|null|
+|**2026-11-05**|**Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion**|Jia Li et.al.|[2611.07551](http://arxiv.org/abs/2611.07551)|null|
 |**2026-11-04**|**ReactWorld: Structuring Interaction Responses for Embodied Video Generation**|Hanwei Liu et.al.|[2611.06120](http://arxiv.org/abs/2611.06120)|null|
 |**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Jisoo Kim et.al.|[2611.05377](http://arxiv.org/abs/2611.05377)|null|
 |**2026-11-04**|**FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video**|Jeremy Collins et.al.|[2611.05062](http://arxiv.org/abs/2611.05062)|null|
@@ -1564,7 +1567,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
