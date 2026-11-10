@@ -17,10 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**PhysOPSD: Code as Privilege for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2611.12411](http://arxiv.org/abs/2611.12411)|null|
+|**2026-11-09**|**Beyond Head Importance: Collective Computation in Video Transformers**|Yi Yang et.al.|[2611.11875](http://arxiv.org/abs/2611.11875)|null|
+|**2026-11-08**|**GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching**|Siming Fu et.al.|[2611.11421](http://arxiv.org/abs/2611.11421)|null|
+|**2026-11-08**|**TransArt3D: From Two States to Articulated 3D Reconstruction with Video Transition Priors**|Chenhao Guan et.al.|[2611.11304](http://arxiv.org/abs/2611.11304)|null|
+|**2026-11-07**|**OneReel: Efficient Multi-Scene Video Generation with Scene-Structured Attention**|Wei Zhang et.al.|[2611.10594](http://arxiv.org/abs/2611.10594)|null|
 |**2026-11-06**|**AR-Edit: Training-Free Autoregressive Video Editing without Inversion**|Hovhannes Margaryan et.al.|[2611.09795](http://arxiv.org/abs/2611.09795)|null|
 |**2026-11-06**|**Trajectory Forcing: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation**|Bohan Wang et.al.|[2611.09096](http://arxiv.org/abs/2611.09096)|null|
 |**2026-11-06**|**UniRGBA: Unifying RGB and Alpha in Pretrained Video Diffusion Models**|Lei Xu et.al.|[2611.09069](http://arxiv.org/abs/2611.09069)|null|
-|**2026-11-06**|**MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics**|Zheng Wang et.al.|[2611.08904](http://arxiv.org/abs/2611.08904)|null|
+|**2026-11-09**|**MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics**|Zheng Wang et.al.|[2611.08904](http://arxiv.org/abs/2611.08904)|null|
 |**2026-11-06**|**Decoding spatial and semantic information from large-scale visual cortical activity for natural-movie reconstruction**|Yukai Huang et.al.|[2611.08887](http://arxiv.org/abs/2611.08887)|null|
 |**2026-11-05**|**Precision - Preserving Subtensor Inference for a 22B Joint Audio - Video Generator under a Fixed GPU Working Set**|Hanyue Shen et.al.|[2611.08023](http://arxiv.org/abs/2611.08023)|null|
 |**2026-11-05**|**CoGenRec: A Unified Generative Framework for Complementary Vision Reconstruction**|Yapeng Meng et.al.|[2611.07665](http://arxiv.org/abs/2611.07665)|null|
