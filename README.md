@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
+|**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](http://arxiv.org/abs/2611.17324)|null|
+|**2026-11-12**|**PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models**|Yuxuan Chen et.al.|[2611.16748](http://arxiv.org/abs/2611.16748)|null|
+|**2026-11-12**|**VBot Exo2Ego Policy: Lightweight Data Collection and Exocentric-to-Egocentric Video Generation**|Tong Rao et.al.|[2611.16417](http://arxiv.org/abs/2611.16417)|null|
+|**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**| BWM Team et.al.|[2611.16221](http://arxiv.org/abs/2611.16221)|null|
+|**2026-11-11**|**VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender**|Yuzhe Chen et.al.|[2611.15789](http://arxiv.org/abs/2611.15789)|null|
+|**2026-11-11**|**Track4D: Representing Dense 3D Tracking for Video Diffusion Models**|Yushi Lan et.al.|[2611.15287](http://arxiv.org/abs/2611.15287)|null|
 |**2026-11-10**|**From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models**|Guoqiang Liang et.al.|[2611.14365](http://arxiv.org/abs/2611.14365)|null|
 |**2026-11-10**|**When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression**|Zifu Zhang et.al.|[2611.13620](http://arxiv.org/abs/2611.13620)|null|
 |**2026-11-09**|**PhysOPSD: Code as Privilege for Physically Plausible Video Generation**|Harold Haodong Chen et.al.|[2611.12411](http://arxiv.org/abs/2611.12411)|null|
