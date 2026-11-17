@@ -17,12 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**SciWorldBench: Do Video World Models Really Understand Scientific Experiments?**|Xue Yang et.al.|[2611.20899](http://arxiv.org/abs/2611.20899)|null|
+|**2026-11-15**|**PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation**|Jianwen Wu et.al.|[2611.20307](http://arxiv.org/abs/2611.20307)|null|
+|**2026-11-14**|**ResWAM: Learning What Changes, Not What Stays, for World-Action Models**|Chongyu Fan et.al.|[2611.19559](http://arxiv.org/abs/2611.19559)|null|
+|**2026-11-13**|**Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation**|Yifan Wang et.al.|[2611.18866](http://arxiv.org/abs/2611.18866)|null|
 |**2026-11-13**|**JVT: Just Video Transformer makes pixel-space video diffusion simple**|Jianjun Zhou et.al.|[2611.18549](http://arxiv.org/abs/2611.18549)|null|
 |**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|null|
 |**2026-11-13**|**CHARMING: Parallel Edge AI Acceleration Across Tensor Processing and In-Memory Computation**|Md Omar Faruque et.al.|[2611.17785](http://arxiv.org/abs/2611.17785)|null|
 |**2026-11-12**|**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space**|Yanke Song et.al.|[2611.17336](http://arxiv.org/abs/2611.17336)|null|
 |**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](http://arxiv.org/abs/2611.17324)|null|
-|**2026-11-12**|**PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models**|Yuxuan Chen et.al.|[2611.16748](http://arxiv.org/abs/2611.16748)|null|
+|**2026-11-15**|**PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models**|Yuxuan Chen et.al.|[2611.16748](http://arxiv.org/abs/2611.16748)|null|
 |**2026-11-12**|**VBot Exo2Ego Policy: Lightweight Data Collection and Exocentric-to-Egocentric Video Generation**|Tong Rao et.al.|[2611.16417](http://arxiv.org/abs/2611.16417)|null|
 |**2026-11-12**|**BWM-Forge: Agentic World Programming for Embodied Intelligence**| BWM Team et.al.|[2611.16221](http://arxiv.org/abs/2611.16221)|null|
 |**2026-11-11**|**VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender**|Yuzhe Chen et.al.|[2611.15789](http://arxiv.org/abs/2611.15789)|null|
