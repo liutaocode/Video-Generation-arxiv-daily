@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**FastFrames: Video Generation at Interactive Latency**|Gene Chou et.al.|[2611.23226](http://arxiv.org/abs/2611.23226)|null|
+|**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
+|**2026-11-17**|**Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models**|Longtao Jiang et.al.|[2611.22733](http://arxiv.org/abs/2611.22733)|null|
+|**2026-11-17**|**BATMoS: Budget-Aware Guidance Allocation for Efficient Video Diffusion**|Zhixu Du et.al.|[2611.22028](http://arxiv.org/abs/2611.22028)|null|
+|**2026-11-16**|**DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects**|Yiming Dou et.al.|[2611.22001](http://arxiv.org/abs/2611.22001)|null|
 |**2026-11-16**|**SciWorldBench: Do Video World Models Really Understand Scientific Experiments?**|Xue Yang et.al.|[2611.20899](http://arxiv.org/abs/2611.20899)|null|
 |**2026-11-15**|**PoCoAttn: Position-Content Collaborative Sparse Attention for Fast and High-Fidelity Video Generation**|Jianwen Wu et.al.|[2611.20307](http://arxiv.org/abs/2611.20307)|null|
 |**2026-11-14**|**ResWAM: Learning What Changes, Not What Stays, for World-Action Models**|Chongyu Fan et.al.|[2611.19559](http://arxiv.org/abs/2611.19559)|null|
