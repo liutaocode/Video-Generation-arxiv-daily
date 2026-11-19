@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|null|
+|**2026-11-18**|**PhysResponse: Probing the Physics of Video Generation with Controlled Interventions**|Yuhan Li et.al.|[2611.24419](http://arxiv.org/abs/2611.24419)|null|
+|**2026-11-18**|**Spark-H3: Adaptive Block Sparse Attention for Video Diffusion Models**|Zecheng Tang et.al.|[2611.24256](http://arxiv.org/abs/2611.24256)|null|
+|**2026-11-18**|**EVF-Bench: A Comprehensive Benchmark for E-commerce Visual Effects in Video Generation**|Run Ling et.al.|[2611.24116](http://arxiv.org/abs/2611.24116)|null|
+|**2026-11-18**|**WaveView: The Novel View Is in the Noise**|Kaiwen Wang et.al.|[2611.23994](http://arxiv.org/abs/2611.23994)|null|
+|**2026-11-18**|**ZERITH V2.5: From Predictive Power to Policy Learnability**|Chenxi Han et.al.|[2611.23746](http://arxiv.org/abs/2611.23746)|null|
 |**2026-11-17**|**FastFrames: Video Generation at Interactive Latency**|Gene Chou et.al.|[2611.23226](http://arxiv.org/abs/2611.23226)|null|
 |**2026-11-17**|**When a Larger Guidance Scale Repairs Text-to-Video Failures and When It Does Not**|Taewon Kang et.al.|[2611.23025](http://arxiv.org/abs/2611.23025)|null|
 |**2026-11-17**|**Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models**|Longtao Jiang et.al.|[2611.22733](http://arxiv.org/abs/2611.22733)|null|
