@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**On-Policy Codec Distillation for Efficient All-in-One Video Generation**|Boyang Wang et.al.|[2611.31184](http://arxiv.org/abs/2611.31184)|null|
+|**2026-11-23**|**Diffutoon-2: Toon Shading with Video Diffusion Models**|Yuze Sun et.al.|[2611.30945](http://arxiv.org/abs/2611.30945)|null|
+|**2026-11-23**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
+|**2026-11-23**|**SceneCast: Learning Indoor Scene Synthesis from Curated Synthetic Videos with LLM Reward**|Ziyang Zong et.al.|[2611.30345](http://arxiv.org/abs/2611.30345)|null|
+|**2026-11-23**|**Draft Forcing: Target-guided Speculative Drafting and Learned Verifier for Autoregressive Video Generation**|Chenkai Xu et.al.|[2611.30328](http://arxiv.org/abs/2611.30328)|null|
+|**2026-11-21**|**SANA-Robot: Efficient World Action Model with Hybrid Memory**|Yuyang Zhao et.al.|[2611.28943](http://arxiv.org/abs/2611.28943)|null|
+|**2026-11-21**|**Frozen by the Mean: Early Temporal Guidance Unfreezes Motion in Video Diffusion Models**|Xuanhua Yin et.al.|[2611.28762](http://arxiv.org/abs/2611.28762)|null|
+|**2026-11-21**|**PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning**|Wonsik Shin et.al.|[2611.28756](http://arxiv.org/abs/2611.28756)|null|
+|**2026-11-21**|**Dual-Stream Event-to-Video Reconstruction**|Lei Sun et.al.|[2611.28656](http://arxiv.org/abs/2611.28656)|null|
+|**2026-11-21**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**GameScrub: Learning HUD Removal from Real Gameplay with Recovered Targets**|Mohammad Areeb Qazi et.al.|[2611.27547](http://arxiv.org/abs/2611.27547)|null|
 |**2026-11-20**|**Ego2Ego: Generative Visual Perspective Taking Across Collaborators**|Chuhan Jiao et.al.|[2611.27459](http://arxiv.org/abs/2611.27459)|null|
 |**2026-11-20**|**ViewDreamer: A Robot World Model beyond Fixed Camera Setups**|Ye Mao et.al.|[2611.26981](http://arxiv.org/abs/2611.26981)|null|
@@ -24,7 +34,7 @@
 |**2026-11-19**|**AURA: AUdio-dRiven streaming Avatar**|Nathaniel Cohen et.al.|[2611.26540](http://arxiv.org/abs/2611.26540)|null|
 |**2026-11-19**|**ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step**|Kaiwen Zhang et.al.|[2611.26389](http://arxiv.org/abs/2611.26389)|null|
 |**2026-11-19**|**MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation**|Wei Li et.al.|[2611.26164](http://arxiv.org/abs/2611.26164)|null|
-|**2026-11-18**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|null|
+|**2026-11-23**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|null|
 |**2026-11-18**|**PhysResponse: Probing the Physics of Video Generation with Controlled Interventions**|Yuhan Li et.al.|[2611.24419](http://arxiv.org/abs/2611.24419)|null|
 |**2026-11-18**|**Spark-H3: Adaptive Block Sparse Attention for Video Diffusion Models**|Zecheng Tang et.al.|[2611.24256](http://arxiv.org/abs/2611.24256)|null|
 |**2026-11-18**|**EVF-Bench: A Comprehensive Benchmark for E-commerce Visual Effects in Video Generation**|Run Ling et.al.|[2611.24116](http://arxiv.org/abs/2611.24116)|null|
