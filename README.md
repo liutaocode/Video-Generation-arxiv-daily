@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,16 +17,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
+|**2026-11-24**|**RePix-VFI: Re-rendering Observed Pixels for Video Frame Interpolation with Generative Priors from One-Step Diffusion**|Dayeon Kim et.al.|[2611.33016](http://arxiv.org/abs/2611.33016)|null|
+|**2026-11-24**|**PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation**|Meilong Xu et.al.|[2611.32821](http://arxiv.org/abs/2611.32821)|null|
+|**2026-11-24**|**OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution**|Zhilu Zhang et.al.|[2611.32473](http://arxiv.org/abs/2611.32473)|null|
+|**2026-11-24**|**Get the Next Moment Right: Short-Term Event Planning for Physically Plausible Video Generation**|Hao Liu et.al.|[2611.32337](http://arxiv.org/abs/2611.32337)|null|
+|**2026-11-24**|**SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding**|Qirui Zhong et.al.|[2611.32054](http://arxiv.org/abs/2611.32054)|null|
+|**2026-11-24**|**DeCo-Attention: Decompose to Compensate for Low-Precision Attention**|Yuhang He et.al.|[2611.32035](http://arxiv.org/abs/2611.32035)|null|
+|**2026-11-24**|**DraftKV: Protecting Persistent Worlds through Hierarchical Streaming Retrieval**|Xiaoling Zhou et.al.|[2611.31944](http://arxiv.org/abs/2611.31944)|null|
+|**2026-11-23**|**GeoMVGen: Joint Appearance-Geometry Modeling for Multi-View Video Generation in Robotic Manipulation**|Qiaoqiao Jia et.al.|[2611.31689](http://arxiv.org/abs/2611.31689)|null|
 |**2026-11-23**|**On-Policy Codec Distillation for Efficient All-in-One Video Generation**|Boyang Wang et.al.|[2611.31184](http://arxiv.org/abs/2611.31184)|null|
 |**2026-11-23**|**Diffutoon-2: Toon Shading with Video Diffusion Models**|Yuze Sun et.al.|[2611.30945](http://arxiv.org/abs/2611.30945)|null|
-|**2026-11-23**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
+|**2026-11-24**|**ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild**|Yuxi Wang et.al.|[2611.30597](http://arxiv.org/abs/2611.30597)|null|
 |**2026-11-23**|**SceneCast: Learning Indoor Scene Synthesis from Curated Synthetic Videos with LLM Reward**|Ziyang Zong et.al.|[2611.30345](http://arxiv.org/abs/2611.30345)|null|
 |**2026-11-23**|**Draft Forcing: Target-guided Speculative Drafting and Learned Verifier for Autoregressive Video Generation**|Chenkai Xu et.al.|[2611.30328](http://arxiv.org/abs/2611.30328)|null|
 |**2026-11-21**|**SANA-Robot: Efficient World Action Model with Hybrid Memory**|Yuyang Zhao et.al.|[2611.28943](http://arxiv.org/abs/2611.28943)|null|
 |**2026-11-21**|**Frozen by the Mean: Early Temporal Guidance Unfreezes Motion in Video Diffusion Models**|Xuanhua Yin et.al.|[2611.28762](http://arxiv.org/abs/2611.28762)|null|
-|**2026-11-21**|**PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning**|Wonsik Shin et.al.|[2611.28756](http://arxiv.org/abs/2611.28756)|null|
+|**2026-11-24**|**PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning**|Wonsik Shin et.al.|[2611.28756](http://arxiv.org/abs/2611.28756)|null|
 |**2026-11-21**|**Dual-Stream Event-to-Video Reconstruction**|Lei Sun et.al.|[2611.28656](http://arxiv.org/abs/2611.28656)|null|
-|**2026-11-21**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
+|**2026-11-24**|**VG3R: Video Generation Model for Feed-Forward 3D Reconstruction**|Jingong Chen et.al.|[2611.28520](http://arxiv.org/abs/2611.28520)|null|
 |**2026-11-20**|**GameScrub: Learning HUD Removal from Real Gameplay with Recovered Targets**|Mohammad Areeb Qazi et.al.|[2611.27547](http://arxiv.org/abs/2611.27547)|null|
 |**2026-11-20**|**Ego2Ego: Generative Visual Perspective Taking Across Collaborators**|Chuhan Jiao et.al.|[2611.27459](http://arxiv.org/abs/2611.27459)|null|
 |**2026-11-20**|**ViewDreamer: A Robot World Model beyond Fixed Camera Setups**|Ye Mao et.al.|[2611.26981](http://arxiv.org/abs/2611.26981)|null|
@@ -1621,7 +1630,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
