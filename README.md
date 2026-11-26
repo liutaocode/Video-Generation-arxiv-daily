@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Welcome to Video Generation papers! 
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**AnyCam: Anything Can Represent Camera for Video Generation**|Weijie Lyu et.al.|[2611.34944](http://arxiv.org/abs/2611.34944)|null|
+|**2026-11-25**|**LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE**|Jiachen An et.al.|[2611.34912](http://arxiv.org/abs/2611.34912)|null|
+|**2026-11-25**|**Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models**|Dezhi Luo et.al.|[2611.34813](http://arxiv.org/abs/2611.34813)|null|
+|**2026-11-25**|**VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors**|Ying Jiang et.al.|[2611.33591](http://arxiv.org/abs/2611.33591)|null|
+|**2026-11-24**|**Playfulness as Feedback for Agentic Game Development**|Weijia Mao et.al.|[2611.33457](http://arxiv.org/abs/2611.33457)|null|
 |**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
 |**2026-11-24**|**RePix-VFI: Re-rendering Observed Pixels for Video Frame Interpolation with Generative Priors from One-Step Diffusion**|Dayeon Kim et.al.|[2611.33016](http://arxiv.org/abs/2611.33016)|null|
 |**2026-11-24**|**PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation**|Meilong Xu et.al.|[2611.32821](http://arxiv.org/abs/2611.32821)|null|
@@ -1630,7 +1635,7 @@
 |**2023-07-11**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2022-10-06**|**Imagen Video: High Definition Video Generation with Diffusion Models**|Jonathan Ho et.al.|[2210.02303](http://arxiv.org/abs/2210.02303)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
